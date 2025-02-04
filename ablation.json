@@ -1,0 +1,3618 @@
+{
+    "mp-560717": {
+        "bg": 2.3,
+        "type": "Oxides"
+    },
+    "mp-27966": {
+        "bg": 2.685,
+        "type": "Oxides"
+    },
+    "mp-19318": {
+        "bg": 3.26,
+        "type": "Oxides"
+    },
+    "mp-556225": {
+        "bg": 1.09,
+        "type": "Chalcogenides"
+    },
+    "mp-504466": {
+        "bg": 2.925,
+        "type": "Oxides"
+    },
+    "mp-505145": {
+        "bg": 2.04,
+        "type": "Oxides"
+    },
+    "mp-9770": {
+        "bg": 1.45,
+        "type": "Chalcogenides"
+    },
+    "mp-15645": {
+        "bg": 1.315,
+        "type": "Chalcogenides"
+    },
+    "mp-35909": {
+        "bg": 1.77,
+        "type": "Halides"
+    },
+    "mp-29678": {
+        "bg": 0.98,
+        "type": "Chalcogenides"
+    },
+    "mp-23231": {
+        "bg": 2.6,
+        "type": "Halides"
+    },
+    "mp-22922": {
+        "bg": 3.25,
+        "type": "Halides"
+    },
+    "mp-580941": {
+        "bg": 2.775,
+        "type": "Halides"
+    },
+    "mp-2247": {
+        "bg": 3.67,
+        "type": "Nitrides"
+    },
+    "mp-552185": {
+        "bg": 1.86,
+        "type": "Oxides"
+    },
+    "mp-1195243": {
+        "bg": 1.38,
+        "type": "Phosphides"
+    },
+    "mp-11674": {
+        "bg": 3.1,
+        "type": "Chalcogenides"
+    },
+    "mp-29502": {
+        "bg": 2.5,
+        "type": "Chalcogenides"
+    },
+    "mp-2172": {
+        "bg": 2.2,
+        "type": "Arsenides"
+    },
+    "mp-1178577": {
+        "bg": 2.44,
+        "type": "Oxides"
+    },
+    "mp-1550": {
+        "bg": 2.48,
+        "type": "Phosphides"
+    },
+    "mp-2624": {
+        "bg": 1.62,
+        "type": "Antimonides"
+    },
+    "mp-947": {
+        "bg": 1.8,
+        "type": "Chalcogenides"
+    },
+    "mp-1199451": {
+        "bg": 3.75,
+        "type": "Chalcogenides"
+    },
+    "mp-1238815": {
+        "bg": 1.795,
+        "type": "Carbides"
+    },
+    "mp-1346": {
+        "bg": 2.0,
+        "type": "Oxides"
+    },
+    "mp-28395": {
+        "bg": 3.3,
+        "type": "Phosphides"
+    },
+    "mp-10044": {
+        "bg": 1.39,
+        "type": "Arsenides"
+    },
+    "mp-1229044": {
+        "bg": 2.56,
+        "type": "Chalcogenides"
+    },
+    "mp-1205803": {
+        "bg": 2.5,
+        "type": "Oxides"
+    },
+    "mp-1202506": {
+        "bg": 1.22,
+        "type": "Chalcogenides"
+    },
+    "mp-1203584": {
+        "bg": 2.14,
+        "type": "Chalcogenides"
+    },
+    "mp-1202829": {
+        "bg": 1.43,
+        "type": "Chalcogenides"
+    },
+    "mp-1194545": {
+        "bg": 2.4,
+        "type": "Chalcogenides"
+    },
+    "mp-20546": {
+        "bg": 2.94,
+        "type": "Oxides"
+    },
+    "mp-22841": {
+        "bg": 2.47,
+        "type": "Chalcogenides"
+    },
+    "mp-573635": {
+        "bg": 2.295,
+        "type": "Chalcogenides"
+    },
+    "mp-1214937": {
+        "bg": 3.35,
+        "type": "Oxides"
+    },
+    "mp-6270": {
+        "bg": 2.42,
+        "type": "Oxides"
+    },
+    "mp-6798": {
+        "bg": 2.45,
+        "type": "Oxides"
+    },
+    "mp-1228486": {
+        "bg": 2.12,
+        "type": "Chalcogenides"
+    },
+    "mp-1205823": {
+        "bg": 4.19,
+        "type": "Oxides"
+    },
+    "mp-1214622": {
+        "bg": 3.02,
+        "type": "Oxides"
+    },
+    "mp-1192595": {
+        "bg": 1.735,
+        "type": "Chalcogenides"
+    },
+    "mp-31307": {
+        "bg": 1.8,
+        "type": "Chalcogenides"
+    },
+    "mp-19474": {
+        "bg": 3.22,
+        "type": "Oxides"
+    },
+    "mp-1096782": {
+        "bg": 1.0,
+        "type": "Oxides"
+    },
+    "mp-12385": {
+        "bg": 3.5,
+        "type": "Oxides"
+    },
+    "mp-1190528": {
+        "bg": 2.6,
+        "type": "Chalcogenides"
+    },
+    "mp-1190380": {
+        "bg": 2.0,
+        "type": "Chalcogenides"
+    },
+    "mp-1192376": {
+        "bg": 0.57,
+        "type": "Arsenides"
+    },
+    "mp-1195592": {
+        "bg": 0.78,
+        "type": "Arsenides"
+    },
+    "mp-1200759": {
+        "bg": 3.0,
+        "type": "Chalcogenides"
+    },
+    "mp-1228150": {
+        "bg": 4.1,
+        "type": "Oxides"
+    },
+    "mp-6325": {
+        "bg": 4.28,
+        "type": "Oxides"
+    },
+    "mp-1195033": {
+        "bg": 1.3,
+        "type": "Chalcogenides"
+    },
+    "mp-1195068": {
+        "bg": 1.6,
+        "type": "Chalcogenides"
+    },
+    "mp-1195344": {
+        "bg": 2.16,
+        "type": "Chalcogenides"
+    },
+    "mp-1197353": {
+        "bg": 2.65,
+        "type": "Chalcogenides"
+    },
+    "mp-1105201": {
+        "bg": 2.13,
+        "type": "Chalcogenides"
+    },
+    "mp-3563": {
+        "bg": 3.81,
+        "type": "Oxides"
+    },
+    "mp-504554": {
+        "bg": 4.0,
+        "type": "Oxides"
+    },
+    "mp-1195594": {
+        "bg": 2.31,
+        "type": "Chalcogenides"
+    },
+    "mp-1228557": {
+        "bg": 3.4,
+        "type": "Oxides"
+    },
+    "mp-7394": {
+        "bg": 1.7,
+        "type": "Chalcogenides"
+    },
+    "mp-8258": {
+        "bg": 3.9,
+        "type": "Chalcogenides"
+    },
+    "mp-1191234": {
+        "bg": 3.4,
+        "type": "Chalcogenides"
+    },
+    "mp-559186": {
+        "bg": 3.53,
+        "type": "Oxides"
+    },
+    "mp-1182285": {
+        "bg": 2.05,
+        "type": "Oxides"
+    },
+    "mp-10293": {
+        "bg": 2.2,
+        "type": "Carbides"
+    },
+    "mp-5504": {
+        "bg": 4.61,
+        "type": "Oxides"
+    },
+    "mp-12306": {
+        "bg": 2.3,
+        "type": "Chalcogenides"
+    },
+    "mp-3187": {
+        "bg": 2.585,
+        "type": "Oxides"
+    },
+    "mp-18571": {
+        "bg": 2.63,
+        "type": "Oxides"
+    },
+    "mp-17947": {
+        "bg": 2.465,
+        "type": "Chalcogenides"
+    },
+    "mp-554293": {
+        "bg": 2.0,
+        "type": "Oxides"
+    },
+    "mp-1048391": {
+        "bg": 2.18,
+        "type": "Oxides"
+    },
+    "mp-1227983": {
+        "bg": 3.23,
+        "type": "Chalcogenides"
+    },
+    "mp-1227970": {
+        "bg": 2.81,
+        "type": "Chalcogenides"
+    },
+    "mp-4309": {
+        "bg": 3.54,
+        "type": "Chalcogenides"
+    },
+    "mp-1191072": {
+        "bg": 2.73,
+        "type": "Chalcogenides"
+    },
+    "mp-998552": {
+        "bg": 3.0,
+        "type": "Oxides"
+    },
+    "mp-1105549": {
+        "bg": 1.69,
+        "type": "Chalcogenides"
+    },
+    "mp-28007": {
+        "bg": 1.93,
+        "type": "Chalcogenides"
+    },
+    "mp-1228245": {
+        "bg": 3.9,
+        "type": "Oxides"
+    },
+    "mp-556850": {
+        "bg": 1.0,
+        "type": "Halides"
+    },
+    "mp-19276": {
+        "bg": 3.35,
+        "type": "Oxides"
+    },
+    "mp-1342": {
+        "bg": 3.56,
+        "type": "Oxides"
+    },
+    "mp-28911": {
+        "bg": 3.44,
+        "type": "Hydrides"
+    },
+    "mp-1500": {
+        "bg": 3.67,
+        "type": "Chalcogenides"
+    },
+    "mp-1253": {
+        "bg": 1.843,
+        "type": "Chalcogenides"
+    },
+    "mp-1477": {
+        "bg": 1.3,
+        "type": "Silicides"
+    },
+    "mp-1202711": {
+        "bg": 2.335,
+        "type": "Chalcogenides"
+    },
+    "mp-1103397": {
+        "bg": 2.5,
+        "type": "Halides"
+    },
+    "mp-1178513": {
+        "bg": 3.1,
+        "type": "Oxides"
+    },
+    "mp-561103": {
+        "bg": 3.8,
+        "type": "Oxides"
+    },
+    "mp-1189614": {
+        "bg": 3.0,
+        "type": "Oxides"
+    },
+    "mp-3175": {
+        "bg": 3.55,
+        "type": "Oxides"
+    },
+    "mp-8291": {
+        "bg": 3.03,
+        "type": "Halides"
+    },
+    "mp-5777": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-19048": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-6089": {
+        "bg": 4.385,
+        "type": "Oxides"
+    },
+    "mp-4236": {
+        "bg": 2.2,
+        "type": "Oxides"
+    },
+    "mp-1019544": {
+        "bg": 4.8,
+        "type": "Oxides"
+    },
+    "mp-540771": {
+        "bg": 1.83,
+        "type": "Chalcogenides"
+    },
+    "mp-1569": {
+        "bg": 2.0,
+        "type": "Carbides"
+    },
+    "mp-18337": {
+        "bg": 3.8,
+        "type": "Nitrides"
+    },
+    "mp-422": {
+        "bg": 4.17,
+        "type": "Chalcogenides"
+    },
+    "mp-1541": {
+        "bg": 2.725,
+        "type": "Chalcogenides"
+    },
+    "mp-252": {
+        "bg": 2.895,
+        "type": "Chalcogenides"
+    },
+    "mp-691119": {
+        "bg": 2.91,
+        "type": "Oxides"
+    },
+    "mp-23388": {
+        "bg": 2.77,
+        "type": "Oxides"
+    },
+    "mp-23064": {
+        "bg": 2.66,
+        "type": "Oxides"
+    },
+    "mp-23262": {
+        "bg": 2.8,
+        "type": "Oxides"
+    },
+    "mp-22856": {
+        "bg": 1.3,
+        "type": "Chalcogenides"
+    },
+    "mp-1227335": {
+        "bg": 0.92,
+        "type": "Chalcogenides"
+    },
+    "mp-31406": {
+        "bg": 0.62,
+        "type": "Chalcogenides"
+    },
+    "mp-23480": {
+        "bg": 2.75,
+        "type": "Oxides"
+    },
+    "mp-1204598": {
+        "bg": 3.1,
+        "type": "Oxides"
+    },
+    "mp-23237": {
+        "bg": 3.94,
+        "type": "Halides"
+    },
+    "mp-22849": {
+        "bg": 1.8,
+        "type": "Halides"
+    },
+    "mp-23074": {
+        "bg": 3.93,
+        "type": "Halides"
+    },
+    "mp-1190564": {
+        "bg": 4.05,
+        "type": "Oxides"
+    },
+    "mp-1066781": {
+        "bg": 2.94,
+        "type": "Halides"
+    },
+    "mp-66": {
+        "bg": 3.15,
+        "type": "Carbides"
+    },
+    "mp-680422": {
+        "bg": 3.7,
+        "type": "Halides"
+    },
+    "mp-1214217": {
+        "bg": 1.615,
+        "type": "Halides"
+    },
+    "mp-1004532": {
+        "bg": 3.78,
+        "type": "Halides"
+    },
+    "mp-559432": {
+        "bg": 2.4,
+        "type": "Halides"
+    },
+    "mp-27962": {
+        "bg": 2.26,
+        "type": "Halides"
+    },
+    "mp-995198": {
+        "bg": 2.2,
+        "type": "Oxides"
+    },
+    "mp-2232": {
+        "bg": 2.29,
+        "type": "Chalcogenides"
+    },
+    "mp-1095180": {
+        "bg": 0.95,
+        "type": "Arsenides"
+    },
+    "mp-22113": {
+        "bg": 2.2,
+        "type": "Oxides"
+    },
+    "mp-18783": {
+        "bg": 2.42,
+        "type": "Oxides"
+    },
+    "mp-13979": {
+        "bg": 2.14,
+        "type": "Oxides"
+    },
+    "mp-19114": {
+        "bg": 2.32,
+        "type": "Oxides"
+    },
+    "mp-866503": {
+        "bg": 2.52,
+        "type": "Chalcogenides"
+    },
+    "mp-680380": {
+        "bg": 4.4,
+        "type": "Oxides"
+    },
+    "mp-27614": {
+        "bg": 2.67,
+        "type": "Oxides"
+    },
+    "mp-8818": {
+        "bg": 1.7,
+        "type": "Nitrides"
+    },
+    "mp-844": {
+        "bg": 1.55,
+        "type": "Nitrides"
+    },
+    "mp-757343": {
+        "bg": 2.76,
+        "type": "Oxides"
+    },
+    "mp-2963": {
+        "bg": 1.6,
+        "type": "Oxides"
+    },
+    "mp-1120739": {
+        "bg": 3.2,
+        "type": "Halides"
+    },
+    "mp-17761": {
+        "bg": 2.03,
+        "type": "Oxides"
+    },
+    "mp-23713": {
+        "bg": 3.0,
+        "type": "Hydrides"
+    },
+    "mp-22766": {
+        "bg": 3.785,
+        "type": "Oxides"
+    },
+    "mp-5795": {
+        "bg": 3.25,
+        "type": "Nitrides"
+    },
+    "mp-18844": {
+        "bg": 1.67,
+        "type": "Oxides"
+    },
+    "mp-19330": {
+        "bg": 3.1,
+        "type": "Oxides"
+    },
+    "mp-17101": {
+        "bg": 3.94,
+        "type": "Oxides"
+    },
+    "mp-634859": {
+        "bg": 3.08,
+        "type": "Oxides"
+    },
+    "mp-1672": {
+        "bg": 4.465,
+        "type": "Chalcogenides"
+    },
+    "mp-4056": {
+        "bg": 4.45,
+        "type": "Oxides"
+    },
+    "mp-1415": {
+        "bg": 2.47,
+        "type": "Chalcogenides"
+    },
+    "mp-4438": {
+        "bg": 4.3,
+        "type": "Oxides"
+    },
+    "mp-1519": {
+        "bg": 4.0,
+        "type": "Chalcogenides"
+    },
+    "mp-1403610": {
+        "bg": 3.095,
+        "type": "Oxides"
+    },
+    "mp-4019": {
+        "bg": 3.5,
+        "type": "Oxides"
+    },
+    "mp-27624": {
+        "bg": 2.56,
+        "type": "Oxides"
+    },
+    "mp-19426": {
+        "bg": 4.325,
+        "type": "Oxides"
+    },
+    "mp-556440": {
+        "bg": 4.3,
+        "type": "Oxides"
+    },
+    "mp-4571": {
+        "bg": 3.3,
+        "type": "Oxides"
+    },
+    "mp-7781": {
+        "bg": 1.9,
+        "type": "Chalcogenides"
+    },
+    "mp-680761": {
+        "bg": 4.95,
+        "type": "Oxides"
+    },
+    "mp-568722": {
+        "bg": 4.47,
+        "type": "Halides"
+    },
+    "mp-22881": {
+        "bg": 2.31,
+        "type": "Halides"
+    },
+    "mp-570437": {
+        "bg": 3.2,
+        "type": "Halides"
+    },
+    "mp-19803": {
+        "bg": 3.225,
+        "type": "Oxides"
+    },
+    "mp-19039": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-2310": {
+        "bg": 3.6,
+        "type": "Oxides"
+    },
+    "mp-913": {
+        "bg": 0.81,
+        "type": "Phosphides"
+    },
+    "mp-672": {
+        "bg": 2.4,
+        "type": "Chalcogenides"
+    },
+    "mp-1070": {
+        "bg": 1.74,
+        "type": "Chalcogenides"
+    },
+    "mp-754329": {
+        "bg": 3.0,
+        "type": "Oxides"
+    },
+    "mp-406": {
+        "bg": 1.5,
+        "type": "Chalcogenides"
+    },
+    "mp-19387": {
+        "bg": 3.7,
+        "type": "Oxides"
+    },
+    "mp-20194": {
+        "bg": 3.13,
+        "type": "Oxides"
+    },
+    "mp-1182128": {
+        "bg": 1.8,
+        "type": "Oxides"
+    },
+    "mp-19264": {
+        "bg": 1.92,
+        "type": "Oxides"
+    },
+    "mp-22408": {
+        "bg": 2.45,
+        "type": "Oxides"
+    },
+    "mp-849770": {
+        "bg": 1.1,
+        "type": "Oxides"
+    },
+    "mp-752613": {
+        "bg": 2.93,
+        "type": "Oxides"
+    },
+    "mp-755749": {
+        "bg": 3.08,
+        "type": "Oxides"
+    },
+    "mp-567504": {
+        "bg": 1.09,
+        "type": "Halides"
+    },
+    "mp-560338": {
+        "bg": 1.53,
+        "type": "Halides"
+    },
+    "mp-1213805": {
+        "bg": 1.05,
+        "type": "Halides"
+    },
+    "mp-1078250": {
+        "bg": 1.95,
+        "type": "Halides"
+    },
+    "mp-1078258": {
+        "bg": 2.44,
+        "type": "Halides"
+    },
+    "mp-1113264": {
+        "bg": 1.75,
+        "type": "Halides"
+    },
+    "mp-1019602": {
+        "bg": 4.13,
+        "type": "Oxides"
+    },
+    "mp-616458": {
+        "bg": 1.8,
+        "type": "Oxides"
+    },
+    "mp-567386": {
+        "bg": 2.48,
+        "type": "Chalcogenides"
+    },
+    "mp-540574": {
+        "bg": 2.56,
+        "type": "Halides"
+    },
+    "mp-1105419": {
+        "bg": 2.8,
+        "type": "Chalcogenides"
+    },
+    "mp-17905": {
+        "bg": 1.63,
+        "type": "Chalcogenides"
+    },
+    "mp-1203522": {
+        "bg": 3.59,
+        "type": "Halides"
+    },
+    "mp-28421": {
+        "bg": 2.34,
+        "type": "Halides"
+    },
+    "mp-1096926": {
+        "bg": 3.3,
+        "type": "Halides"
+    },
+    "mp-1112889": {
+        "bg": 0.99,
+        "type": "Halides"
+    },
+    "mp-1195571": {
+        "bg": 4.53,
+        "type": "Oxides"
+    },
+    "mp-1195667": {
+        "bg": 2.04,
+        "type": "Chalcogenides"
+    },
+    "mp-1195633": {
+        "bg": 1.92,
+        "type": "Chalcogenides"
+    },
+    "mp-1112659": {
+        "bg": 1.66,
+        "type": "Halides"
+    },
+    "mp-7988": {
+        "bg": 2.74,
+        "type": "Oxides"
+    },
+    "mp-2647124": {
+        "bg": 1.6,
+        "type": "Halides"
+    },
+    "mp-1205847": {
+        "bg": 1.6,
+        "type": "Halides"
+    },
+    "mp-29806": {
+        "bg": 1.4,
+        "type": "Halides"
+    },
+    "mp-31285": {
+        "bg": 1.5,
+        "type": "Chalcogenides"
+    },
+    "mp-540703": {
+        "bg": 4.035,
+        "type": "Chalcogenides"
+    },
+    "mp-641923": {
+        "bg": 2.9,
+        "type": "Halides"
+    },
+    "mp-608555": {
+        "bg": 2.14,
+        "type": "Halides"
+    },
+    "mp-573763": {
+        "bg": 3.5,
+        "type": "Chalcogenides"
+    },
+    "mp-27828": {
+        "bg": 2.54,
+        "type": "Halides"
+    },
+    "mp-1206662": {
+        "bg": 1.04,
+        "type": "Halides"
+    },
+    "mp-1112501": {
+        "bg": 1.37,
+        "type": "Halides"
+    },
+    "mp-1194749": {
+        "bg": 2.31,
+        "type": "Chalcogenides"
+    },
+    "mp-1194701": {
+        "bg": 2.12,
+        "type": "Chalcogenides"
+    },
+    "mp-505212": {
+        "bg": 2.35,
+        "type": "Oxides"
+    },
+    "mp-27544": {
+        "bg": 2.67,
+        "type": "Halides"
+    },
+    "mp-1104268": {
+        "bg": 2.215,
+        "type": "Halides"
+    },
+    "mp-669458": {
+        "bg": 2.0,
+        "type": "Halides"
+    },
+    "mp-1112980": {
+        "bg": 3.05,
+        "type": "Halides"
+    },
+    "mp-23436": {
+        "bg": 3.95,
+        "type": "Halides"
+    },
+    "mp-1238804": {
+        "bg": 3.44,
+        "type": "Halides"
+    },
+    "mp-680246": {
+        "bg": 2.35,
+        "type": "Chalcogenides"
+    },
+    "mp-1192526": {
+        "bg": 3.4,
+        "type": "Chalcogenides"
+    },
+    "mp-1192754": {
+        "bg": 2.3,
+        "type": "Chalcogenides"
+    },
+    "mp-10347": {
+        "bg": 3.8,
+        "type": "Oxides"
+    },
+    "mp-644203": {
+        "bg": 3.17,
+        "type": "Hydrides"
+    },
+    "mp-1191636": {
+        "bg": 2.58,
+        "type": "Oxides"
+    },
+    "mp-1195350": {
+        "bg": 1.81,
+        "type": "Chalcogenides"
+    },
+    "mp-23032": {
+        "bg": 2.6,
+        "type": "Halides"
+    },
+    "mp-7155": {
+        "bg": 2.595,
+        "type": "Chalcogenides"
+    },
+    "mp-5038": {
+        "bg": 3.305,
+        "type": "Chalcogenides"
+    },
+    "mp-562726": {
+        "bg": 2.78,
+        "type": "Chalcogenides"
+    },
+    "mp-1104469": {
+        "bg": 2.13,
+        "type": "Chalcogenides"
+    },
+    "mp-22988": {
+        "bg": 1.835,
+        "type": "Halides"
+    },
+    "mp-28377": {
+        "bg": 1.6,
+        "type": "Halides"
+    },
+    "mp-614603": {
+        "bg": 4.595000000000001,
+        "type": "Halides"
+    },
+    "mp-559459": {
+        "bg": 3.4,
+        "type": "Chalcogenides"
+    },
+    "mp-1200720": {
+        "bg": 2.81,
+        "type": "Chalcogenides"
+    },
+    "mp-1199743": {
+        "bg": 2.16,
+        "type": "Chalcogenides"
+    },
+    "mp-581024": {
+        "bg": 1.62,
+        "type": "Antimonides"
+    },
+    "mp-12491": {
+        "bg": 1.55,
+        "type": "Chalcogenides"
+    },
+    "mp-11124": {
+        "bg": 2.485,
+        "type": "Chalcogenides"
+    },
+    "mp-1202825": {
+        "bg": 1.86,
+        "type": "Chalcogenides"
+    },
+    "mp-1203743": {
+        "bg": 1.78,
+        "type": "Chalcogenides"
+    },
+    "mp-571020": {
+        "bg": 3.3,
+        "type": "Hydrides"
+    },
+    "mp-29751": {
+        "bg": 1.7,
+        "type": "Halides"
+    },
+    "mp-1195822": {
+        "bg": 1.15,
+        "type": "Chalcogenides"
+    },
+    "mp-22950": {
+        "bg": 4.8,
+        "type": "Halides"
+    },
+    "mp-1225967": {
+        "bg": 1.9,
+        "type": "Chalcogenides"
+    },
+    "mp-1238811": {
+        "bg": 3.1,
+        "type": "Halides"
+    },
+    "mp-567681": {
+        "bg": 2.3,
+        "type": "Halides"
+    },
+    "mp-1539667": {
+        "bg": 2.975,
+        "type": "Halides"
+    },
+    "mp-20282": {
+        "bg": 2.55,
+        "type": "Halides"
+    },
+    "mp-2646981": {
+        "bg": 1.91,
+        "type": "Halides"
+    },
+    "mp-540839": {
+        "bg": 1.73,
+        "type": "Halides"
+    },
+    "mp-510062": {
+        "bg": 2.46,
+        "type": "Chalcogenides"
+    },
+    "mp-7212": {
+        "bg": 2.374,
+        "type": "Chalcogenides"
+    },
+    "mp-505709": {
+        "bg": 2.53,
+        "type": "Chalcogenides"
+    },
+    "mp-1247749": {
+        "bg": 1.75,
+        "type": "Halides"
+    },
+    "mp-27394": {
+        "bg": 1.4125,
+        "type": "Halides"
+    },
+    "mp-27381": {
+        "bg": 1.3,
+        "type": "Halides"
+    },
+    "mp-1225854": {
+        "bg": 3.525,
+        "type": "Oxides"
+    },
+    "mp-638078": {
+        "bg": 2.12,
+        "type": "Chalcogenides"
+    },
+    "mp-8361": {
+        "bg": 3.94,
+        "type": "Chalcogenides"
+    },
+    "mp-1112176": {
+        "bg": 2.5,
+        "type": "Halides"
+    },
+    "mp-504651": {
+        "bg": 2.14,
+        "type": "Oxides"
+    },
+    "mp-11116": {
+        "bg": 2.56,
+        "type": "Chalcogenides"
+    },
+    "mp-11123": {
+        "bg": 2.54,
+        "type": "Chalcogenides"
+    },
+    "mp-574620": {
+        "bg": 2.35,
+        "type": "Chalcogenides"
+    },
+    "mp-361": {
+        "bg": 2.1,
+        "type": "Oxides"
+    },
+    "mp-1225993": {
+        "bg": 1.21,
+        "type": "Chalcogenides"
+    },
+    "mp-557373": {
+        "bg": 1.74,
+        "type": "Chalcogenides"
+    },
+    "mp-1025340": {
+        "bg": 1.64,
+        "type": "Chalcogenides"
+    },
+    "mp-607291": {
+        "bg": 1.42,
+        "type": "Chalcogenides"
+    },
+    "mp-3934": {
+        "bg": 2.3,
+        "type": "Chalcogenides"
+    },
+    "mp-559551": {
+        "bg": 0.915,
+        "type": "Chalcogenides"
+    },
+    "mp-1096940": {
+        "bg": 3.4,
+        "type": "Oxides"
+    },
+    "mp-12954": {
+        "bg": 3.61,
+        "type": "Chalcogenides"
+    },
+    "mp-983565": {
+        "bg": 2.315,
+        "type": "Chalcogenides"
+    },
+    "mp-22917": {
+        "bg": 1.9835,
+        "type": "Halides"
+    },
+    "mp-35308": {
+        "bg": 3.26,
+        "type": "Nitrides"
+    },
+    "mp-1225654": {
+        "bg": 3.306,
+        "type": "Halides"
+    },
+    "mp-570081": {
+        "bg": 3.0,
+        "type": "Halides"
+    },
+    "mp-27954": {
+        "bg": 4.565,
+        "type": "Nitrides"
+    },
+    "mp-927": {
+        "bg": 1.455,
+        "type": "Phosphides"
+    },
+    "mp-1078469": {
+        "bg": 1.67,
+        "type": "Nitrides"
+    },
+    "mp-1103679": {
+        "bg": 2.3,
+        "type": "Oxides"
+    },
+    "mp-2345": {
+        "bg": 4.8,
+        "type": "Oxides"
+    },
+    "mp-1270": {
+        "bg": 2.955,
+        "type": "Chalcogenides"
+    },
+    "mp-752425": {
+        "bg": 3.1,
+        "type": "Oxides"
+    },
+    "mp-1189242": {
+        "bg": 2.81,
+        "type": "Chalcogenides"
+    },
+    "mp-19381": {
+        "bg": 2.8,
+        "type": "Oxides"
+    },
+    "mp-18601": {
+        "bg": 1.61,
+        "type": "Oxides"
+    },
+    "mp-1188804": {
+        "bg": 3.73,
+        "type": "Oxides"
+    },
+    "mp-18784": {
+        "bg": 2.215,
+        "type": "Oxides"
+    },
+    "mp-209": {
+        "bg": 1.66,
+        "type": "Chalcogenides"
+    },
+    "mp-1983109": {
+        "bg": 3.26,
+        "type": "Oxides"
+    },
+    "mp-19935": {
+        "bg": 1.69,
+        "type": "Oxides"
+    },
+    "mp-19319": {
+        "bg": 1.6,
+        "type": "Oxides"
+    },
+    "mp-18960": {
+        "bg": 3.41,
+        "type": "Oxides"
+    },
+    "mp-565814": {
+        "bg": 2.2,
+        "type": "Oxides"
+    },
+    "mp-1271821": {
+        "bg": 1.82,
+        "type": "Oxides"
+    },
+    "mp-19097": {
+        "bg": 2.35,
+        "type": "Oxides"
+    },
+    "mp-23501": {
+        "bg": 2.2,
+        "type": "Oxides"
+    },
+    "mp-676241": {
+        "bg": 0.685,
+        "type": "Halides"
+    },
+    "mp-556911": {
+        "bg": 2.0,
+        "type": "Halides"
+    },
+    "mp-22398": {
+        "bg": 4.01,
+        "type": "Halides"
+    },
+    "mp-505526": {
+        "bg": 2.725,
+        "type": "Oxides"
+    },
+    "mp-1274279": {
+        "bg": 2.0,
+        "type": "Oxides"
+    },
+    "mp-758560": {
+        "bg": 1.23,
+        "type": "Halides"
+    },
+    "mp-570553": {
+        "bg": 0.88,
+        "type": "Phosphides"
+    },
+    "mp-753395": {
+        "bg": 2.445,
+        "type": "Oxides"
+    },
+    "mp-2931287": {
+        "bg": 3.14,
+        "type": "Chalcogenides"
+    },
+    "mp-1522": {
+        "bg": 0.95,
+        "type": "Chalcogenides"
+    },
+    "mp-1714": {
+        "bg": 0.88,
+        "type": "Silicides"
+    },
+    "mp-19421": {
+        "bg": 2.495,
+        "type": "Oxides"
+    },
+    "mp-886": {
+        "bg": 4.8,
+        "type": "Oxides"
+    },
+    "mp-539": {
+        "bg": 2.99,
+        "type": "Chalcogenides"
+    },
+    "mp-1340": {
+        "bg": 2.29,
+        "type": "Chalcogenides"
+    },
+    "mp-38970": {
+        "bg": 1.65,
+        "type": "Chalcogenides"
+    },
+    "mp-804": {
+        "bg": 3.4,
+        "type": "Nitrides"
+    },
+    "mp-2490": {
+        "bg": 2.26,
+        "type": "Phosphides"
+    },
+    "mp-2507": {
+        "bg": 2.5,
+        "type": "Chalcogenides"
+    },
+    "mp-568263": {
+        "bg": 2.0,
+        "type": "Chalcogenides"
+    },
+    "mp-542812": {
+        "bg": 1.685,
+        "type": "Chalcogenides"
+    },
+    "mp-778228": {
+        "bg": 3.3,
+        "type": "Oxides"
+    },
+    "mp-669509": {
+        "bg": 2.63,
+        "type": "Chalcogenides"
+    },
+    "mp-686465": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-757233": {
+        "bg": 2.68,
+        "type": "Oxides"
+    },
+    "mp-18331": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-510490": {
+        "bg": 2.1,
+        "type": "Chalcogenides"
+    },
+    "mp-4875": {
+        "bg": 0.8,
+        "type": "Oxides"
+    },
+    "mp-22024": {
+        "bg": 3.1,
+        "type": "Oxides"
+    },
+    "mp-672289": {
+        "bg": 2.595,
+        "type": "Nitrides"
+    },
+    "mp-9548": {
+        "bg": 1.615,
+        "type": "Arsenides"
+    },
+    "mp-1002164": {
+        "bg": 2.09,
+        "type": "Carbides"
+    },
+    "mp-1078667": {
+        "bg": 1.51,
+        "type": "Hydrides"
+    },
+    "mp-27922": {
+        "bg": 1.5,
+        "type": "Halides"
+    },
+    "mp-2242": {
+        "bg": 1.69,
+        "type": "Chalcogenides"
+    },
+    "mp-572892": {
+        "bg": 3.71,
+        "type": "Chalcogenides"
+    },
+    "mp-700": {
+        "bg": 1.1565,
+        "type": "Chalcogenides"
+    },
+    "mp-540625": {
+        "bg": 2.03,
+        "type": "Chalcogenides"
+    },
+    "mp-510458": {
+        "bg": 0.68,
+        "type": "Nitrides"
+    },
+    "mp-1190216": {
+        "bg": 3.68,
+        "type": "Oxides"
+    },
+    "mp-995234": {
+        "bg": 3.26,
+        "type": "Oxides"
+    },
+    "mp-634101": {
+        "bg": 2.565,
+        "type": "Halides"
+    },
+    "mp-1224772": {
+        "bg": 3.75,
+        "type": "Oxides"
+    },
+    "mp-776470": {
+        "bg": 0.815,
+        "type": "Nitrides"
+    },
+    "mp-1102429": {
+        "bg": 1.335,
+        "type": "Nitrides"
+    },
+    "mp-985829": {
+        "bg": 1.93,
+        "type": "Chalcogenides"
+    },
+    "mp-9922": {
+        "bg": 2.2,
+        "type": "Chalcogenides"
+    },
+    "mp-985831": {
+        "bg": 1.13,
+        "type": "Chalcogenides"
+    },
+    "mp-23292": {
+        "bg": 3.59,
+        "type": "Halides"
+    },
+    "mp-1224070": {
+        "bg": 3.4,
+        "type": "Halides"
+    },
+    "mp-22855": {
+        "bg": 4.45,
+        "type": "Halides"
+    },
+    "mp-23192": {
+        "bg": 2.15,
+        "type": "Halides"
+    },
+    "mp-1224": {
+        "bg": 2.2,
+        "type": "Oxides"
+    },
+    "mp-9252": {
+        "bg": 0.7,
+        "type": "Chalcogenides"
+    },
+    "mp-812": {
+        "bg": 2.84,
+        "type": "Oxides"
+    },
+    "mp-23153": {
+        "bg": 1.6,
+        "type": "Halides"
+    },
+    "mp-5280": {
+        "bg": 4.43,
+        "type": "Oxides"
+    },
+    "mp-22598": {
+        "bg": 3.3,
+        "type": "Oxides"
+    },
+    "mp-22216": {
+        "bg": 2.12,
+        "type": "Chalcogenides"
+    },
+    "mp-612740": {
+        "bg": 1.3250000000000002,
+        "type": "Chalcogenides"
+    },
+    "mp-669311": {
+        "bg": 1.75,
+        "type": "Chalcogenides"
+    },
+    "mp-1223642": {
+        "bg": 1.84,
+        "type": "Phosphides"
+    },
+    "mp-966800": {
+        "bg": 1.35,
+        "type": "Phosphides"
+    },
+    "mp-20790": {
+        "bg": 3.12,
+        "type": "Chalcogenides"
+    },
+    "mp-19795": {
+        "bg": 1.995,
+        "type": "Chalcogenides"
+    },
+    "mp-22691": {
+        "bg": 1.39,
+        "type": "Chalcogenides"
+    },
+    "mp-2833": {
+        "bg": 0.9,
+        "type": "Chalcogenides"
+    },
+    "mp-1224229": {
+        "bg": 3.1500000000000004,
+        "type": "Chalcogenides"
+    },
+    "mp-570887": {
+        "bg": 1.8,
+        "type": "Chalcogenides"
+    },
+    "mp-1104293": {
+        "bg": 1.8,
+        "type": "Halides"
+    },
+    "mp-28800": {
+        "bg": 0.53,
+        "type": "Chalcogenides"
+    },
+    "mp-3963": {
+        "bg": 4.9,
+        "type": "Oxides"
+    },
+    "mp-571637": {
+        "bg": 1.93,
+        "type": "Chalcogenides"
+    },
+    "mp-18101": {
+        "bg": 2.75,
+        "type": "Chalcogenides"
+    },
+    "mp-1198419": {
+        "bg": 2.43,
+        "type": "Chalcogenides"
+    },
+    "mp-18531": {
+        "bg": 2.26,
+        "type": "Chalcogenides"
+    },
+    "mp-27742": {
+        "bg": 3.36,
+        "type": "Oxides"
+    },
+    "mp-1195550": {
+        "bg": 2.46,
+        "type": "Oxides"
+    },
+    "mp-1172870": {
+        "bg": 2.43,
+        "type": "Chalcogenides"
+    },
+    "mp-6548": {
+        "bg": 3.05,
+        "type": "Oxides"
+    },
+    "mp-23956": {
+        "bg": 3.46,
+        "type": "Hydrides"
+    },
+    "mp-637680": {
+        "bg": 1.9,
+        "type": "Oxides"
+    },
+    "mp-1223975": {
+        "bg": 3.25,
+        "type": "Oxides"
+    },
+    "mp-505138": {
+        "bg": 1.48,
+        "type": "Chalcogenides"
+    },
+    "mp-1022": {
+        "bg": 2.1,
+        "type": "Chalcogenides"
+    },
+    "mp-8426": {
+        "bg": 2.035,
+        "type": "Chalcogenides"
+    },
+    "mp-8624": {
+        "bg": 2.75,
+        "type": "Oxides"
+    },
+    "mp-1024073": {
+        "bg": 3.325,
+        "type": "Oxides"
+    },
+    "mp-574040": {
+        "bg": 1.4049999999999998,
+        "type": "Halides"
+    },
+    "mp-1195471": {
+        "bg": 4.15,
+        "type": "Oxides"
+    },
+    "mp-1747": {
+        "bg": 1.9,
+        "type": "Chalcogenides"
+    },
+    "mp-1194282": {
+        "bg": 3.4,
+        "type": "Oxides"
+    },
+    "mp-8065": {
+        "bg": 3.45,
+        "type": "Oxides"
+    },
+    "mp-12535": {
+        "bg": 3.0,
+        "type": "Chalcogenides"
+    },
+    "mp-18449": {
+        "bg": 4.18,
+        "type": "Oxides"
+    },
+    "mp-1120792": {
+        "bg": 2.1,
+        "type": "Halides"
+    },
+    "mp-559251": {
+        "bg": 1.35,
+        "type": "Chalcogenides"
+    },
+    "mp-10159": {
+        "bg": 1.4,
+        "type": "Antimonides"
+    },
+    "mp-556627": {
+        "bg": 0.8,
+        "type": "Chalcogenides"
+    },
+    "mp-568847": {
+        "bg": 0.64,
+        "type": "Chalcogenides"
+    },
+    "mp-1194610": {
+        "bg": 4.405,
+        "type": "Oxides"
+    },
+    "mp-15148": {
+        "bg": 1.96,
+        "type": "Chalcogenides"
+    },
+    "mp-560692": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-18664": {
+        "bg": 2.385,
+        "type": "Chalcogenides"
+    },
+    "mp-6296": {
+        "bg": 2.33,
+        "type": "Chalcogenides"
+    },
+    "mp-17698": {
+        "bg": 2.51,
+        "type": "Chalcogenides"
+    },
+    "mp-12532": {
+        "bg": 3.02,
+        "type": "Chalcogenides"
+    },
+    "mp-6812": {
+        "bg": 4.35,
+        "type": "Oxides"
+    },
+    "mp-1223584": {
+        "bg": 1.21,
+        "type": "Chalcogenides"
+    },
+    "mp-1223463": {
+        "bg": 3.26,
+        "type": "Oxides"
+    },
+    "mp-557195": {
+        "bg": 3.44,
+        "type": "Oxides"
+    },
+    "mp-2423265": {
+        "bg": 1.0,
+        "type": "Oxides"
+    },
+    "mp-1211763": {
+        "bg": 3.04,
+        "type": "Oxides"
+    },
+    "mp-568379": {
+        "bg": 1.8,
+        "type": "Chalcogenides"
+    },
+    "mp-540962": {
+        "bg": 4.905,
+        "type": "Oxides"
+    },
+    "mp-1191101": {
+        "bg": 3.742,
+        "type": "Oxides"
+    },
+    "mp-23737": {
+        "bg": 2.59,
+        "type": "Hydrides"
+    },
+    "mp-1205353": {
+        "bg": 3.04,
+        "type": "Halides"
+    },
+    "mp-19046": {
+        "bg": 1.04,
+        "type": "Oxides"
+    },
+    "mp-8755": {
+        "bg": 2.12,
+        "type": "Chalcogenides"
+    },
+    "mp-1195772": {
+        "bg": 1.15,
+        "type": "Chalcogenides"
+    },
+    "mp-27998": {
+        "bg": 4.1,
+        "type": "Oxides"
+    },
+    "mp-7375": {
+        "bg": 3.24,
+        "type": "Oxides"
+    },
+    "mp-18625": {
+        "bg": 2.16,
+        "type": "Chalcogenides"
+    },
+    "mp-31508": {
+        "bg": 3.46,
+        "type": "Halides"
+    },
+    "mp-607267": {
+        "bg": 4.0,
+        "type": "Halides"
+    },
+    "mp-11604": {
+        "bg": 2.17,
+        "type": "Chalcogenides"
+    },
+    "mp-3614": {
+        "bg": 3.65,
+        "type": "Oxides"
+    },
+    "mp-27716": {
+        "bg": 1.46,
+        "type": "Oxides"
+    },
+    "mp-5878": {
+        "bg": 4.3805,
+        "type": "Halides"
+    },
+    "mp-638261": {
+        "bg": 4.873,
+        "type": "Oxides"
+    },
+    "mp-6457": {
+        "bg": 4.66,
+        "type": "Oxides"
+    },
+    "mp-1223253": {
+        "bg": 1.133,
+        "type": "Oxides"
+    },
+    "mp-1105399": {
+        "bg": 0.55,
+        "type": "Oxides"
+    },
+    "mp-560340": {
+        "bg": 1.342,
+        "type": "Oxides"
+    },
+    "mp-7475": {
+        "bg": 2.59,
+        "type": "Chalcogenides"
+    },
+    "mp-32798": {
+        "bg": 1.97,
+        "type": "Chalcogenides"
+    },
+    "mp-12192": {
+        "bg": 3.4,
+        "type": "Oxides"
+    },
+    "mp-1198687": {
+        "bg": 2.01,
+        "type": "Chalcogenides"
+    },
+    "mp-510011": {
+        "bg": 2.0,
+        "type": "Chalcogenides"
+    },
+    "mp-1196490": {
+        "bg": 2.27,
+        "type": "Chalcogenides"
+    },
+    "mp-1080060": {
+        "bg": 5.0,
+        "type": "Oxides"
+    },
+    "mp-8216": {
+        "bg": 1.67,
+        "type": "Oxides"
+    },
+    "mp-1211317": {
+        "bg": 4.1,
+        "type": "Oxides"
+    },
+    "mp-28572": {
+        "bg": 1.0,
+        "type": "Halides"
+    },
+    "mp-23263": {
+        "bg": 3.75,
+        "type": "Halides"
+    },
+    "mp-1288145": {
+        "bg": 2.1,
+        "type": "Oxides"
+    },
+    "mp-19281": {
+        "bg": 1.33,
+        "type": "Oxides"
+    },
+    "mp-1078634": {
+        "bg": 2.1,
+        "type": "Oxides"
+    },
+    "mp-1212633": {
+        "bg": 3.3,
+        "type": "Oxides"
+    },
+    "mp-5837": {
+        "bg": 4.08,
+        "type": "Oxides"
+    },
+    "mp-4816": {
+        "bg": 2.5,
+        "type": "Chalcogenides"
+    },
+    "mp-697905": {
+        "bg": 0.821,
+        "type": "Hydrides"
+    },
+    "mp-1180700": {
+        "bg": 1.7,
+        "type": "Oxides"
+    },
+    "mp-567290": {
+        "bg": 0.6,
+        "type": "Nitrides"
+    },
+    "mp-3962": {
+        "bg": 4.96,
+        "type": "Oxides"
+    },
+    "mp-14485": {
+        "bg": 4.14,
+        "type": "Oxides"
+    },
+    "mp-19162": {
+        "bg": 2.69,
+        "type": "Oxides"
+    },
+    "mp-989524": {
+        "bg": 1.5405,
+        "type": "Nitrides"
+    },
+    "mp-1200447": {
+        "bg": 1.9,
+        "type": "Chalcogenides"
+    },
+    "mp-7611": {
+        "bg": 2.4,
+        "type": "Oxides"
+    },
+    "mp-1189383": {
+        "bg": 3.1,
+        "type": "Chalcogenides"
+    },
+    "mp-1188784": {
+        "bg": 3.26,
+        "type": "Chalcogenides"
+    },
+    "mp-554782": {
+        "bg": 3.65,
+        "type": "Chalcogenides"
+    },
+    "mp-2724101": {
+        "bg": 0.5,
+        "type": "Oxides"
+    },
+    "mp-1191476": {
+        "bg": 3.45,
+        "type": "Chalcogenides"
+    },
+    "mp-1191200": {
+        "bg": 2.3,
+        "type": "Chalcogenides"
+    },
+    "mp-18988": {
+        "bg": 1.89,
+        "type": "Oxides"
+    },
+    "mp-1960": {
+        "bg": 3.24,
+        "type": "Oxides"
+    },
+    "mp-841": {
+        "bg": 4.5,
+        "type": "Oxides"
+    },
+    "mp-531826": {
+        "bg": 2.3,
+        "type": "Oxides"
+    },
+    "mp-1153": {
+        "bg": 3.3595,
+        "type": "Chalcogenides"
+    },
+    "mp-1190364": {
+        "bg": 2.14,
+        "type": "Chalcogenides"
+    },
+    "mp-1095291": {
+        "bg": 1.95,
+        "type": "Chalcogenides"
+    },
+    "mp-2931": {
+        "bg": 3.3,
+        "type": "Oxides"
+    },
+    "mp-27130": {
+        "bg": 4.35,
+        "type": "Oxides"
+    },
+    "mp-19260": {
+        "bg": 4.175,
+        "type": "Oxides"
+    },
+    "mp-4156": {
+        "bg": 4.74,
+        "type": "Oxides"
+    },
+    "mp-13944": {
+        "bg": 4.4,
+        "type": "Nitrides"
+    },
+    "mp-684504": {
+        "bg": 3.5,
+        "type": "Oxides"
+    },
+    "mp-3887": {
+        "bg": 4.275,
+        "type": "Nitrides"
+    },
+    "mp-2251": {
+        "bg": 1.115,
+        "type": "Nitrides"
+    },
+    "mp-31488": {
+        "bg": 4.0,
+        "type": "Oxides"
+    },
+    "mp-985583": {
+        "bg": 3.68,
+        "type": "Chalcogenides"
+    },
+    "mp-2074": {
+        "bg": 1.0,
+        "type": "Antimonides"
+    },
+    "mp-6565": {
+        "bg": 4.681,
+        "type": "Oxides"
+    },
+    "mp-542435": {
+        "bg": 2.9,
+        "type": "Nitrides"
+    },
+    "mp-6396": {
+        "bg": 2.725,
+        "type": "Oxides"
+    },
+    "mp-19219": {
+        "bg": 3.9,
+        "type": "Oxides"
+    },
+    "mp-685194": {
+        "bg": 2.0,
+        "type": "Oxides"
+    },
+    "mp-9172": {
+        "bg": 4.64,
+        "type": "Oxides"
+    },
+    "mp-19511": {
+        "bg": 4.0,
+        "type": "Oxides"
+    },
+    "mp-1222860": {
+        "bg": 5.0,
+        "type": "Oxides"
+    },
+    "mp-4604": {
+        "bg": 1.4,
+        "type": "Nitrides"
+    },
+    "mp-755225": {
+        "bg": 4.74,
+        "type": "Oxides"
+    },
+    "mp-27653": {
+        "bg": 4.67,
+        "type": "Hydrides"
+    },
+    "mp-1095289": {
+        "bg": 1.57,
+        "type": "Arsenides"
+    },
+    "mp-16264": {
+        "bg": 0.89,
+        "type": "Antimonides"
+    },
+    "mp-6126": {
+        "bg": 4.28,
+        "type": "Oxides"
+    },
+    "mp-22526": {
+        "bg": 2.7,
+        "type": "Oxides"
+    },
+    "mp-758022": {
+        "bg": 3.4,
+        "type": "Oxides"
+    },
+    "mp-1407369": {
+        "bg": 2.0,
+        "type": "Chalcogenides"
+    },
+    "mp-21735": {
+        "bg": 1.765,
+        "type": "Oxides"
+    },
+    "mp-777049": {
+        "bg": 3.4,
+        "type": "Oxides"
+    },
+    "mp-19017": {
+        "bg": 3.75,
+        "type": "Oxides"
+    },
+    "mp-3647": {
+        "bg": 3.635,
+        "type": "Chalcogenides"
+    },
+    "mp-11582": {
+        "bg": 3.34,
+        "type": "Chalcogenides"
+    },
+    "mp-5048": {
+        "bg": 2.31,
+        "type": "Chalcogenides"
+    },
+    "mp-23703": {
+        "bg": 2.76,
+        "type": "Hydrides"
+    },
+    "mp-1188392": {
+        "bg": 3.57,
+        "type": "Chalcogenides"
+    },
+    "mp-20187": {
+        "bg": 2.83,
+        "type": "Chalcogenides"
+    },
+    "mp-20782": {
+        "bg": 1.23,
+        "type": "Chalcogenides"
+    },
+    "mp-12558": {
+        "bg": 1.25,
+        "type": "Arsenides"
+    },
+    "mp-37906": {
+        "bg": 3.45,
+        "type": "Nitrides"
+    },
+    "mp-36111": {
+        "bg": 2.43,
+        "type": "Phosphides"
+    },
+    "mp-1207082": {
+        "bg": 1.875,
+        "type": "Antimonides"
+    },
+    "mp-1176656": {
+        "bg": 1.43,
+        "type": "Oxides"
+    },
+    "mp-19131": {
+        "bg": 3.05,
+        "type": "Oxides"
+    },
+    "mp-18997": {
+        "bg": 2.0,
+        "type": "Oxides"
+    },
+    "mp-2659": {
+        "bg": 3.4,
+        "type": "Nitrides"
+    },
+    "mp-3368": {
+        "bg": 3.9,
+        "type": "Oxides"
+    },
+    "mp-3924": {
+        "bg": 3.16,
+        "type": "Oxides"
+    },
+    "mp-3731": {
+        "bg": 3.875,
+        "type": "Oxides"
+    },
+    "mp-570363": {
+        "bg": 0.755,
+        "type": "Silicides"
+    },
+    "mp-3666": {
+        "bg": 4.4,
+        "type": "Oxides"
+    },
+    "mp-1222368": {
+        "bg": 2.505,
+        "type": "Oxides"
+    },
+    "mp-9124": {
+        "bg": 1.61,
+        "type": "Arsenides"
+    },
+    "mp-1222376": {
+        "bg": 3.1,
+        "type": "Oxides"
+    },
+    "mp-7575": {
+        "bg": 1.945,
+        "type": "Nitrides"
+    },
+    "mp-10182": {
+        "bg": 2.04,
+        "type": "Phosphides"
+    },
+    "mp-11175": {
+        "bg": 3.44,
+        "type": "Chalcogenides"
+    },
+    "mp-10499": {
+        "bg": 3.5,
+        "type": "Oxides"
+    },
+    "mp-644492": {
+        "bg": 4.207000000000001,
+        "type": "Oxides"
+    },
+    "mp-23709": {
+        "bg": 2.9,
+        "type": "Hydrides"
+    },
+    "mp-23804": {
+        "bg": 1.875,
+        "type": "Hydrides"
+    },
+    "mp-1192564": {
+        "bg": 1.76,
+        "type": "Chalcogenides"
+    },
+    "mp-697331": {
+        "bg": 1.6,
+        "type": "Hydrides"
+    },
+    "mp-1193355": {
+        "bg": 2.05,
+        "type": "Chalcogenides"
+    },
+    "mp-757031": {
+        "bg": 3.55,
+        "type": "Oxides"
+    },
+    "mp-1990": {
+        "bg": 1.865,
+        "type": "Arsenides"
+    },
+    "mp-1559": {
+        "bg": 2.03,
+        "type": "Nitrides"
+    },
+    "mp-2514": {
+        "bg": 1.935,
+        "type": "Phosphides"
+    },
+    "mp-1196139": {
+        "bg": 0.6499999999999999,
+        "type": "Antimonides"
+    },
+    "mp-19034": {
+        "bg": 3.02,
+        "type": "Oxides"
+    },
+    "mp-17481": {
+        "bg": 2.8,
+        "type": "Oxides"
+    },
+    "mp-19202": {
+        "bg": 0.693,
+        "type": "Oxides"
+    },
+    "mp-1016200": {
+        "bg": 1.95,
+        "type": "Arsenides"
+    },
+    "mp-7798": {
+        "bg": 3.2,
+        "type": "Nitrides"
+    },
+    "mp-34903": {
+        "bg": 1.92,
+        "type": "Phosphides"
+    },
+    "mp-17953": {
+        "bg": 2.19,
+        "type": "Oxides"
+    },
+    "mp-1315": {
+        "bg": 0.658,
+        "type": "Chalcogenides"
+    },
+    "mp-1018040": {
+        "bg": 4.1,
+        "type": "Chalcogenides"
+    },
+    "mp-13033": {
+        "bg": 2.3,
+        "type": "Chalcogenides"
+    },
+    "mp-28232": {
+        "bg": 3.4,
+        "type": "Oxides"
+    },
+    "mp-3771": {
+        "bg": 3.7,
+        "type": "Oxides"
+    },
+    "mp-1041014": {
+        "bg": 2.81,
+        "type": "Oxides"
+    },
+    "mp-18875": {
+        "bg": 3.39,
+        "type": "Oxides"
+    },
+    "mp-567968": {
+        "bg": 0.73,
+        "type": "Silicides"
+    },
+    "mp-19142": {
+        "bg": 1.8,
+        "type": "Oxides"
+    },
+    "mp-18759": {
+        "bg": 2.3,
+        "type": "Oxides"
+    },
+    "mp-755882": {
+        "bg": 2.21,
+        "type": "Oxides"
+    },
+    "mp-28306": {
+        "bg": 3.76,
+        "type": "Halides"
+    },
+    "mp-18814": {
+        "bg": 3.104,
+        "type": "Oxides"
+    },
+    "mp-28013": {
+        "bg": 4.220000000000001,
+        "type": "Halides"
+    },
+    "mp-19455": {
+        "bg": 1.96,
+        "type": "Oxides"
+    },
+    "mp-1232659": {
+        "bg": 3.75,
+        "type": "Oxides"
+    },
+    "mp-644514": {
+        "bg": 2.0,
+        "type": "Oxides"
+    },
+    "mp-1105127": {
+        "bg": 0.53,
+        "type": "Phosphides"
+    },
+    "mp-2490654": {
+        "bg": 1.93,
+        "type": "Oxides"
+    },
+    "mp-19407": {
+        "bg": 2.69,
+        "type": "Oxides"
+    },
+    "mp-754318": {
+        "bg": 2.18,
+        "type": "Oxides"
+    },
+    "mp-568394": {
+        "bg": 0.56,
+        "type": "Halides"
+    },
+    "mp-1047075": {
+        "bg": 1.89,
+        "type": "Oxides"
+    },
+    "mp-715584": {
+        "bg": 3.0,
+        "type": "Oxides"
+    },
+    "mp-1434": {
+        "bg": 1.78,
+        "type": "Chalcogenides"
+    },
+    "mp-1239169": {
+        "bg": 1.5,
+        "type": "Chalcogenides"
+    },
+    "mp-1634": {
+        "bg": 1.5,
+        "type": "Chalcogenides"
+    },
+    "mp-1201027": {
+        "bg": 2.9,
+        "type": "Oxides"
+    },
+    "mp-2831941": {
+        "bg": 2.52,
+        "type": "Chalcogenides"
+    },
+    "mp-1190388": {
+        "bg": 3.29,
+        "type": "Chalcogenides"
+    },
+    "mp-17964": {
+        "bg": 2.31,
+        "type": "Chalcogenides"
+    },
+    "mp-1190145": {
+        "bg": 2.7935,
+        "type": "Chalcogenides"
+    },
+    "mp-19080": {
+        "bg": 1.24,
+        "type": "Oxides"
+    },
+    "mp-18852": {
+        "bg": 4.37,
+        "type": "Oxides"
+    },
+    "mp-2352": {
+        "bg": 1.53,
+        "type": "Oxides"
+    },
+    "mp-2340": {
+        "bg": 4.84,
+        "type": "Oxides"
+    },
+    "mp-648": {
+        "bg": 1.62,
+        "type": "Chalcogenides"
+    },
+    "mp-3285": {
+        "bg": 3.3,
+        "type": "Oxides"
+    },
+    "mp-2784": {
+        "bg": 2.15,
+        "type": "Chalcogenides"
+    },
+    "mp-1190141": {
+        "bg": 2.03,
+        "type": "Chalcogenides"
+    },
+    "mp-573581": {
+        "bg": 1.91,
+        "type": "Chalcogenides"
+    },
+    "mp-3488": {
+        "bg": 3.51,
+        "type": "Oxides"
+    },
+    "mp-32533": {
+        "bg": 2.95,
+        "type": "Oxides"
+    },
+    "mp-561083": {
+        "bg": 3.54,
+        "type": "Oxides"
+    },
+    "mp-2715259": {
+        "bg": 3.86,
+        "type": "Oxides"
+    },
+    "mp-473": {
+        "bg": 0.77,
+        "type": "Phosphides"
+    },
+    "mp-674333": {
+        "bg": 2.2,
+        "type": "Oxides"
+    },
+    "mp-28782": {
+        "bg": 2.3,
+        "type": "Chalcogenides"
+    },
+    "mp-776557": {
+        "bg": 1.867,
+        "type": "Oxides"
+    },
+    "mp-29628": {
+        "bg": 3.32,
+        "type": "Chalcogenides"
+    },
+    "mp-556070": {
+        "bg": 3.376,
+        "type": "Oxides"
+    },
+    "mp-23704": {
+        "bg": 4.8,
+        "type": "Hydrides"
+    },
+    "mp-1210092": {
+        "bg": 3.1,
+        "type": "Oxides"
+    },
+    "mp-1220818": {
+        "bg": 3.02,
+        "type": "Oxides"
+    },
+    "mp-23054": {
+        "bg": 2.45,
+        "type": "Oxides"
+    },
+    "mp-1221125": {
+        "bg": 1.21,
+        "type": "Chalcogenides"
+    },
+    "mp-1221129": {
+        "bg": 4.13,
+        "type": "Oxides"
+    },
+    "mp-5693": {
+        "bg": 0.89,
+        "type": "Chalcogenides"
+    },
+    "mp-1078217": {
+        "bg": 0.88,
+        "type": "Halides"
+    },
+    "mp-20678": {
+        "bg": 3.69,
+        "type": "Oxides"
+    },
+    "mp-1195769": {
+        "bg": 2.18,
+        "type": "Chalcogenides"
+    },
+    "mp-5175": {
+        "bg": 3.9,
+        "type": "Oxides"
+    },
+    "mp-20289": {
+        "bg": 2.585,
+        "type": "Chalcogenides"
+    },
+    "mp-13019": {
+        "bg": 4.5,
+        "type": "Oxides"
+    },
+    "mp-1173567": {
+        "bg": 3.6685,
+        "type": "Oxides"
+    },
+    "mp-1220785": {
+        "bg": 3.28,
+        "type": "Oxides"
+    },
+    "mp-8452": {
+        "bg": 2.9,
+        "type": "Chalcogenides"
+    },
+    "mp-555794": {
+        "bg": 3.22,
+        "type": "Oxides"
+    },
+    "mp-5962": {
+        "bg": 0.97,
+        "type": "Arsenides"
+    },
+    "mp-561536": {
+        "bg": 2.916,
+        "type": "Oxides"
+    },
+    "mp-7090": {
+        "bg": 1.04,
+        "type": "Antimonides"
+    },
+    "mp-4531": {
+        "bg": 2.92,
+        "type": "Oxides"
+    },
+    "mp-557436": {
+        "bg": 1.72,
+        "type": "Chalcogenides"
+    },
+    "mp-623854": {
+        "bg": 2.535,
+        "type": "Oxides"
+    },
+    "mp-3744": {
+        "bg": 1.5,
+        "type": "Oxides"
+    },
+    "mp-4514": {
+        "bg": 3.265,
+        "type": "Oxides"
+    },
+    "mp-7440": {
+        "bg": 2.0340000000000003,
+        "type": "Phosphides"
+    },
+    "mp-8830": {
+        "bg": 1.33,
+        "type": "Oxides"
+    },
+    "mp-29529": {
+        "bg": 1.19,
+        "type": "Phosphides"
+    },
+    "mp-3858": {
+        "bg": 4.0,
+        "type": "Oxides"
+    },
+    "mp-19083": {
+        "bg": 2.495,
+        "type": "Oxides"
+    },
+    "mp-581967": {
+        "bg": 3.4,
+        "type": "Oxides"
+    },
+    "mp-9437": {
+        "bg": 0.53,
+        "type": "Antimonides"
+    },
+    "mp-18899": {
+        "bg": 1.02,
+        "type": "Oxides"
+    },
+    "mp-1045": {
+        "bg": 3.875,
+        "type": "Oxides"
+    },
+    "mp-17904": {
+        "bg": 3.0,
+        "type": "Oxides"
+    },
+    "mp-5977": {
+        "bg": 3.75,
+        "type": "Oxides"
+    },
+    "mp-1196300": {
+        "bg": 1.83,
+        "type": "Chalcogenides"
+    },
+    "mp-560086": {
+        "bg": 2.62,
+        "type": "Chalcogenides"
+    },
+    "mp-20407": {
+        "bg": 3.8,
+        "type": "Oxides"
+    },
+    "mp-3196": {
+        "bg": 2.653,
+        "type": "Oxides"
+    },
+    "mp-20852": {
+        "bg": 3.02,
+        "type": "Oxides"
+    },
+    "mp-19009": {
+        "bg": 3.6,
+        "type": "Oxides"
+    },
+    "mp-1411545": {
+        "bg": 0.5449999999999999,
+        "type": "Chalcogenides"
+    },
+    "mp-754654": {
+        "bg": 3.75,
+        "type": "Oxides"
+    },
+    "mp-21179": {
+        "bg": 2.9,
+        "type": "Oxides"
+    },
+    "mp-562065": {
+        "bg": 2.46,
+        "type": "Oxides"
+    },
+    "mp-28885": {
+        "bg": 0.94,
+        "type": "Chalcogenides"
+    },
+    "mp-20078": {
+        "bg": 1.67,
+        "type": "Oxides"
+    },
+    "mp-22633": {
+        "bg": 2.1100000000000003,
+        "type": "Oxides"
+    },
+    "mp-2456335": {
+        "bg": 3.27,
+        "type": "Halides"
+    },
+    "mp-23291": {
+        "bg": 3.91,
+        "type": "Halides"
+    },
+    "mp-567503": {
+        "bg": 2.32,
+        "type": "Halides"
+    },
+    "mp-667338": {
+        "bg": 3.0,
+        "type": "Nitrides"
+    },
+    "mp-19921": {
+        "bg": 2.75,
+        "type": "Oxides"
+    },
+    "mp-1180019": {
+        "bg": 1.45,
+        "type": "Oxides"
+    },
+    "mp-1057015": {
+        "bg": 0.7,
+        "type": "Chalcogenides"
+    },
+    "mp-504591": {
+        "bg": 3.81,
+        "type": "Oxides"
+    },
+    "mp-1120759": {
+        "bg": 1.0750000000000002,
+        "type": "Chalcogenides"
+    },
+    "mp-1209751": {
+        "bg": 1.0,
+        "type": "Oxides"
+    },
+    "mp-16705": {
+        "bg": 3.9,
+        "type": "Oxides"
+    },
+    "mp-32689": {
+        "bg": 1.85,
+        "type": "Chalcogenides"
+    },
+    "mp-4394": {
+        "bg": 4.19,
+        "type": "Oxides"
+    },
+    "mp-15201": {
+        "bg": 2.7,
+        "type": "Oxides"
+    },
+    "mp-3466": {
+        "bg": 3.8,
+        "type": "Oxides"
+    },
+    "mp-9028": {
+        "bg": 4.0,
+        "type": "Nitrides"
+    },
+    "mp-1105822": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-22341": {
+        "bg": 2.08,
+        "type": "Oxides"
+    },
+    "mp-23290": {
+        "bg": 0.5,
+        "type": "Halides"
+    },
+    "mp-1095618": {
+        "bg": 1.06,
+        "type": "Nitrides"
+    },
+    "mp-762": {
+        "bg": 0.95,
+        "type": "Chalcogenides"
+    },
+    "mp-1115": {
+        "bg": 1.2,
+        "type": "Chalcogenides"
+    },
+    "mp-1105212": {
+        "bg": 2.6,
+        "type": "Chalcogenides"
+    },
+    "mp-571293": {
+        "bg": 1.53,
+        "type": "Chalcogenides"
+    },
+    "mp-18556": {
+        "bg": 2.92,
+        "type": "Chalcogenides"
+    },
+    "mp-16818": {
+        "bg": 2.37,
+        "type": "Chalcogenides"
+    },
+    "mp-29901": {
+        "bg": 2.3,
+        "type": "Chalcogenides"
+    },
+    "mp-18006": {
+        "bg": 2.08,
+        "type": "Chalcogenides"
+    },
+    "mp-1195026": {
+        "bg": 4.17,
+        "type": "Oxides"
+    },
+    "mp-14088": {
+        "bg": 2.67,
+        "type": "Halides"
+    },
+    "mp-441": {
+        "bg": 4.5,
+        "type": "Chalcogenides"
+    },
+    "mp-1201494": {
+        "bg": 1.83,
+        "type": "Chalcogenides"
+    },
+    "mp-571164": {
+        "bg": 1.8,
+        "type": "Chalcogenides"
+    },
+    "mp-560459": {
+        "bg": 4.855,
+        "type": "Oxides"
+    },
+    "mp-1195363": {
+        "bg": 2.62,
+        "type": "Halides"
+    },
+    "mp-29895": {
+        "bg": 2.1,
+        "type": "Halides"
+    },
+    "mp-1104938": {
+        "bg": 4.84,
+        "type": "Oxides"
+    },
+    "mp-14577": {
+        "bg": 2.58,
+        "type": "Chalcogenides"
+    },
+    "mp-542067": {
+        "bg": 1.59,
+        "type": "Chalcogenides"
+    },
+    "mp-1195102": {
+        "bg": 2.4,
+        "type": "Chalcogenides"
+    },
+    "mp-1192550": {
+        "bg": 3.3,
+        "type": "Chalcogenides"
+    },
+    "mp-23949": {
+        "bg": 3.32,
+        "type": "Hydrides"
+    },
+    "mp-1209628": {
+        "bg": 1.88,
+        "type": "Chalcogenides"
+    },
+    "mp-601861": {
+        "bg": 3.05,
+        "type": "Chalcogenides"
+    },
+    "mp-31309": {
+        "bg": 2.0,
+        "type": "Chalcogenides"
+    },
+    "mp-541600": {
+        "bg": 3.81,
+        "type": "Oxides"
+    },
+    "mp-1020633": {
+        "bg": 3.827,
+        "type": "Oxides"
+    },
+    "mp-558749": {
+        "bg": 1.49,
+        "type": "Halides"
+    },
+    "mp-1198591": {
+        "bg": 2.96,
+        "type": "Oxides"
+    },
+    "mp-1192452": {
+        "bg": 1.15,
+        "type": "Chalcogenides"
+    },
+    "mp-17945": {
+        "bg": 2.18,
+        "type": "Chalcogenides"
+    },
+    "mp-23043": {
+        "bg": 3.42,
+        "type": "Halides"
+    },
+    "mp-998611": {
+        "bg": 0.94,
+        "type": "Halides"
+    },
+    "mp-10782": {
+        "bg": 2.5,
+        "type": "Chalcogenides"
+    },
+    "mp-999265": {
+        "bg": 4.0,
+        "type": "Chalcogenides"
+    },
+    "mp-4975": {
+        "bg": 3.6825,
+        "type": "Halides"
+    },
+    "mp-572758": {
+        "bg": 1.47,
+        "type": "Chalcogenides"
+    },
+    "mp-541582": {
+        "bg": 1.18,
+        "type": "Chalcogenides"
+    },
+    "mp-1716": {
+        "bg": 1.2,
+        "type": "Oxides"
+    },
+    "mp-27871": {
+        "bg": 1.76,
+        "type": "Halides"
+    },
+    "mp-27770": {
+        "bg": 1.18,
+        "type": "Halides"
+    },
+    "mp-1008785": {
+        "bg": 2.3,
+        "type": "Oxides"
+    },
+    "mp-2030": {
+        "bg": 1.55,
+        "type": "Chalcogenides"
+    },
+    "mp-77": {
+        "bg": 1.51,
+        "type": "Chalcogenides"
+    },
+    "mp-401": {
+        "bg": 2.0,
+        "type": "Chalcogenides"
+    },
+    "mp-23309": {
+        "bg": 5.0,
+        "type": "Halides"
+    },
+    "mp-1009750": {
+        "bg": 0.92,
+        "type": "Nitrides"
+    },
+    "mp-1179114": {
+        "bg": 1.3,
+        "type": "Oxides"
+    },
+    "mp-4200": {
+        "bg": 4.255000000000001,
+        "type": "Oxides"
+    },
+    "mp-570481": {
+        "bg": 1.5,
+        "type": "Chalcogenides"
+    },
+    "mp-149": {
+        "bg": 1.12,
+        "type": "Silicides"
+    },
+    "mp-569128": {
+        "bg": 1.1,
+        "type": "Silicides"
+    },
+    "mp-1219182": {
+        "bg": 0.51,
+        "type": "Silicides"
+    },
+    "mp-218": {
+        "bg": 3.7,
+        "type": "Oxides"
+    },
+    "mp-1403": {
+        "bg": 3.0,
+        "type": "Chalcogenides"
+    },
+    "mp-32594": {
+        "bg": 2.3,
+        "type": "Chalcogenides"
+    },
+    "mp-3335": {
+        "bg": 3.6,
+        "type": "Oxides"
+    },
+    "mp-4408": {
+        "bg": 2.9,
+        "type": "Oxides"
+    },
+    "mp-1198078": {
+        "bg": 1.41,
+        "type": "Chalcogenides"
+    },
+    "mp-1200917": {
+        "bg": 3.39,
+        "type": "Oxides"
+    },
+    "mp-19323": {
+        "bg": 2.28,
+        "type": "Oxides"
+    },
+    "mp-1509": {
+        "bg": 1.175,
+        "type": "Chalcogenides"
+    },
+    "mp-557633": {
+        "bg": 2.597,
+        "type": "Oxides"
+    },
+    "mp-1104544": {
+        "bg": 2.43,
+        "type": "Oxides"
+    },
+    "mp-556980": {
+        "bg": 2.49,
+        "type": "Oxides"
+    },
+    "mp-29862": {
+        "bg": 3.45,
+        "type": "Halides"
+    },
+    "mp-1009820": {
+        "bg": 2.1,
+        "type": "Carbides"
+    },
+    "mp-29179": {
+        "bg": 2.9,
+        "type": "Halides"
+    },
+    "mp-2843": {
+        "bg": 1.3,
+        "type": "Halides"
+    },
+    "mp-27194": {
+        "bg": 2.4,
+        "type": "Halides"
+    },
+    "mp-23182": {
+        "bg": 2.38,
+        "type": "Halides"
+    },
+    "mp-545820": {
+        "bg": 2.55,
+        "type": "Oxides"
+    },
+    "mp-856": {
+        "bg": 3.6,
+        "type": "Oxides"
+    },
+    "mp-2231": {
+        "bg": 1.3,
+        "type": "Chalcogenides"
+    },
+    "mp-1170": {
+        "bg": 2.2,
+        "type": "Chalcogenides"
+    },
+    "mp-691": {
+        "bg": 0.94,
+        "type": "Chalcogenides"
+    },
+    "mp-665": {
+        "bg": 1.2,
+        "type": "Chalcogenides"
+    },
+    "mp-17700": {
+        "bg": 1.9,
+        "type": "Oxides"
+    },
+    "mp-4157": {
+        "bg": 1.63,
+        "type": "Oxides"
+    },
+    "mp-760510": {
+        "bg": 3.17,
+        "type": "Oxides"
+    },
+    "mp-1274308": {
+        "bg": 2.38,
+        "type": "Oxides"
+    },
+    "mp-1218758": {
+        "bg": 4.6,
+        "type": "Oxides"
+    },
+    "mp-1080625": {
+        "bg": 2.21,
+        "type": "Oxides"
+    },
+    "mp-3870": {
+        "bg": 2.15,
+        "type": "Oxides"
+    },
+    "mp-20944": {
+        "bg": 1.75,
+        "type": "Oxides"
+    },
+    "mp-1208761": {
+        "bg": 3.38,
+        "type": "Oxides"
+    },
+    "mp-4287": {
+        "bg": 4.7,
+        "type": "Oxides"
+    },
+    "mp-568525": {
+        "bg": 0.9,
+        "type": "Chalcogenides"
+    },
+    "mp-13664": {
+        "bg": 4.465,
+        "type": "Oxides"
+    },
+    "mp-31760": {
+        "bg": 2.18,
+        "type": "Oxides"
+    },
+    "mp-5532": {
+        "bg": 2.56,
+        "type": "Oxides"
+    },
+    "mp-3349": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-19386": {
+        "bg": 3.45,
+        "type": "Oxides"
+    },
+    "mp-769271": {
+        "bg": 4.55,
+        "type": "Oxides"
+    },
+    "mp-761057": {
+        "bg": 4.0,
+        "type": "Oxides"
+    },
+    "mp-769582": {
+        "bg": 4.75,
+        "type": "Oxides"
+    },
+    "mp-3094": {
+        "bg": 4.8,
+        "type": "Oxides"
+    },
+    "mp-558323": {
+        "bg": 2.57,
+        "type": "Oxides"
+    },
+    "mp-22428": {
+        "bg": 3.01,
+        "type": "Oxides"
+    },
+    "mp-510607": {
+        "bg": 2.4450000000000003,
+        "type": "Oxides"
+    },
+    "mp-18685": {
+        "bg": 2.5,
+        "type": "Chalcogenides"
+    },
+    "mp-16179": {
+        "bg": 1.795,
+        "type": "Chalcogenides"
+    },
+    "mp-3742": {
+        "bg": 1.86,
+        "type": "Oxides"
+    },
+    "mp-9380": {
+        "bg": 3.28,
+        "type": "Oxides"
+    },
+    "mp-17464": {
+        "bg": 3.185,
+        "type": "Oxides"
+    },
+    "mp-3378": {
+        "bg": 3.9,
+        "type": "Oxides"
+    },
+    "mp-540688": {
+        "bg": 3.635,
+        "type": "Oxides"
+    },
+    "mp-19001": {
+        "bg": 1.2,
+        "type": "Oxides"
+    },
+    "mp-18834": {
+        "bg": 3.415,
+        "type": "Oxides"
+    },
+    "mp-4591": {
+        "bg": 3.94,
+        "type": "Oxides"
+    },
+    "mp-20489": {
+        "bg": 1.78,
+        "type": "Oxides"
+    },
+    "mp-1087": {
+        "bg": 4.779999999999999,
+        "type": "Chalcogenides"
+    },
+    "mp-770771": {
+        "bg": 4.6,
+        "type": "Oxides"
+    },
+    "mp-2758": {
+        "bg": 4.42,
+        "type": "Chalcogenides"
+    },
+    "mp-2879": {
+        "bg": 4.1,
+        "type": "Oxides"
+    },
+    "mp-17715": {
+        "bg": 4.49,
+        "type": "Oxides"
+    },
+    "mp-541462": {
+        "bg": 4.0,
+        "type": "Oxides"
+    },
+    "mp-1958": {
+        "bg": 3.5,
+        "type": "Chalcogenides"
+    },
+    "mp-1194714": {
+        "bg": 3.02,
+        "type": "Chalcogenides"
+    },
+    "mp-1191111": {
+        "bg": 3.44,
+        "type": "Oxides"
+    },
+    "mp-4651": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-19163": {
+        "bg": 4.8,
+        "type": "Oxides"
+    },
+    "mp-8810": {
+        "bg": 4.03,
+        "type": "Oxides"
+    },
+    "mp-558760": {
+        "bg": 1.53,
+        "type": "Chalcogenides"
+    },
+    "mp-10390": {
+        "bg": 4.0,
+        "type": "Oxides"
+    },
+    "mp-27488": {
+        "bg": 2.1,
+        "type": "Nitrides"
+    },
+    "mp-683983": {
+        "bg": 1.0,
+        "type": "Oxides"
+    },
+    "mp-1056": {
+        "bg": 0.95,
+        "type": "Oxides"
+    },
+    "mp-1200490": {
+        "bg": 4.59,
+        "type": "Oxides"
+    },
+    "mp-9481": {
+        "bg": 0.9,
+        "type": "Chalcogenides"
+    },
+    "mp-1217269": {
+        "bg": 2.392,
+        "type": "Chalcogenides"
+    },
+    "mp-643": {
+        "bg": 3.94,
+        "type": "Oxides"
+    },
+    "mp-30092": {
+        "bg": 2.975,
+        "type": "Halides"
+    },
+    "mp-5967": {
+        "bg": 1.0,
+        "type": "Antimonides"
+    },
+    "mp-27850": {
+        "bg": 2.5,
+        "type": "Halides"
+    },
+    "mp-759307": {
+        "bg": 2.91,
+        "type": "Oxides"
+    },
+    "mp-390": {
+        "bg": 3.2,
+        "type": "Oxides"
+    },
+    "mp-1216625": {
+        "bg": 3.145,
+        "type": "Halides"
+    },
+    "mp-1216778": {
+        "bg": 1.12,
+        "type": "Chalcogenides"
+    },
+    "mp-1188364": {
+        "bg": 2.05,
+        "type": "Chalcogenides"
+    },
+    "mp-1105692": {
+        "bg": 1.57,
+        "type": "Chalcogenides"
+    },
+    "mp-1190100": {
+        "bg": 0.9,
+        "type": "Chalcogenides"
+    },
+    "mp-27484": {
+        "bg": 1.0,
+        "type": "Oxides"
+    },
+    "mp-556516": {
+        "bg": 0.79,
+        "type": "Chalcogenides"
+    },
+    "mp-29711": {
+        "bg": 0.68,
+        "type": "Chalcogenides"
+    },
+    "mp-17172": {
+        "bg": 1.6,
+        "type": "Chalcogenides"
+    },
+    "mp-27451": {
+        "bg": 3.2,
+        "type": "Halides"
+    },
+    "mp-23380": {
+        "bg": 2.4850000000000003,
+        "type": "Halides"
+    },
+    "mp-570339": {
+        "bg": 2.815,
+        "type": "Halides"
+    },
+    "mp-27293": {
+        "bg": 1.8,
+        "type": "Halides"
+    },
+    "mp-568949": {
+        "bg": 2.68,
+        "type": "Halides"
+    },
+    "mp-571079": {
+        "bg": 2.55,
+        "type": "Halides"
+    },
+    "mp-4016": {
+        "bg": 2.925,
+        "type": "Chalcogenides"
+    },
+    "mp-17254": {
+        "bg": 1.88,
+        "type": "Chalcogenides"
+    },
+    "mp-3785": {
+        "bg": 0.95,
+        "type": "Chalcogenides"
+    },
+    "mp-571102": {
+        "bg": 2.815,
+        "type": "Halides"
+    },
+    "mp-22566": {
+        "bg": 2.4,
+        "type": "Chalcogenides"
+    },
+    "mp-22232": {
+        "bg": 1.295,
+        "type": "Chalcogenides"
+    },
+    "mp-22791": {
+        "bg": 0.86,
+        "type": "Chalcogenides"
+    },
+    "mp-870": {
+        "bg": 3.58,
+        "type": "Nitrides"
+    },
+    "mp-27411": {
+        "bg": 2.02,
+        "type": "Phosphides"
+    },
+    "mp-1208111": {
+        "bg": 2.92,
+        "type": "Halides"
+    },
+    "mp-27283": {
+        "bg": 3.42,
+        "type": "Halides"
+    },
+    "mp-27552": {
+        "bg": 1.33,
+        "type": "Halides"
+    },
+    "mp-561066": {
+        "bg": 1.36,
+        "type": "Chalcogenides"
+    },
+    "mp-375": {
+        "bg": 4.0,
+        "type": "Oxides"
+    },
+    "mp-780654": {
+        "bg": 0.7,
+        "type": "Oxides"
+    },
+    "mp-25279": {
+        "bg": 2.3,
+        "type": "Oxides"
+    },
+    "mp-555597": {
+        "bg": 0.8,
+        "type": "Oxides"
+    },
+    "mp-541404": {
+        "bg": 0.7,
+        "type": "Oxides"
+    },
+    "mp-781604": {
+        "bg": 0.6,
+        "type": "Halides"
+    },
+    "mp-541155": {
+        "bg": 1.0,
+        "type": "Chalcogenides"
+    },
+    "mp-2383161": {
+        "bg": 2.7,
+        "type": "Oxides"
+    },
+    "mp-224": {
+        "bg": 1.8,
+        "type": "Chalcogenides"
+    },
+    "mp-1821": {
+        "bg": 1.565,
+        "type": "Chalcogenides"
+    },
+    "mp-22885": {
+        "bg": 3.035,
+        "type": "Halides"
+    },
+    "mp-23185": {
+        "bg": 2.6,
+        "type": "Halides"
+    },
+    "mp-27678": {
+        "bg": 1.14,
+        "type": "Halides"
+    },
+    "mp-769396": {
+        "bg": 3.8,
+        "type": "Oxides"
+    },
+    "mp-768814": {
+        "bg": 4.0,
+        "type": "Oxides"
+    },
+    "mp-5373": {
+        "bg": 2.75,
+        "type": "Oxides"
+    },
+    "mp-4704": {
+        "bg": 2.6,
+        "type": "Oxides"
+    },
+    "mp-1189598": {
+        "bg": 2.88,
+        "type": "Chalcogenides"
+    },
+    "mp-11321": {
+        "bg": 4.6,
+        "type": "Oxides"
+    },
+    "mp-1237135": {
+        "bg": 3.05,
+        "type": "Oxides"
+    },
+    "mp-12903": {
+        "bg": 1.36,
+        "type": "Chalcogenides"
+    },
+    "mp-754815": {
+        "bg": 2.5,
+        "type": "Halides"
+    },
+    "mp-18725": {
+        "bg": 1.86,
+        "type": "Oxides"
+    },
+    "mp-1100868": {
+        "bg": 0.6,
+        "type": "Chalcogenides"
+    },
+    "mp-20783": {
+        "bg": 2.375,
+        "type": "Oxides"
+    },
+    "mp-6913": {
+        "bg": 1.9,
+        "type": "Nitrides"
+    },
+    "mp-5387": {
+        "bg": 4.3,
+        "type": "Oxides"
+    },
+    "mp-19133": {
+        "bg": 3.6,
+        "type": "Oxides"
+    },
+    "mp-772617": {
+        "bg": 3.75,
+        "type": "Oxides"
+    },
+    "mp-5909": {
+        "bg": 4.5,
+        "type": "Oxides"
+    },
+    "mp-1094040": {
+        "bg": 2.9,
+        "type": "Oxides"
+    },
+    "mp-35493": {
+        "bg": 3.6,
+        "type": "Oxides"
+    },
+    "mp-557920": {
+        "bg": 3.43,
+        "type": "Oxides"
+    },
+    "mp-30311": {
+        "bg": 3.13,
+        "type": "Chalcogenides"
+    },
+    "mp-863430": {
+        "bg": 3.0,
+        "type": "Oxides"
+    },
+    "mp-29461": {
+        "bg": 2.86,
+        "type": "Oxides"
+    },
+    "mp-1207473": {
+        "bg": 3.8,
+        "type": "Carbides"
+    },
+    "mp-9812": {
+        "bg": 3.34,
+        "type": "Oxides"
+    },
+    "mp-22909": {
+        "bg": 3.31,
+        "type": "Halides"
+    },
+    "mp-1048859": {
+        "bg": 3.35,
+        "type": "Oxides"
+    },
+    "mp-2979": {
+        "bg": 3.2,
+        "type": "Nitrides"
+    },
+    "mp-4524": {
+        "bg": 2.06,
+        "type": "Phosphides"
+    },
+    "mp-27161": {
+        "bg": 3.28,
+        "type": "Halides"
+    },
+    "mp-756297": {
+        "bg": 1.23,
+        "type": "Oxides"
+    },
+    "mp-1095420": {
+        "bg": 3.62,
+        "type": "Oxides"
+    },
+    "mp-2133": {
+        "bg": 3.33,
+        "type": "Oxides"
+    },
+    "mp-8484": {
+        "bg": 3.6,
+        "type": "Oxides"
+    },
+    "mp-11025": {
+        "bg": 1.75,
+        "type": "Phosphides"
+    },
+    "mp-3342": {
+        "bg": 2.6,
+        "type": "Chalcogenides"
+    },
+    "mp-554820": {
+        "bg": 3.65,
+        "type": "Chalcogenides"
+    },
+    "mp-1190": {
+        "bg": 2.7,
+        "type": "Chalcogenides"
+    },
+    "mp-13334": {
+        "bg": 3.05,
+        "type": "Oxides"
+    },
+    "mp-4175": {
+        "bg": 1.3199999999999998,
+        "type": "Phosphides"
+    },
+    "mp-2176": {
+        "bg": 2.26,
+        "type": "Chalcogenides"
+    },
+    "mp-18918": {
+        "bg": 3.3,
+        "type": "Oxides"
+    },
+    "mp-277": {
+        "bg": 1.6,
+        "type": "Nitrides"
+    },
+    "mp-2858": {
+        "bg": 5.0,
+        "type": "Oxides"
+    },
+    "mp-1186": {
+        "bg": 1.7,
+        "type": "Chalcogenides"
+    },
+    "mp-9921": {
+        "bg": 2.07,
+        "type": "Chalcogenides"
+    },
+    "mp-753891": {
+        "bg": 3.5,
+        "type": "Oxides"
+    }
+}

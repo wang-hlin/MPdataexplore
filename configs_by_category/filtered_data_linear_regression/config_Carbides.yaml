@@ -1,0 +1,20 @@
+DATASET:
+  TRAIN: data/ablation_filtered_data/data_Carbides/train_data.json
+  VAL: data/ablation_filtered_data/data_Carbides/test_data.json
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: ablation_filtered_data/linear_regression/Carbides
+MODEL:
+  CIF_FOLDER: cif_file
+  INIT_FILE: master_files/encoding/atom_init.json
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: _saved_models/leftnet/m1_full_lr0.01_encoding/best-mae-epoch=04-val_mae=0.43.ckpt
+OUTPUT:
+  DIR: predictions/linear_regression/Carbides
+SOLVER:
+  EPOCHS: 50
+  LR: 0.001
+  NUM_RUNS: 5
+  TEST_RATIO: null
+  TRAIN_RATIO: 0.9
+  VAL_RATIO: 0.1

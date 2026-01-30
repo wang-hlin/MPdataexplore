@@ -1,0 +1,1400 @@
+
+Fold 1/10: 1
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 1:
+  Validation MAE: 38.871413
+  Validation MSE: 222353.480559
+  Validation MRE: 20.458612
+  Validation R2:  -210572.648338
+  Test MAE: 61115343.056792
+  Test MSE: 705931073644036352.000000
+  Test MRE: 13581187.655949
+  Test R2:  -888151214416021632.000000
+  Best Hyperparameters: {'fit_intercept': False, 'positive': True}
+1 best params: {'fit_intercept': False, 'positive': True}
+Saved linear_regression best params to saved_models/best_params_1.json
+1 linear_regression Validation Result- MAE: 38.87141301861734, MSE: 222353.48055927805, MRE: 20.458611522563665, R²: -210572.64833791292
+1 linear_regression Test Result- MAE: 61115343.05679225, MSE: 7.059310736440364e+17, MRE: 13581187.655948836, R²: -8.881512144160216e+17
+
+Fold 2/10: 2
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 2:
+  Validation MAE: 0.619568
+  Validation MSE: 0.662394
+  Validation MRE: 0.375385
+  Validation R2:  0.400574
+  Test MAE: 0.787243
+  Test MSE: 0.950307
+  Test MRE: 0.453322
+  Test R2:  -0.195608
+  Best Hyperparameters: {'fit_intercept': False, 'positive': True}
+2 best params: {'fit_intercept': False, 'positive': True}
+Saved linear_regression best params to saved_models/best_params_2.json
+2 linear_regression Validation Result- MAE: 0.6195680263320756, MSE: 0.6623939285095739, MRE: 0.3753850247387417, R²: 0.40057420990899917
+2 linear_regression Test Result- MAE: 0.7872431873905682, MSE: 0.9503074231226519, MRE: 0.45332185074086784, R²: -0.1956077915059118
+
+Fold 3/10: 3
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 3:
+  Validation MAE: 0.633176
+  Validation MSE: 0.721659
+  Validation MRE: 0.319522
+  Validation R2:  0.342295
+  Test MAE: 1.029442
+  Test MSE: 1.732321
+  Test MRE: 0.522240
+  Test R2:  -1.179480
+  Best Hyperparameters: {'fit_intercept': False, 'positive': False}
+3 best params: {'fit_intercept': False, 'positive': False}
+Saved linear_regression best params to saved_models/best_params_3.json
+3 linear_regression Validation Result- MAE: 0.6331763863563538, MSE: 0.7216590046882629, MRE: 0.319521963596344, R²: 0.34229493141174316
+3 linear_regression Test Result- MAE: 1.0294415950775146, MSE: 1.732320785522461, MRE: 0.522239625453949, R²: -1.1794800758361816
+
+Fold 4/10: 4
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 4:
+  Validation MAE: 0.661166
+  Validation MSE: 0.749581
+  Validation MRE: 0.337896
+  Validation R2:  0.314724
+  Test MAE: 1.043686
+  Test MSE: 1.816291
+  Test MRE: 0.529313
+  Test R2:  -1.285125
+  Best Hyperparameters: {'fit_intercept': False, 'positive': False}
+4 best params: {'fit_intercept': False, 'positive': False}
+Saved linear_regression best params to saved_models/best_params_4.json
+4 linear_regression Validation Result- MAE: 0.6611658930778503, MSE: 0.7495809197425842, MRE: 0.33789560198783875, R²: 0.3147242069244385
+4 linear_regression Test Result- MAE: 1.0436862707138062, MSE: 1.8162906169891357, MRE: 0.5293130278587341, R²: -1.2851250171661377
+
+Fold 5/10: 5
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 5:
+  Validation MAE: 0.673294
+  Validation MSE: 0.822490
+  Validation MRE: 0.403908
+  Validation R2:  0.188781
+  Test MAE: 1.134738
+  Test MSE: 2.132858
+  Test MRE: 0.590880
+  Test R2:  -1.683407
+  Best Hyperparameters: {'fit_intercept': False, 'positive': False}
+5 best params: {'fit_intercept': False, 'positive': False}
+Saved linear_regression best params to saved_models/best_params_5.json
+5 linear_regression Validation Result- MAE: 0.6732944250106812, MSE: 0.8224895000457764, MRE: 0.40390804409980774, R²: 0.1887814998626709
+5 linear_regression Test Result- MAE: 1.1347382068634033, MSE: 2.1328577995300293, MRE: 0.5908800363540649, R²: -1.6834065914154053
+
+Fold 6/10: 6
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 6:
+  Validation MAE: 0.604658
+  Validation MSE: 0.695860
+  Validation MRE: 0.372834
+  Validation R2:  0.362833
+  Test MAE: 1.001611
+  Test MSE: 1.699788
+  Test MRE: 0.526705
+  Test R2:  -1.138550
+  Best Hyperparameters: {'fit_intercept': False, 'positive': False}
+6 best params: {'fit_intercept': False, 'positive': False}
+Saved linear_regression best params to saved_models/best_params_6.json
+6 linear_regression Validation Result- MAE: 0.6046581268310547, MSE: 0.6958596110343933, MRE: 0.3728344440460205, R²: 0.36283308267593384
+6 linear_regression Test Result- MAE: 1.001610517501831, MSE: 1.6997880935668945, MRE: 0.526705265045166, R²: -1.1385498046875
+
+Fold 7/10: 7
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 7:
+  Validation MAE: 0.618332
+  Validation MSE: 0.607116
+  Validation MRE: 0.299012
+  Validation R2:  0.404232
+  Test MAE: 0.751011
+  Test MSE: 0.872947
+  Test MRE: 0.432253
+  Test R2:  -0.098278
+  Best Hyperparameters: {'fit_intercept': False, 'positive': True}
+7 best params: {'fit_intercept': False, 'positive': True}
+Saved linear_regression best params to saved_models/best_params_7.json
+7 linear_regression Validation Result- MAE: 0.6183320323499405, MSE: 0.6071162764659425, MRE: 0.29901154499389776, R²: 0.4042324381867948
+7 linear_regression Test Result- MAE: 0.751011476334045, MSE: 0.8729465709496557, MRE: 0.43225349177135514, R²: -0.09827798499798779
+
+Fold 8/10: 8
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 8:
+  Validation MAE: 0.658026
+  Validation MSE: 0.697586
+  Validation MRE: 0.322848
+  Validation R2:  0.411984
+  Test MAE: 1.121703
+  Test MSE: 2.035023
+  Test MRE: 0.578473
+  Test R2:  -1.560318
+  Best Hyperparameters: {'fit_intercept': False, 'positive': False}
+8 best params: {'fit_intercept': False, 'positive': False}
+Saved linear_regression best params to saved_models/best_params_8.json
+8 linear_regression Validation Result- MAE: 0.6580256819725037, MSE: 0.6975858211517334, MRE: 0.3228476345539093, R²: 0.4119836091995239
+8 linear_regression Test Result- MAE: 1.1217031478881836, MSE: 2.0350232124328613, MRE: 0.5784729719161987, R²: -1.5603182315826416
+
+Fold 9/10: 9
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 9:
+  Validation MAE: 0.675593
+  Validation MSE: 0.725430
+  Validation MRE: 0.411664
+  Validation R2:  0.310218
+  Test MAE: 0.756631
+  Test MSE: 0.916259
+  Test MRE: 0.408742
+  Test R2:  -0.152770
+  Best Hyperparameters: {'fit_intercept': False, 'positive': True}
+9 best params: {'fit_intercept': False, 'positive': True}
+Saved linear_regression best params to saved_models/best_params_9.json
+9 linear_regression Validation Result- MAE: 0.6755931409732996, MSE: 0.7254297706598634, MRE: 0.41166372313891963, R²: 0.3102178103590061
+9 linear_regression Test Result- MAE: 0.7566305075815591, MSE: 0.9162585225936887, MRE: 0.4087419935390537, R²: -0.1527699373819582
+
+Fold 10/10: 10
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    fit_intercept: [True, False]
+    positive: [True, False]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+Results for fold 10:
+  Validation MAE: 0.626139
+  Validation MSE: 0.646254
+  Validation MRE: 0.348141
+  Validation R2:  0.462723
+  Test MAE: 1.153584
+  Test MSE: 2.870380
+  Test MRE: 0.598766
+  Test R2:  -2.611304
+  Best Hyperparameters: {'fit_intercept': True, 'positive': False}
+10 best params: {'fit_intercept': True, 'positive': False}
+Saved linear_regression best params to saved_models/best_params_10.json
+10 linear_regression Validation Result- MAE: 0.6261387467384338, MSE: 0.6462540030479431, MRE: 0.3481414020061493, R²: 0.4627230763435364
+10 linear_regression Test Result- MAE: 1.1535838842391968, MSE: 2.870380401611328, MRE: 0.5987656712532043, R²: -2.6113040447235107

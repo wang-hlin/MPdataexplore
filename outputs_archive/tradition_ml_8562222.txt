@@ -1,0 +1,3274 @@
+Begin
+lr
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+
+Fold 1/10: 1
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+1 linear_regression Validation Result- MAE: 0.5591568946838379, MSE: 0.5319902300834656, MRE: 0.28271180391311646, R²: 0.496193528175354
+1 linear_regression Test Result- MAE: 1.1089098453521729, MSE: 1.980697512626648, MRE: 0.587955117225647, R²: -1.4919698238372803
+
+Fold 2/10: 2
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+2 linear_regression Validation Result- MAE: 0.6025134921073914, MSE: 0.6531056761741638, MRE: 0.3572371006011963, R²: 0.4089794158935547
+2 linear_regression Test Result- MAE: 1.0894719362258911, MSE: 1.9077682495117188, MRE: 0.5753187537193298, R²: -1.4002153873443604
+
+Fold 3/10: 3
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+3 linear_regression Validation Result- MAE: 0.6288145184516907, MSE: 0.7138711810112, MRE: 0.31832417845726013, R²: 0.3493925929069519
+3 linear_regression Test Result- MAE: 1.0271068811416626, MSE: 1.7093511819839478, MRE: 0.5227391123771667, R²: -1.1505815982818604
+
+Fold 4/10: 4
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+4 linear_regression Validation Result- MAE: 0.6626500487327576, MSE: 0.7448011636734009, MRE: 0.33922335505485535, R²: 0.3190939426422119
+4 linear_regression Test Result- MAE: 1.0403316020965576, MSE: 1.763873815536499, MRE: 0.5294326543807983, R²: -1.2191779613494873
+
+Fold 5/10: 5
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+5 linear_regression Validation Result- MAE: 0.6712114214897156, MSE: 0.8162053227424622, MRE: 0.3985646963119507, R²: 0.19497954845428467
+5 linear_regression Test Result- MAE: 1.135967493057251, MSE: 2.1019721031188965, MRE: 0.5936083793640137, R²: -1.6445486545562744
+
+Fold 6/10: 6
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+6 linear_regression Validation Result- MAE: 0.6037909984588623, MSE: 0.698268473148346, MRE: 0.3726564049720764, R²: 0.3606274127960205
+6 linear_regression Test Result- MAE: 0.9975581169128418, MSE: 1.6595820188522339, MRE: 0.5259462594985962, R²: -1.087965488433838
+
+Fold 7/10: 7
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+7 linear_regression Validation Result- MAE: 0.6370947360992432, MSE: 0.7860978245735168, MRE: 0.3271363079547882, R²: 0.22859662771224976
+7 linear_regression Test Result- MAE: 1.0596675872802734, MSE: 1.7909022569656372, MRE: 0.5597249269485474, R²: -1.253183126449585
+
+Fold 8/10: 8
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+8 linear_regression Validation Result- MAE: 0.6568641662597656, MSE: 0.6987715363502502, MRE: 0.3225833773612976, R²: 0.4109841585159302
+8 linear_regression Test Result- MAE: 1.1243925094604492, MSE: 2.0446510314941406, MRE: 0.5809271335601807, R²: -1.5724315643310547
+
+Fold 9/10: 9
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+9 linear_regression Validation Result- MAE: 0.6331841349601746, MSE: 0.6591471433639526, MRE: 0.37546780705451965, R²: 0.3732432723045349
+9 linear_regression Test Result- MAE: 0.9040007591247559, MSE: 1.3318442106246948, MRE: 0.44348686933517456, R²: -0.6756296157836914
+
+Fold 10/10: 10
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/linear_regression
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: linear_regression
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training linear_regression model...
+10 linear_regression Validation Result- MAE: 0.6244964599609375, MSE: 0.6424678564071655, MRE: 0.3472849726676941, R²: 0.46587073802948
+10 linear_regression Test Result- MAE: 1.152856707572937, MSE: 2.8521366119384766, MRE: 0.5986383557319641, R²: -2.588351249694824
+ramdom forest
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+
+Fold 1/10: 1
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+1 random_forest Validation Result- MAE: 0.5060885404324845, MSE: 0.46110029266251557, MRE: 0.25116834771852636, R²: 0.5633278569267091
+1 random_forest Test Result- MAE: 0.7260254785749647, MSE: 0.8398207592733578, MRE: 0.3608602027666186, R²: -0.05660149423671612
+
+Fold 2/10: 2
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+2 random_forest Validation Result- MAE: 0.5263734879815265, MSE: 0.4953223964241717, MRE: 0.31997673221147066, R²: 0.5517636771001356
+2 random_forest Test Result- MAE: 0.7234122883422034, MSE: 0.8282903903127602, MRE: 0.3634590830153394, R²: -0.04209482130878173
+
+Fold 3/10: 3
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+3 random_forest Validation Result- MAE: 0.5266254042363482, MSE: 0.5453901379533714, MRE: 0.26646966686635465, R²: 0.502942747586367
+3 random_forest Test Result- MAE: 0.7545762919559681, MSE: 0.8890969052247346, MRE: 0.38156499214574024, R²: -0.11859716279758836
+
+Fold 4/10: 4
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+4 random_forest Validation Result- MAE: 0.5069771696548714, MSE: 0.4768739706715512, MRE: 0.2707329901809663, R²: 0.5640361315539815
+4 random_forest Test Result- MAE: 0.7157582101336233, MSE: 0.8149662829991778, MRE: 0.3509484503587496, R²: -0.025331397040629033
+
+Fold 5/10: 5
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+5 random_forest Validation Result- MAE: 0.5562689444148227, MSE: 0.5480321987006531, MRE: 0.3374721639535661, R²: 0.4594777667005251
+5 random_forest Test Result- MAE: 0.7210861045847494, MSE: 0.8353380271113714, MRE: 0.35899583408007674, R²: -0.05096164615208898
+
+Fold 6/10: 6
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+6 random_forest Validation Result- MAE: 0.5551171398319696, MSE: 0.5829450256351953, MRE: 0.3309334152505674, R²: 0.4662238481089701
+6 random_forest Test Result- MAE: 0.7037823424389753, MSE: 0.8056104020561807, MRE: 0.35092593506250563, R²: -0.013560507032117197
+
+Fold 7/10: 7
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+7 random_forest Validation Result- MAE: 0.5113965751280058, MSE: 0.5157304030481761, MRE: 0.25327773245727525, R²: 0.4939100520158931
+7 random_forest Test Result- MAE: 0.7295636262464776, MSE: 0.8538912430025051, MRE: 0.3552264199679714, R²: -0.07430395511147903
+
+Fold 8/10: 8
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+8 random_forest Validation Result- MAE: 0.5634982088938454, MSE: 0.584902855728458, MRE: 0.290514836722108, R²: 0.506967534649571
+8 random_forest Test Result- MAE: 0.7462748733683239, MSE: 0.878364331208684, MRE: 0.3680817216882042, R²: -0.10509421753558135
+
+Fold 9/10: 9
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+9 random_forest Validation Result- MAE: 0.5514727956569748, MSE: 0.5050974108530749, MRE: 0.32206240917337003, R²: 0.5197230495195785
+9 random_forest Test Result- MAE: 0.6997214422749464, MSE: 0.7784824685798273, MRE: 0.3520563074828856, R²: 0.020569888924598434
+
+Fold 10/10: 10
+ALIGNN:
+  ACTIVATION: silu
+  ATOM_FEA_LEN: 92
+  CUTOFF: 6.0
+  DROPOUT: 0.0
+  ENCODING: prop
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: False
+  RATIO: 1.0
+  SPLIT_GLOB: 
+  TRAIN: data/splits_feature_ood/train_data.json
+  VAL: data/splits_feature_ood/test_data.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: feature_ood/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+10 random_forest Validation Result- MAE: 0.5394250944710727, MSE: 0.4767758326128636, MRE: 0.30800885220854546, R²: 0.6036223482485665
+10 random_forest Test Result- MAE: 0.6956542876473178, MSE: 0.7814297936006648, MRE: 0.36163056156666007, R²: 0.016861778608639466
+svr
+Traceback (most recent call last):
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 494, in <module>
+    main()
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 276, in main
+    cfg.merge_from_file(args.cfg)
+  File "/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/yacs/config.py", line 211, in merge_from_file
+    with open(cfg_filename, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'configs/finetune/splits/feature_ood/svr.yaml'
+Done

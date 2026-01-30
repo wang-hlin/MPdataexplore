@@ -1,0 +1,1310 @@
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+Found 7 predefined fold(s) from data/split_json/crystalsys_split/*.train.json
+
+Fold 1/7: mf.crystalsys.k0_outer
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  ENCODING: z
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: True
+  RATIO: 1.0
+  SPLIT_GLOB: data/split_json/crystalsys_split/*.train.json
+  TRAIN: 
+  VAL: data/split_json/crystalsys_split/mf.crystalsys.k0_outer.test.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: split/crystalsys/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    max_depth: [None, 10, 20]
+    min_samples_leaf: [1, 2, 4]
+    min_samples_split: [2, 4, 8]
+    n_estimators: [200, 400, 800]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+Results for fold mf.crystalsys.k0_outer:
+  Validation MAE: 0.667498
+  Validation MSE: 0.725443
+  Validation MRE: 0.390640
+  Validation R2:  0.467938
+  Test MAE: 0.667498
+  Test MSE: 0.725443
+  Test MRE: 0.390640
+  Test R2:  0.467938
+  Best Hyperparameters: {'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}
+mf.crystalsys.k0_outer best params: {'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}
+Saved random_forest best params to saved_models/best_params_mf.crystalsys.k0_outer.json
+mf.crystalsys.k0_outer random_forest Validation Result- MAE: 0.667497820336079, MSE: 0.7254426933837476, MRE: 0.3906402030393713, R²: 0.46793813204203694
+mf.crystalsys.k0_outer random_forest Test Result- MAE: 0.667497820336079, MSE: 0.7254426933837476, MRE: 0.3906402030393713, R²: 0.46793813204203694
+
+Fold 2/7: mf.crystalsys.k1_outer
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  ENCODING: z
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: True
+  RATIO: 1.0
+  SPLIT_GLOB: data/split_json/crystalsys_split/*.train.json
+  TRAIN: 
+  VAL: data/split_json/crystalsys_split/mf.crystalsys.k1_outer.test.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: split/crystalsys/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    max_depth: [None, 10, 20]
+    min_samples_leaf: [1, 2, 4]
+    min_samples_split: [2, 4, 8]
+    n_estimators: [200, 400, 800]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+Results for fold mf.crystalsys.k1_outer:
+  Validation MAE: 0.540875
+  Validation MSE: 0.525691
+  Validation MRE: 0.297648
+  Validation R2:  0.526524
+  Test MAE: 0.540875
+  Test MSE: 0.525691
+  Test MRE: 0.297648
+  Test R2:  0.526524
+  Best Hyperparameters: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 800}
+mf.crystalsys.k1_outer best params: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 800}
+Saved random_forest best params to saved_models/best_params_mf.crystalsys.k1_outer.json
+mf.crystalsys.k1_outer random_forest Validation Result- MAE: 0.540874509716737, MSE: 0.5256912857874277, MRE: 0.29764781412875413, R²: 0.5265237441930171
+mf.crystalsys.k1_outer random_forest Test Result- MAE: 0.540874509716737, MSE: 0.5256912857874277, MRE: 0.29764781412875413, R²: 0.5265237441930171
+
+Fold 3/7: mf.crystalsys.k2_outer
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  ENCODING: z
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: True
+  RATIO: 1.0
+  SPLIT_GLOB: data/split_json/crystalsys_split/*.train.json
+  TRAIN: 
+  VAL: data/split_json/crystalsys_split/mf.crystalsys.k2_outer.test.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: split/crystalsys/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    max_depth: [None, 10, 20]
+    min_samples_leaf: [1, 2, 4]
+    min_samples_split: [2, 4, 8]
+    n_estimators: [200, 400, 800]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+Results for fold mf.crystalsys.k2_outer:
+  Validation MAE: 0.694424
+  Validation MSE: 0.837858
+  Validation MRE: 0.331318
+  Validation R2:  0.352028
+  Test MAE: 0.694424
+  Test MSE: 0.837858
+  Test MRE: 0.331318
+  Test R2:  0.352028
+  Best Hyperparameters: {'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 800}
+mf.crystalsys.k2_outer best params: {'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 800}
+Saved random_forest best params to saved_models/best_params_mf.crystalsys.k2_outer.json
+mf.crystalsys.k2_outer random_forest Validation Result- MAE: 0.694424479073543, MSE: 0.8378584667608252, MRE: 0.33131770572747693, R²: 0.3520281961144056
+mf.crystalsys.k2_outer random_forest Test Result- MAE: 0.694424479073543, MSE: 0.8378584667608252, MRE: 0.33131770572747693, R²: 0.3520281961144056
+
+Fold 4/7: mf.crystalsys.k3_outer
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  ENCODING: z
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: True
+  RATIO: 1.0
+  SPLIT_GLOB: data/split_json/crystalsys_split/*.train.json
+  TRAIN: 
+  VAL: data/split_json/crystalsys_split/mf.crystalsys.k3_outer.test.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: split/crystalsys/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    max_depth: [None, 10, 20]
+    min_samples_leaf: [1, 2, 4]
+    min_samples_split: [2, 4, 8]
+    n_estimators: [200, 400, 800]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+
+Training random_forest model...
+Results for fold mf.crystalsys.k3_outer:
+  Validation MAE: 0.567850
+  Validation MSE: 0.542896
+  Validation MRE: 0.316420
+  Validation R2:  0.447702
+  Test MAE: 0.567850
+  Test MSE: 0.542896
+  Test MRE: 0.316420
+  Test R2:  0.447702
+  Best Hyperparameters: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 400}
+mf.crystalsys.k3_outer best params: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 400}
+Saved random_forest best params to saved_models/best_params_mf.crystalsys.k3_outer.json
+mf.crystalsys.k3_outer random_forest Validation Result- MAE: 0.5678498007401791, MSE: 0.5428960589942277, MRE: 0.3164198198611642, R²: 0.4477024605417598
+mf.crystalsys.k3_outer random_forest Test Result- MAE: 0.5678498007401791, MSE: 0.5428960589942277, MRE: 0.3164198198611642, R²: 0.4477024605417598
+
+Fold 5/7: mf.crystalsys.k4_outer
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  ENCODING: z
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: True
+  RATIO: 1.0
+  SPLIT_GLOB: data/split_json/crystalsys_split/*.train.json
+  TRAIN: 
+  VAL: data/split_json/crystalsys_split/mf.crystalsys.k4_outer.test.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: split/crystalsys/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    max_depth: [None, 10, 20]
+    min_samples_leaf: [1, 2, 4]
+    min_samples_split: [2, 4, 8]
+    n_estimators: [200, 400, 800]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+Results for fold mf.crystalsys.k4_outer:
+  Validation MAE: 0.659376
+  Validation MSE: 0.691026
+  Validation MRE: 0.367464
+  Validation R2:  0.387710
+  Test MAE: 0.659376
+  Test MSE: 0.691026
+  Test MRE: 0.367464
+  Test R2:  0.387710
+  Best Hyperparameters: {'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 800}
+mf.crystalsys.k4_outer best params: {'max_depth': 20, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 800}
+Saved random_forest best params to saved_models/best_params_mf.crystalsys.k4_outer.json
+mf.crystalsys.k4_outer random_forest Validation Result- MAE: 0.6593761999164398, MSE: 0.6910257419238253, MRE: 0.36746361662954924, R²: 0.387709523387609
+mf.crystalsys.k4_outer random_forest Test Result- MAE: 0.6593761999164398, MSE: 0.6910257419238253, MRE: 0.36746361662954924, R²: 0.387709523387609
+
+Fold 6/7: mf.crystalsys.k5_outer
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  ENCODING: z
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: True
+  RATIO: 1.0
+  SPLIT_GLOB: data/split_json/crystalsys_split/*.train.json
+  TRAIN: 
+  VAL: data/split_json/crystalsys_split/mf.crystalsys.k5_outer.test.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: split/crystalsys/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    max_depth: [None, 10, 20]
+    min_samples_leaf: [1, 2, 4]
+    min_samples_split: [2, 4, 8]
+    n_estimators: [200, 400, 800]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0
+Training random_forest model...
+Results for fold mf.crystalsys.k5_outer:
+  Validation MAE: 0.491080
+  Validation MSE: 0.412895
+  Validation MRE: 0.272196
+  Validation R2:  0.606690
+  Test MAE: 0.491080
+  Test MSE: 0.412895
+  Test MRE: 0.272196
+  Test R2:  0.606690
+  Best Hyperparameters: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 800}
+mf.crystalsys.k5_outer best params: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 800}
+Saved random_forest best params to saved_models/best_params_mf.crystalsys.k5_outer.json
+mf.crystalsys.k5_outer random_forest Validation Result- MAE: 0.4910796132587618, MSE: 0.41289465297551653, MRE: 0.272196075938541, R²: 0.6066897567269665
+mf.crystalsys.k5_outer random_forest Test Result- MAE: 0.4910796132587618, MSE: 0.41289465297551653, MRE: 0.272196075938541, R²: 0.6066897567269665
+
+Fold 7/7: mf.crystalsys.k6_outer
+ALIGNN:
+  ACTIVATION: silu
+  ALIGNN_LAYERS: 4
+  ATOM_EMBEDDING_SIZE: 256
+  ATOM_FEA_LEN: 92
+  BOND_FEAT_DIM: 80
+  CUTOFF: 5.0
+  DROPOUT: 0.0
+  EMBEDDING_FEATURES: 64
+  ENCODING: prop
+  GCN_LAYERS: 4
+  HIDDEN_DIM: 128
+  LAYER_FREEZE: none
+  LINK: identity
+  MAX_NEIGHBORS: 1000
+  MAX_NUM_ELEMENTS: 94
+  NUM_GAUSSIANS: 80
+  NUM_LAYERS: 4
+  NUM_RBF: None
+  RBF_TRAINABLE: False
+  READOUT: mean
+  REGRESS_FORCES: False
+  TRIPLET_INPUT_FEATURES: 40
+CARTNET:
+  ATOM_TYPES: True
+  DIM_IN: 256
+  DIM_RBF: 64
+  ENCODING: z
+  INVARIANT: False
+  NUM_LAYERS: 4
+  TEMPERATURE: False
+  USE_ENVELOPE: True
+CGCNN:
+  ATOM_FEA_LEN: 64
+  FEATURE_FUSION: none
+  H_FEA_LEN: 128
+  LAYER_FREEZE: none
+  NBR_FEA_LEN: 36
+  NUM_REPEAT: 1
+  N_CONV: 3
+  N_H: 1
+  ORIG_ATOM_FEA_LEN: 92
+  POS_FEA_LEN: 3
+CHGNET:
+  ANGLE_FEA_DIM: 64
+  ANGLE_LAYER_HIDDEN_DIM: 0
+  ATOM_CONV_HIDDEN_DIM: 64
+  ATOM_FEA_DIM: 64
+  ATOM_GRAPH_CUTOFF: 6.0
+  ATOM_INPUT_DIM: 92
+  BOND_CONV_HIDDEN_DIM: 64
+  BOND_FEA_DIM: 64
+  BOND_GRAPH_CUTOFF: 3.0
+  CONV_DROPOUT: 0.0
+  CUTOFF_COEFF: 8
+  ENCODING: z
+  GMLP_NORM: layer
+  GRAPH_CONVERTER_ALGORITHM: fast
+  IS_INTENSIVE: True
+  LEARNABLE_RBF: True
+  MAX_NUM_ELEMENTS: 94
+  MLP_DROPOUT: 0.0
+  MLP_FIRST: True
+  MLP_HIDDEN_DIMS: (64, 64, 64)
+  NON_LINEARITY: silu
+  NUM_ANGULAR: 31
+  NUM_RADIAL: 31
+  N_CONV: 4
+  READOUT_NORM: layer
+  READ_OUT: ave
+DATASET:
+  PREDEFINED_SPLIT: True
+  RATIO: 1.0
+  SPLIT_GLOB: data/split_json/crystalsys_split/*.train.json
+  TRAIN: 
+  VAL: data/split_json/crystalsys_split/mf.crystalsys.k6_outer.test.json
+LEFTNET:
+  ENCODING: none
+  HIDDEN_CHANNELS: 128
+  LAYER_FREEZE: none
+  NUM_LAYERS: 4
+  OTF_GRAPH: False
+  REGRESS_FORCES: False
+  USE_PBC: True
+LOGGING:
+  LOG_DIR: saved_models
+  LOG_DIR_NAME: split/crystalsys/random_forest
+MODEL:
+  CIF_FOLDER: cif_file
+  HYPERPARAMS:
+    SEARCH: grid
+    max_depth: [None, 10, 20]
+    min_samples_leaf: [1, 2, 4]
+    min_samples_split: [2, 4, 8]
+    n_estimators: [200, 400, 800]
+  INIT_FILE: cif_file/atom_init.json
+  MAX_NBRS: 12
+  NAME: random_forest
+  PRETRAINED_MODEL_PATH: 
+  RADIUS: 7.0
+MODEL_COMMON:
+  CUTOFF: 6.0
+  NUM_RADIAL: 32
+  OUTPUT_DIM: 1
+OUTPUT:
+  DIR: results
+  LOOP_RESULTS: loop_50epochs.csv
+  PREDICTIONS: predictions_reduced_ds2.csv
+SOLVER:
+  BATCH_SIZE: 64
+  DISABLE_CUDA: False
+  EPOCHS: 1
+  LR: 0.01
+  LR_MILESTONES: [100, 200]
+  MOMENTUM: 0.9
+  NUM_FOLDS: 10
+  NUM_RUNS: 1
+  OPTIM: SGD
+  PRINT_FREQ: 10
+  RANDOMIZE: False
+  RESUME: 
+  SEED: 42
+  START_EPOCH: 0
+  TASK: regression
+  WEIGHT_DECAY: 0.0
+  WORKERS: 0/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 32 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 3 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 5 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 6 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 14 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 10 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 24 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 7 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 28 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+
+Training random_forest model...
+Results for fold mf.crystalsys.k6_outer:
+  Validation MAE: 0.486152
+  Validation MSE: 0.433098
+  Validation MRE: 0.252909
+  Validation R2:  0.466588
+  Test MAE: 0.486152
+  Test MSE: 0.433098
+  Test MRE: 0.252909
+  Test R2:  0.466588
+  Best Hyperparameters: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}
+mf.crystalsys.k6_outer best params: {'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 200}
+Saved random_forest best params to saved_models/best_params_mf.crystalsys.k6_outer.json
+mf.crystalsys.k6_outer random_forest Validation Result- MAE: 0.4861520953933921, MSE: 0.43309846977140626, MRE: 0.25290873988536183, R²: 0.46658756013371483
+mf.crystalsys.k6_outer random_forest Test Result- MAE: 0.4861520953933921, MSE: 0.43309846977140626, MRE: 0.25290873988536183, R²: 0.46658756013371483

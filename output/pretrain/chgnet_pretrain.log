@@ -1,0 +1,46 @@
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pytorch_lightning/core/lightning.py:2054: DeprecationWarning: `torch.distributed._sharded_tensor` will be deprecated, use `torch.distributed._shard.sharded_tensor` instead
+  from torch.distributed._sharded_tensor import pre_load_state_dict_hook, state_dict_hook
+/home/haolin/PycharmProjects/benchmark_for_band_gap_prediction/models/CHGnet/model_chgnet.py:101: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(pretrained_path, map_location="cpu")
+/home/haolin/PycharmProjects/benchmark_for_band_gap_prediction/test_model.py:103: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(checkpoint_path, map_location='cpu')
+GPU available: True, used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+Missing logger folder: /home/haolin/PycharmProjects/benchmark_for_band_gap_prediction/lightning_logs
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pytorch_lightning/trainer/data_loading.py:132: UserWarning: The dataloader, test_dataloader 0, does not have many workers which may be a bottleneck. Consider increasing the value of the `num_workers` argument` (try 32 which is the number of cpus on this machine) in the `DataLoader` init to improve performance.
+  rank_zero_warn(
+CHGNet initialized with 412,431 parameters
+Layer freezing disabled.
+=> loading checkpoint 'saved_models/chgnet_cutoff5/best.ckpt'
+=> loaded checkpoint 'saved_models/chgnet_cutoff5/best.ckpt' (epoch 1)
+Loading model from checkpoint: saved_models/chgnet_cutoff5/best.ckpt
+Testing: 0it [00:00, ?it/s]/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 20 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 12 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 4 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 8 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 1 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+Testing:  17%|█▋        | 1/6 [00:01<00:07,  1.48s/it]/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 76 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 16 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+/home/haolin/miniconda3/envs/pykale/lib/python3.11/site-packages/pymatgen/core/structure.py:3109: UserWarning: Issues encountered while parsing CIF: 2 fractional coordinates rounded to ideal values to avoid issues with finite precision.
+  struct = parser.parse_structures(primitive=primitive)[0]
+Testing:  33%|███▎      | 2/6 [00:02<00:04,  1.03s/it]Testing:  50%|█████     | 3/6 [00:03<00:02,  1.05it/s]Testing:  67%|██████▋   | 4/6 [00:03<00:01,  1.28it/s]Testing:  83%|████████▎ | 5/6 [00:04<00:00,  1.45it/s]Testing: 100%|██████████| 6/6 [00:04<00:00,  2.02it/s]--------------------------------------------------------------------------------
+DATALOADER:0 TEST RESULTS
+{'test_loss': 1.9652472734451294,
+ 'test_mae': 1.1513227224349976,
+ 'test_mre': 0.4683320224285126,
+ 'test_r2': -1.1211929321289062}
+--------------------------------------------------------------------------------
+Testing: 100%|██████████| 6/6 [00:04<00:00,  1.42it/s]
+Test Results: [{'test_loss': 1.9652472734451294, 'test_mae': 1.1513227224349976, 'test_mre': 0.4683320224285126, 'test_r2': -1.1211929321289062}]
+Predictions saved to output_test/test_predictions.csv

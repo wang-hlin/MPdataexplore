@@ -158,3 +158,74 @@ def extract_features(dataset):
     features = np.vstack(features)  # (Total samples, Feature size)
     targets = np.concatenate(targets)  # (Total samples,)
     return features, targets
+
+
+def extract_features_atom_only(dataset):
+    features, targets = [], []
+    for data in dataset:
+        atom_fea = data.atom_fea.cpu().numpy()  # (N_atoms, atom_fea_len)
+        # nbr_fea = data.nbr_fea.cpu().numpy()  # (N_atoms, N_neighbors, nbr_fea_len)
+        # nbr_fea_idx = data.nbr_fea_idx.cpu().numpy()  # (N_atoms, N_neighbors)
+        # Get neighbor atom features
+        # N, M = nbr_fea_idx.shape
+        # atom_nbr_fea = atom_fea[nbr_fea_idx]  # (N_atoms, N_neighbors, atom_fea_len)
+        # Expand atom_fea to match dimensions
+        atom_fea = np.expand_dims(atom_fea, axis=1)  # (N_atoms, 1, feature_dim)
+        # atom_fea = np.tile(atom_fea, (1, M, 1))  # (N_atoms, N_neighbors, feature_dim)
+
+        # Concatenate atom and neighbor features
+        total_fea = atom_fea# (N_atoms, N_neighbors, input_dim)
+
+        # Aggregate over neighbors
+        total_fea = np.mean(total_fea, axis=1)  # (N_atoms, input_dim)
+        # total_fea = np.concatenate([atom_fea, total_fea], axis=-1)  # (N_atoms, input_dim + atom_fea_len)
+        total_fea = np.mean(total_fea, axis=0)
+
+
+
+        # Store features and target (bandgap value)
+        features.append(total_fea)
+        targets.append(data.target.cpu().numpy())  # Bandgap target
+
+    features = np.vstack(features)  # (Total samples, Feature size)
+    targets = np.concatenate(targets)  # (Total samples,)
+    return features, targets
+
+def extract_features_atom_num(dataset):
+    features, targets = [], []
+    for data in dataset:
+        atom_fea = data.atom_num.long().cpu().numpy()  # (N_atoms,)
+        atom_fea = atom_fea.reshape(-1, 1)  # (N_atoms, 1)
+
+        nbr_fea = data.nbr_fea.cpu().numpy()  # expected (N_atoms, N_neighbors, nbr_fea_len)
+        nbr_fea_idx = data.nbr_fea_idx.cpu().numpy()  # (N_atoms, N_neighbors)
+        # Get neighbor atom features
+        N, M = nbr_fea_idx.shape
+        atom_nbr_fea = atom_fea[nbr_fea_idx]  # (N_atoms, N_neighbors)
+        if atom_nbr_fea.ndim == 2:
+            atom_nbr_fea = atom_nbr_fea[..., None]  # (N_atoms, N_neighbors, 1)
+
+        if nbr_fea.ndim == 2:
+            # Expand missing neighbor dimension if needed: assume shape (N_atoms, nbr_fea_len)
+            nbr_fea = np.expand_dims(nbr_fea, axis=1)  # (N_atoms, 1, nbr_fea_len)
+        # Expand atom_fea to match dimensions
+        atom_fea = np.expand_dims(atom_fea, axis=1)  # (N_atoms, 1, feature_dim)
+        atom_fea = np.tile(atom_fea, (1, M, 1))  # (N_atoms, N_neighbors, feature_dim)
+
+        # Concatenate atom and neighbor features
+        total_fea = np.concatenate([atom_fea, atom_nbr_fea, nbr_fea], axis=2)  # (N_atoms, N_neighbors, input_dim)
+
+        # Aggregate over neighbors
+        total_fea = np.mean(total_fea, axis=1)  # (N_atoms, input_dim)
+        # total_fea = np.concatenate([atom_fea, total_fea], axis=-1)  # (N_atoms, input_dim + atom_fea_len)
+        total_fea = np.mean(total_fea, axis=0)
+
+
+
+        # Store features and target (bandgap value)
+        features.append(total_fea)
+        targets.append(data.target.cpu().numpy())  # Bandgap target
+
+    features = np.vstack(features)  # (Total samples, Feature size)
+    targets = np.concatenate(targets)  # (Total samples,)
+    return features, targets

@@ -1,0 +1,4262 @@
+{
+    "mp-1002164": {
+        "bg": 2.09,
+        "composition": "GeC"
+    },
+    "mp-10044": {
+        "bg": 1.39,
+        "composition": "BAs"
+    },
+    "mp-1004532": {
+        "bg": 3.78,
+        "composition": "CCl4"
+    },
+    "mp-1009750": {
+        "bg": 0.92,
+        "composition": "ScN"
+    },
+    "mp-1009820": {
+        "bg": 2.1,
+        "composition": "SnC"
+    },
+    "mp-10159": {
+        "bg": 1.4,
+        "composition": "K3Sb"
+    },
+    "mp-1016197": {
+        "bg": 1.985,
+        "composition": "MgSiAs2"
+    },
+    "mp-1016200": {
+        "bg": 1.95,
+        "composition": "MgGeAs2"
+    },
+    "mp-1018040": {
+        "bg": 4.1,
+        "composition": "MgSe"
+    },
+    "mp-10182": {
+        "bg": 2.04,
+        "composition": "LiZnP"
+    },
+    "mp-1019544": {
+        "bg": 4.8,
+        "composition": "BaZrO3"
+    },
+    "mp-1019602": {
+        "bg": 4.13,
+        "composition": "Cs2Al2B2O7"
+    },
+    "mp-1019967": {
+        "bg": 3.915,
+        "composition": "LaSi3N5"
+    },
+    "mp-1020633": {
+        "bg": 3.827,
+        "composition": "RbMgBO3"
+    },
+    "mp-1020712": {
+        "bg": 3.875,
+        "composition": "ZnSiN2"
+    },
+    "mp-1024073": {
+        "bg": 3.325,
+        "composition": "K2Sn3O7"
+    },
+    "mp-1025340": {
+        "bg": 1.64,
+        "composition": "Cu2WSe4"
+    },
+    "mp-10293": {
+        "bg": 2.2,
+        "composition": "BaC2"
+    },
+    "mp-10347": {
+        "bg": 3.8,
+        "composition": "CsCa2Ta3O10"
+    },
+    "mp-10390": {
+        "bg": 4.0,
+        "composition": "Ta2O5"
+    },
+    "mp-1041014": {
+        "bg": 2.81,
+        "composition": "MgV2O4"
+    },
+    "mp-1045": {
+        "bg": 3.875,
+        "composition": "Nd2O3"
+    },
+    "mp-1047075": {
+        "bg": 1.89,
+        "composition": "MoO2"
+    },
+    "mp-1048391": {
+        "bg": 2.18,
+        "composition": "BaFe4O7"
+    },
+    "mp-1048859": {
+        "bg": 3.35,
+        "composition": "ZnCr2O4"
+    },
+    "mp-10499": {
+        "bg": 3.5,
+        "composition": "LiZr2(PO4)3"
+    },
+    "mp-1056": {
+        "bg": 0.95,
+        "composition": "Tb2O3"
+    },
+    "mp-1057015": {
+        "bg": 0.7,
+        "composition": "PbS"
+    },
+    "mp-1066781": {
+        "bg": 2.94,
+        "composition": "BrCl"
+    },
+    "mp-1070": {
+        "bg": 1.74,
+        "composition": "CdSe"
+    },
+    "mp-10782": {
+        "bg": 2.5,
+        "composition": "RbTbSe2"
+    },
+    "mp-1078217": {
+        "bg": 0.88,
+        "composition": "NaFeF3"
+    },
+    "mp-1078258": {
+        "bg": 2.44,
+        "composition": "Cs2AgBiCl6"
+    },
+    "mp-1078634": {
+        "bg": 2.1,
+        "composition": "LaFeO3"
+    },
+    "mp-1078667": {
+        "bg": 1.51,
+        "composition": "GeH4"
+    },
+    "mp-1078724": {
+        "bg": 1.105,
+        "composition": "LiAsSe2"
+    },
+    "mp-1080060": {
+        "bg": 5.0,
+        "composition": "LaAlO3"
+    },
+    "mp-1080625": {
+        "bg": 2.21,
+        "composition": "Sr2LiReO6"
+    },
+    "mp-1080650": {
+        "bg": 2.7,
+        "composition": "BaCuSF"
+    },
+    "mp-1087": {
+        "bg": 4.779999999999999,
+        "composition": "SrS"
+    },
+    "mp-1094040": {
+        "bg": 2.9,
+        "composition": "Zn2In2O5"
+    },
+    "mp-1095180": {
+        "bg": 0.95,
+        "composition": "Ca2CdAs2"
+    },
+    "mp-1095289": {
+        "bg": 1.57,
+        "composition": "LiCaAs"
+    },
+    "mp-1095291": {
+        "bg": 1.95,
+        "composition": "Li2SnSe3"
+    },
+    "mp-1095420": {
+        "bg": 3.62,
+        "composition": "ZnMoO4"
+    },
+    "mp-1095618": {
+        "bg": 1.06,
+        "composition": "PtN2"
+    },
+    "mp-1096782": {
+        "bg": 1.0,
+        "composition": "Ba2VFeO6"
+    },
+    "mp-1096926": {
+        "bg": 3.3,
+        "composition": "Cs2InAgCl6"
+    },
+    "mp-1100868": {
+        "bg": 0.6,
+        "composition": "YCuTe2"
+    },
+    "mp-1102443": {
+        "bg": 0.5,
+        "composition": "CoSbS"
+    },
+    "mp-1103397": {
+        "bg": 2.5,
+        "composition": "BaSnF4"
+    },
+    "mp-1103970": {
+        "bg": 1.5,
+        "composition": "FeSO4F"
+    },
+    "mp-1104268": {
+        "bg": 2.215,
+        "composition": "Cs3Bi2Cl9"
+    },
+    "mp-1104293": {
+        "bg": 1.8,
+        "composition": "K2AgF4"
+    },
+    "mp-1104469": {
+        "bg": 2.13,
+        "composition": "CsGdZnTe3"
+    },
+    "mp-1104938": {
+        "bg": 4.84,
+        "composition": "Rb3Na(MoO4)2"
+    },
+    "mp-1105127": {
+        "bg": 0.53,
+        "composition": "MnP4"
+    },
+    "mp-1105212": {
+        "bg": 2.6,
+        "composition": "Rb2AgPS4"
+    },
+    "mp-1105399": {
+        "bg": 0.55,
+        "composition": "La2MoO5"
+    },
+    "mp-1105419": {
+        "bg": 2.8,
+        "composition": "Cs2Hg3S4"
+    },
+    "mp-1105549": {
+        "bg": 1.69,
+        "composition": "BaHfS3"
+    },
+    "mp-1105692": {
+        "bg": 1.57,
+        "composition": "Tl2Hg3Se4"
+    },
+    "mp-1105822": {
+        "bg": 3.2,
+        "composition": "PrCrO3"
+    },
+    "mp-1106218": {
+        "bg": 3.47,
+        "composition": "Sr2ScSbO6"
+    },
+    "mp-1106270": {
+        "bg": 1.97,
+        "composition": "BaPd(IO3)4"
+    },
+    "mp-11116": {
+        "bg": 2.56,
+        "composition": "CsYCdSe3"
+    },
+    "mp-1112176": {
+        "bg": 2.5,
+        "composition": "CsTlCl3"
+    },
+    "mp-11123": {
+        "bg": 2.54,
+        "composition": "CsYHgSe3"
+    },
+    "mp-11124": {
+        "bg": 2.485,
+        "composition": "CsLaHgSe3"
+    },
+    "mp-1112501": {
+        "bg": 1.37,
+        "composition": "Cs2TlBiI6"
+    },
+    "mp-1112887": {
+        "bg": 1.0,
+        "composition": "Cs2InSbCl6"
+    },
+    "mp-1112889": {
+        "bg": 0.99,
+        "composition": "Cs2InBiCl6"
+    },
+    "mp-1112940": {
+        "bg": 2.54,
+        "composition": "Cs2AgSbCl6"
+    },
+    "mp-1112943": {
+        "bg": 1.64,
+        "composition": "Cs2AgSbBr6"
+    },
+    "mp-1112980": {
+        "bg": 3.05,
+        "composition": "Cs3BiBr6"
+    },
+    "mp-1113264": {
+        "bg": 1.75,
+        "composition": "Cs2AgBiI6"
+    },
+    "mp-11175": {
+        "bg": 3.44,
+        "composition": "LiZnPS4"
+    },
+    "mp-1120739": {
+        "bg": 3.2,
+        "composition": "CaCl2"
+    },
+    "mp-1120759": {
+        "bg": 1.0750000000000002,
+        "composition": "PdSe2"
+    },
+    "mp-1120792": {
+        "bg": 2.1,
+        "composition": "K3Bi2I9"
+    },
+    "mp-11321": {
+        "bg": 4.6,
+        "composition": "Y3TaO7"
+    },
+    "mp-1153": {
+        "bg": 3.3595,
+        "composition": "Li2S"
+    },
+    "mp-11604": {
+        "bg": 2.17,
+        "composition": "KSm2CuS4"
+    },
+    "mp-11674": {
+        "bg": 3.1,
+        "composition": "Al2Se3"
+    },
+    "mp-1170": {
+        "bg": 2.2,
+        "composition": "SnS2"
+    },
+    "mp-1172870": {
+        "bg": 2.43,
+        "composition": "K2Ho4Cu4S9"
+    },
+    "mp-1173567": {
+        "bg": 3.6685,
+        "composition": "NaLaMgWO6"
+    },
+    "mp-1176656": {
+        "bg": 1.43,
+        "composition": "LiMn2O4"
+    },
+    "mp-1178577": {
+        "bg": 2.44,
+        "composition": "AlFeO3"
+    },
+    "mp-1179114": {
+        "bg": 1.3,
+        "composition": "ScO2"
+    },
+    "mp-1180700": {
+        "bg": 1.7,
+        "composition": "LaMnO3"
+    },
+    "mp-1181313": {
+        "bg": 4.145,
+        "composition": "Ga2(TeO3)3"
+    },
+    "mp-1182128": {
+        "bg": 1.8,
+        "composition": "CeVO4"
+    },
+    "mp-1182285": {
+        "bg": 2.05,
+        "composition": "BaBiO3"
+    },
+    "mp-1186": {
+        "bg": 1.7,
+        "composition": "ZrS2"
+    },
+    "mp-1188364": {
+        "bg": 2.05,
+        "composition": "Tl2Hg3S4"
+    },
+    "mp-1188392": {
+        "bg": 3.57,
+        "composition": "LiInS2"
+    },
+    "mp-1188784": {
+        "bg": 3.26,
+        "composition": "Li2CdSnS4"
+    },
+    "mp-1188804": {
+        "bg": 3.73,
+        "composition": "DyMnO3"
+    },
+    "mp-1189242": {
+        "bg": 2.81,
+        "composition": "Dy3GaS6"
+    },
+    "mp-1189339": {
+        "bg": 1.92,
+        "composition": "Ba2InSbSe5"
+    },
+    "mp-1189383": {
+        "bg": 3.1,
+        "composition": "Li2CdGeS4"
+    },
+    "mp-1189528": {
+        "bg": 3.645,
+        "composition": "Ca2ScSbO6"
+    },
+    "mp-1189572": {
+        "bg": 2.3,
+        "composition": "As2S3"
+    },
+    "mp-1189598": {
+        "bg": 2.88,
+        "composition": "Y3GaS6"
+    },
+    "mp-1189614": {
+        "bg": 3.0,
+        "composition": "BaThO3"
+    },
+    "mp-1190": {
+        "bg": 2.7,
+        "composition": "ZnSe"
+    },
+    "mp-1190100": {
+        "bg": 0.9,
+        "composition": "Tl2Hg3Te4"
+    },
+    "mp-1190138": {
+        "bg": 2.87,
+        "composition": "Na2In2SiS6"
+    },
+    "mp-1190141": {
+        "bg": 2.03,
+        "composition": "Na2TeS3"
+    },
+    "mp-1190145": {
+        "bg": 2.7935,
+        "composition": "Na2In2GeS6"
+    },
+    "mp-1190216": {
+        "bg": 3.68,
+        "composition": "HCNO"
+    },
+    "mp-1190364": {
+        "bg": 2.14,
+        "composition": "Li2SnS3"
+    },
+    "mp-1190380": {
+        "bg": 2.0,
+        "composition": "Ba2ZnTe3"
+    },
+    "mp-1190388": {
+        "bg": 3.29,
+        "composition": "Na2Ga2GeS6"
+    },
+    "mp-1190401": {
+        "bg": 2.2,
+        "composition": "BaAgSbS3"
+    },
+    "mp-1190528": {
+        "bg": 2.6,
+        "composition": "Ba2ZnSe3"
+    },
+    "mp-1190564": {
+        "bg": 4.05,
+        "composition": "BiPO4"
+    },
+    "mp-1190579": {
+        "bg": 1.6,
+        "composition": "Cs2Cu2Sb2S5"
+    },
+    "mp-1190698": {
+        "bg": 2.04,
+        "composition": "KBaSbSe3"
+    },
+    "mp-1191072": {
+        "bg": 2.73,
+        "composition": "BaGa4Se7"
+    },
+    "mp-1191101": {
+        "bg": 3.742,
+        "composition": "KMgBO3"
+    },
+    "mp-1191111": {
+        "bg": 3.44,
+        "composition": "SrTi(PO4)2"
+    },
+    "mp-1191200": {
+        "bg": 2.3,
+        "composition": "Li2In2GeSe6"
+    },
+    "mp-1191234": {
+        "bg": 3.4,
+        "composition": "BaAl4Se7"
+    },
+    "mp-1191240": {
+        "bg": 4.24,
+        "composition": "Sr2ZnSi2O7"
+    },
+    "mp-1191266": {
+        "bg": 3.0700000000000003,
+        "composition": "BiIO4"
+    },
+    "mp-1191476": {
+        "bg": 3.45,
+        "composition": "Li2In2GeS6"
+    },
+    "mp-1191636": {
+        "bg": 2.58,
+        "composition": "CsCdBO3"
+    },
+    "mp-1191817": {
+        "bg": 2.54,
+        "composition": "Li2In2SiSe6"
+    },
+    "mp-1191826": {
+        "bg": 2.26,
+        "composition": "KBaAsSe3"
+    },
+    "mp-1191903": {
+        "bg": 3.61,
+        "composition": "Li2In2SiS6"
+    },
+    "mp-1192032": {
+        "bg": 4.82,
+        "composition": "NaSr3Be3B3O9F4"
+    },
+    "mp-1192057": {
+        "bg": 2.24,
+        "composition": "Ag2S2O7"
+    },
+    "mp-1192203": {
+        "bg": 2.93,
+        "composition": "NaCdAsS3"
+    },
+    "mp-1192376": {
+        "bg": 0.57,
+        "composition": "Ba3AlAs3"
+    },
+    "mp-1192413": {
+        "bg": 3.9,
+        "composition": "CsInTe3O8"
+    },
+    "mp-1192452": {
+        "bg": 1.15,
+        "composition": "RbNb2PSe10"
+    },
+    "mp-1192526": {
+        "bg": 3.4,
+        "composition": "CsBaPS4"
+    },
+    "mp-1192528": {
+        "bg": 1.4,
+        "composition": "LiCa3As2H"
+    },
+    "mp-1192531": {
+        "bg": 1.53,
+        "composition": "KCu2SbS3"
+    },
+    "mp-1192550": {
+        "bg": 3.3,
+        "composition": "RbBaPS4"
+    },
+    "mp-1192556": {
+        "bg": 3.9,
+        "composition": "RbInTe3O8"
+    },
+    "mp-1192564": {
+        "bg": 1.76,
+        "composition": "Mg2GeSe4"
+    },
+    "mp-1192595": {
+        "bg": 1.735,
+        "composition": "Ba2SnSe4"
+    },
+    "mp-1192667": {
+        "bg": 2.1,
+        "composition": "KAg2SbS3"
+    },
+    "mp-1192770": {
+        "bg": 2.45,
+        "composition": "Rb3In(IO3)6"
+    },
+    "mp-1193355": {
+        "bg": 2.05,
+        "composition": "Mg2SnS4"
+    },
+    "mp-1193499": {
+        "bg": 1.5,
+        "composition": "AgPd(IO3)3"
+    },
+    "mp-1193501": {
+        "bg": 5.0,
+        "composition": "Li2Fe(SO4)2"
+    },
+    "mp-1194282": {
+        "bg": 3.4,
+        "composition": "K2Ti4O9"
+    },
+    "mp-1194576": {
+        "bg": 2.48,
+        "composition": "Rb3Sb2Br9"
+    },
+    "mp-1194610": {
+        "bg": 4.405,
+        "composition": "K4Mg(WO4)3"
+    },
+    "mp-1194701": {
+        "bg": 2.12,
+        "composition": "Cs2ZnSn3Se8"
+    },
+    "mp-1194705": {
+        "bg": 1.9,
+        "composition": "Sr2P7Cl"
+    },
+    "mp-1194706": {
+        "bg": 3.6,
+        "composition": "RbY(TeO3)2"
+    },
+    "mp-1194714": {
+        "bg": 3.02,
+        "composition": "SrTh(PS4)2"
+    },
+    "mp-1194731": {
+        "bg": 2.06,
+        "composition": "CsBa2SnS4Cl"
+    },
+    "mp-1194749": {
+        "bg": 2.31,
+        "composition": "Cs2ZnGe3Se8"
+    },
+    "mp-1194849": {
+        "bg": 4.77,
+        "composition": "Na3MoO4F"
+    },
+    "mp-1194878": {
+        "bg": 4.0,
+        "composition": "NaIn(TeO3)2"
+    },
+    "mp-1194980": {
+        "bg": 3.8,
+        "composition": "KY(TeO3)2"
+    },
+    "mp-1195026": {
+        "bg": 4.17,
+        "composition": "Rb2Mg2(WO4)3"
+    },
+    "mp-1195033": {
+        "bg": 1.3,
+        "composition": "Ba3Nb2Se9"
+    },
+    "mp-1195068": {
+        "bg": 1.6,
+        "composition": "Ba3Ta2Se9"
+    },
+    "mp-1195102": {
+        "bg": 2.4,
+        "composition": "RbAg5(PS4)2"
+    },
+    "mp-1195201": {
+        "bg": 2.285,
+        "composition": "K2Au(IO3)5"
+    },
+    "mp-1195243": {
+        "bg": 1.38,
+        "composition": "AgP15"
+    },
+    "mp-1195253": {
+        "bg": 4.0,
+        "composition": "KIn(TeO3)2"
+    },
+    "mp-1195270": {
+        "bg": 2.0,
+        "composition": "Sr2P7I"
+    },
+    "mp-1195291": {
+        "bg": 1.6,
+        "composition": "Rb2Cu2Sb2S5"
+    },
+    "mp-1195298": {
+        "bg": 0.97,
+        "composition": "CaSiP2"
+    },
+    "mp-1195344": {
+        "bg": 2.16,
+        "composition": "Ba4Ga4SnSe12"
+    },
+    "mp-1195350": {
+        "bg": 1.81,
+        "composition": "CsCdInTe3"
+    },
+    "mp-1195363": {
+        "bg": 2.62,
+        "composition": "Rb3Bi2Br9"
+    },
+    "mp-1195471": {
+        "bg": 4.15,
+        "composition": "K2Ta4O11"
+    },
+    "mp-1195550": {
+        "bg": 2.46,
+        "composition": "K2Ce(PO4)2"
+    },
+    "mp-1195571": {
+        "bg": 4.53,
+        "composition": "Cs2Mg2(WO4)3"
+    },
+    "mp-1195582": {
+        "bg": 2.3,
+        "composition": "La8Sb2S15"
+    },
+    "mp-1195592": {
+        "bg": 0.78,
+        "composition": "Ba3GaAs3"
+    },
+    "mp-1195594": {
+        "bg": 2.31,
+        "composition": "Ba8Sn4S15"
+    },
+    "mp-1195624": {
+        "bg": 2.4,
+        "composition": "Ba3Sb2S7"
+    },
+    "mp-1195633": {
+        "bg": 1.92,
+        "composition": "Cs2MgSn3Se8"
+    },
+    "mp-1195664": {
+        "bg": 2.1,
+        "composition": "Sr2P7Br"
+    },
+    "mp-1195667": {
+        "bg": 2.04,
+        "composition": "Cs2MgGe3Se8"
+    },
+    "mp-1195769": {
+        "bg": 2.18,
+        "composition": "NaIn3S5"
+    },
+    "mp-1195822": {
+        "bg": 1.15,
+        "composition": "CsNb2PSe10"
+    },
+    "mp-1196063": {
+        "bg": 4.61,
+        "composition": "Ga2Se2O7"
+    },
+    "mp-1196139": {
+        "bg": 0.6499999999999999,
+        "composition": "Mg3Sb2"
+    },
+    "mp-1196183": {
+        "bg": 2.13,
+        "composition": "Sm4InSbS9"
+    },
+    "mp-1196438": {
+        "bg": 2.3,
+        "composition": "CsCu2AsS3"
+    },
+    "mp-1196490": {
+        "bg": 2.27,
+        "composition": "La4Cd4In2S13"
+    },
+    "mp-1196607": {
+        "bg": 3.7,
+        "composition": "NaIn(IO3)4"
+    },
+    "mp-1196663": {
+        "bg": 2.32,
+        "composition": "La4InSbS9"
+    },
+    "mp-1196712": {
+        "bg": 2.58,
+        "composition": "Dy4GaSbS9"
+    },
+    "mp-1197353": {
+        "bg": 2.65,
+        "composition": "Ba4LiGa5Se12"
+    },
+    "mp-1198022": {
+        "bg": 0.7,
+        "composition": "Ge"
+    },
+    "mp-1198078": {
+        "bg": 1.41,
+        "composition": "Sm2ZrSe5"
+    },
+    "mp-1198248": {
+        "bg": 1.5,
+        "composition": "In2Bi3Se7I"
+    },
+    "mp-1198404": {
+        "bg": 1.31,
+        "composition": "Pd(IO3)2"
+    },
+    "mp-1198419": {
+        "bg": 2.43,
+        "composition": "K2Cd3Se4"
+    },
+    "mp-1198591": {
+        "bg": 2.96,
+        "composition": "RbMoPO6"
+    },
+    "mp-1198687": {
+        "bg": 2.01,
+        "composition": "La2ZrS5"
+    },
+    "mp-1198962": {
+        "bg": 3.3,
+        "composition": "CoTe6O13"
+    },
+    "mp-1199065": {
+        "bg": 2.23,
+        "composition": "Sm4GaSbS9"
+    },
+    "mp-1199125": {
+        "bg": 2.97,
+        "composition": "In2Se2O7"
+    },
+    "mp-1199284": {
+        "bg": 2.41,
+        "composition": "Gd4GaSbS9"
+    },
+    "mp-1199451": {
+        "bg": 3.75,
+        "composition": "B2S3"
+    },
+    "mp-1199482": {
+        "bg": 1.33,
+        "composition": "K2Gd2Sb2Se9"
+    },
+    "mp-1199743": {
+        "bg": 2.16,
+        "composition": "CsInTe2"
+    },
+    "mp-1199946": {
+        "bg": 0.93,
+        "composition": "Ba2FeSbS5"
+    },
+    "mp-1200447": {
+        "bg": 1.9,
+        "composition": "LaYS3"
+    },
+    "mp-1200490": {
+        "bg": 4.59,
+        "composition": "Tb4Al2O9"
+    },
+    "mp-1200720": {
+        "bg": 2.81,
+        "composition": "CsInSe2"
+    },
+    "mp-1200759": {
+        "bg": 3.0,
+        "composition": "Ba3GeS5"
+    },
+    "mp-1200917": {
+        "bg": 3.39,
+        "composition": "SmBiW2O9"
+    },
+    "mp-1200935": {
+        "bg": 1.66,
+        "composition": "Ba2GaSbTe5"
+    },
+    "mp-1201494": {
+        "bg": 1.83,
+        "composition": "Rb2Th7Se15"
+    },
+    "mp-1201497": {
+        "bg": 1.73,
+        "composition": "Bi2Pd(SeO3)4"
+    },
+    "mp-1201691": {
+        "bg": 3.2,
+        "composition": "MnTe6O13"
+    },
+    "mp-1202157": {
+        "bg": 2.8,
+        "composition": "TlHg6Se4Br5"
+    },
+    "mp-1202506": {
+        "bg": 1.22,
+        "composition": "Ba2FeBiS5"
+    },
+    "mp-1202576": {
+        "bg": 2.44,
+        "composition": "Tb4GaSbS9"
+    },
+    "mp-1202711": {
+        "bg": 2.335,
+        "composition": "BaSn2S5"
+    },
+    "mp-1202825": {
+        "bg": 1.86,
+        "composition": "CsLu7S11"
+    },
+    "mp-1202829": {
+        "bg": 1.43,
+        "composition": "Ba2GaBiTe5"
+    },
+    "mp-1203387": {
+        "bg": 2.51,
+        "composition": "Ba2GaSbSe5"
+    },
+    "mp-1203413": {
+        "bg": 3.035,
+        "composition": "BaTeMo2O9"
+    },
+    "mp-1203522": {
+        "bg": 3.59,
+        "composition": "Cs2HgCl4"
+    },
+    "mp-1203526": {
+        "bg": 1.825,
+        "composition": "Cd4As2Br3"
+    },
+    "mp-1203743": {
+        "bg": 1.78,
+        "composition": "CsLu7Se11"
+    },
+    "mp-1204356": {
+        "bg": 2.5,
+        "composition": "SiC"
+    },
+    "mp-1204377": {
+        "bg": 3.03,
+        "composition": "TlHg6S4Br5"
+    },
+    "mp-1204598": {
+        "bg": 3.1,
+        "composition": "Bi6Mo2O15"
+    },
+    "mp-1205353": {
+        "bg": 3.04,
+        "composition": "KMnF3"
+    },
+    "mp-1205371": {
+        "bg": 3.205,
+        "composition": "Ba3InS4Cl"
+    },
+    "mp-1205803": {
+        "bg": 2.5,
+        "composition": "Ba2ErTaO6"
+    },
+    "mp-1205823": {
+        "bg": 4.19,
+        "composition": "Ba2ScTaO6"
+    },
+    "mp-1205847": {
+        "bg": 1.6,
+        "composition": "Cs2PdBr6"
+    },
+    "mp-1206662": {
+        "bg": 1.04,
+        "composition": "Cs2TiI6"
+    },
+    "mp-1207082": {
+        "bg": 1.875,
+        "composition": "LiMgSb"
+    },
+    "mp-1207473": {
+        "bg": 3.8,
+        "composition": "ZnC2"
+    },
+    "mp-1208111": {
+        "bg": 2.92,
+        "composition": "TlPb2Br5"
+    },
+    "mp-1208761": {
+        "bg": 3.38,
+        "composition": null
+    },
+    "mp-1209358": {
+        "bg": 2.21,
+        "composition": "Rb3Ta2AsS11"
+    },
+    "mp-1209628": {
+        "bg": 1.88,
+        "composition": "RbGaSnSe4"
+    },
+    "mp-1209693": {
+        "bg": 2.1,
+        "composition": "Rb3Sb2I9"
+    },
+    "mp-1209751": {
+        "bg": 1.0,
+        "composition": "Pr2MnNiO6"
+    },
+    "mp-1211317": {
+        "bg": 4.1,
+        "composition": "LaBWO6"
+    },
+    "mp-1211748": {
+        "bg": 2.21,
+        "composition": "K3Ta2AsS11"
+    },
+    "mp-1211763": {
+        "bg": 3.04,
+        "composition": "KGdTiO4"
+    },
+    "mp-1211873": {
+        "bg": 1.61,
+        "composition": "K3Ti2P5S18"
+    },
+    "mp-1212067": {
+        "bg": 4.05,
+        "composition": "InSbO4"
+    },
+    "mp-1212633": {
+        "bg": 3.3,
+        "composition": "LaGaGe2O7"
+    },
+    "mp-1213805": {
+        "bg": 1.05,
+        "composition": "CrI3"
+    },
+    "mp-1214217": {
+        "bg": 1.615,
+        "composition": "CCl2"
+    },
+    "mp-1214622": {
+        "bg": 3.02,
+        "composition": "Ba2SmTaO6"
+    },
+    "mp-1214816": {
+        "bg": 1.05,
+        "composition": "Al4SiC4"
+    },
+    "mp-1214937": {
+        "bg": 3.35,
+        "composition": "Ba2LaV3O11"
+    },
+    "mp-1215990": {
+        "bg": 2.71,
+        "composition": "Zn6S5Cl2"
+    },
+    "mp-1216625": {
+        "bg": 3.145,
+        "composition": "TiOF2"
+    },
+    "mp-1216778": {
+        "bg": 1.12,
+        "composition": "TiS2"
+    },
+    "mp-1217269": {
+        "bg": 2.392,
+        "composition": "TeSe2"
+    },
+    "mp-1218758": {
+        "bg": 4.6,
+        "composition": "Sr2LaGaO5"
+    },
+    "mp-1218879": {
+        "bg": 4.11,
+        "composition": "Sr2Al2SiO7"
+    },
+    "mp-1219182": {
+        "bg": 0.51,
+        "composition": "SiGe"
+    },
+    "mp-12192": {
+        "bg": 3.4,
+        "composition": "La2Ti2O7"
+    },
+    "mp-1220785": {
+        "bg": 3.28,
+        "composition": "NaLaTi2O6"
+    },
+    "mp-1220818": {
+        "bg": 3.02,
+        "composition": "NaBi(WO4)2"
+    },
+    "mp-1220879": {
+        "bg": 1.48,
+        "composition": "NaSbSe2"
+    },
+    "mp-1221125": {
+        "bg": 1.21,
+        "composition": "NaBiS2"
+    },
+    "mp-1222368": {
+        "bg": 2.505,
+        "composition": "LiVMoO6"
+    },
+    "mp-1222376": {
+        "bg": 3.1,
+        "composition": "LiZnBO3"
+    },
+    "mp-1222860": {
+        "bg": 5.0,
+        "composition": "Li7Mn(BO3)3"
+    },
+    "mp-1223253": {
+        "bg": 1.133,
+        "composition": "La2MnNiO6"
+    },
+    "mp-1223463": {
+        "bg": 3.26,
+        "composition": "KCNO"
+    },
+    "mp-1223584": {
+        "bg": 1.21,
+        "composition": "KBi3S5"
+    },
+    "mp-1223642": {
+        "bg": 1.84,
+        "composition": "InGaP2"
+    },
+    "mp-1223709": {
+        "bg": 2.2,
+        "composition": "K2Ag3Sb3S7"
+    },
+    "mp-1223734": {
+        "bg": 2.2,
+        "composition": "K2La2Sb2S9"
+    },
+    "mp-1223975": {
+        "bg": 3.25,
+        "composition": "K2Nd2Ti3O10"
+    },
+    "mp-1224": {
+        "bg": 2.2,
+        "composition": "HgO"
+    },
+    "mp-1224229": {
+        "bg": 3.1500000000000004,
+        "composition": "K10Zn4Sn4S17"
+    },
+    "mp-1224772": {
+        "bg": 3.75,
+        "composition": "HNO3"
+    },
+    "mp-1225654": {
+        "bg": 3.306,
+        "composition": "CuCl"
+    },
+    "mp-1225854": {
+        "bg": 3.525,
+        "composition": "CsTaWO6"
+    },
+    "mp-1225936": {
+        "bg": 1.89,
+        "composition": "CsHgSbSe3"
+    },
+    "mp-1225967": {
+        "bg": 1.9,
+        "composition": "CsPSe6"
+    },
+    "mp-1225993": {
+        "bg": 1.21,
+        "composition": "Cu2S"
+    },
+    "mp-1227335": {
+        "bg": 0.92,
+        "composition": "Bi2Te2S"
+    },
+    "mp-1227508": {
+        "bg": 1.1,
+        "composition": "BiSbSe3"
+    },
+    "mp-1227970": {
+        "bg": 2.81,
+        "composition": "BaGa2GeSe6"
+    },
+    "mp-1228150": {
+        "bg": 4.1,
+        "composition": "Ba3LaNb3O12"
+    },
+    "mp-1228245": {
+        "bg": 3.9,
+        "composition": "BaLa4Ti4O15"
+    },
+    "mp-1228486": {
+        "bg": 2.12,
+        "composition": "Ba2NdGaS5"
+    },
+    "mp-1228557": {
+        "bg": 3.4,
+        "composition": "Ba8Ti3Nb4O24"
+    },
+    "mp-1229044": {
+        "bg": 2.56,
+        "composition": "Ba12In4S19"
+    },
+    "mp-12306": {
+        "bg": 2.3,
+        "composition": "BaCdSnS4"
+    },
+    "mp-1232659": {
+        "bg": 3.75,
+        "composition": "MnO"
+    },
+    "mp-1237135": {
+        "bg": 3.05,
+        "composition": "Y6MoO12"
+    },
+    "mp-12385": {
+        "bg": 3.5,
+        "composition": "Ba2YTaO6"
+    },
+    "mp-1238804": {
+        "bg": 3.44,
+        "composition": "Cs4PbI6"
+    },
+    "mp-1238811": {
+        "bg": 3.1,
+        "composition": "CsPb2Br5"
+    },
+    "mp-1238815": {
+        "bg": 1.795,
+        "composition": "B4C"
+    },
+    "mp-1239169": {
+        "bg": 1.5,
+        "composition": "MoS3"
+    },
+    "mp-1246515": {
+        "bg": 2.5,
+        "composition": "Ca6Te3N2"
+    },
+    "mp-1247749": {
+        "bg": 1.75,
+        "composition": "CsSnBr3"
+    },
+    "mp-1250007": {
+        "bg": 1.74,
+        "composition": "SiSe2"
+    },
+    "mp-12532": {
+        "bg": 3.02,
+        "composition": "KAg2PS4"
+    },
+    "mp-12535": {
+        "bg": 3.0,
+        "composition": "K2ZnTe2"
+    },
+    "mp-1270": {
+        "bg": 2.955,
+        "composition": "Dy2S3"
+    },
+    "mp-1271821": {
+        "bg": 1.82,
+        "composition": "Fe3O4"
+    },
+    "mp-1274279": {
+        "bg": 2.0,
+        "composition": "FeO"
+    },
+    "mp-1274308": {
+        "bg": 2.38,
+        "composition": "Sr2CoWO6"
+    },
+    "mp-1288145": {
+        "bg": 2.1,
+        "composition": "LaCoO3"
+    },
+    "mp-12903": {
+        "bg": 1.36,
+        "composition": "YAgTe2"
+    },
+    "mp-12954": {
+        "bg": 3.61,
+        "composition": "CuBS2"
+    },
+    "mp-13019": {
+        "bg": 4.5,
+        "composition": "NaLa2TaO6"
+    },
+    "mp-1315": {
+        "bg": 0.658,
+        "composition": "MgS"
+    },
+    "mp-13287": {
+        "bg": 2.65,
+        "composition": "BaCuTeF"
+    },
+    "mp-13334": {
+        "bg": 3.05,
+        "composition": "ZnSnO3"
+    },
+    "mp-1340": {
+        "bg": 2.29,
+        "composition": "Ga2Se3"
+    },
+    "mp-1342": {
+        "bg": 3.56,
+        "composition": "BaO"
+    },
+    "mp-1346": {
+        "bg": 2.0,
+        "composition": "B6O"
+    },
+    "mp-13548": {
+        "bg": 1.5,
+        "composition": "Cs2Pt"
+    },
+    "mp-13664": {
+        "bg": 4.465,
+        "composition": "Sr2Ta2O7"
+    },
+    "mp-13872": {
+        "bg": 0.97,
+        "composition": "Cu8SiS6"
+    },
+    "mp-13944": {
+        "bg": 4.4,
+        "composition": "Li3AlN2"
+    },
+    "mp-13979": {
+        "bg": 2.14,
+        "composition": "Ca2Nb2O7"
+    },
+    "mp-1403": {
+        "bg": 3.0,
+        "composition": "Sm2S3"
+    },
+    "mp-1403610": {
+        "bg": 3.095,
+        "composition": "CaTi2O5"
+    },
+    "mp-1407369": {
+        "bg": 2.0,
+        "composition": "LiCuS"
+    },
+    "mp-14088": {
+        "bg": 2.67,
+        "composition": "Rb2PdF6"
+    },
+    "mp-1411545": {
+        "bg": 0.5449999999999999,
+        "composition": "NiS2"
+    },
+    "mp-1423059": {
+        "bg": 2.87,
+        "composition": "SbN"
+    },
+    "mp-1434": {
+        "bg": 1.78,
+        "composition": "MoS2"
+    },
+    "mp-14577": {
+        "bg": 2.58,
+        "composition": "Rb4Ta2S11"
+    },
+    "mp-1477": {
+        "bg": 1.3,
+        "composition": "BaSi2"
+    },
+    "mp-149": {
+        "bg": 1.12,
+        "composition": "Si"
+    },
+    "mp-1500": {
+        "bg": 3.67,
+        "composition": "BaS"
+    },
+    "mp-1509": {
+        "bg": 1.175,
+        "composition": "Sn2S3"
+    },
+    "mp-15148": {
+        "bg": 1.96,
+        "composition": "K4Nb2S11"
+    },
+    "mp-15201": {
+        "bg": 2.7,
+        "composition": "Pr2Ti2O7"
+    },
+    "mp-1522": {
+        "bg": 0.95,
+        "composition": "FeS2"
+    },
+    "mp-1539667": {
+        "bg": 2.975,
+        "composition": "CsPbCl3"
+    },
+    "mp-1541": {
+        "bg": 2.725,
+        "composition": "BeSe"
+    },
+    "mp-1550": {
+        "bg": 2.48,
+        "composition": "AlP"
+    },
+    "mp-15559": {
+        "bg": 1.745,
+        "composition": "KSb5S8"
+    },
+    "mp-1559": {
+        "bg": 2.03,
+        "composition": "Mg3N2"
+    },
+    "mp-1569": {
+        "bg": 2.0,
+        "composition": "Be2C"
+    },
+    "mp-1582": {
+        "bg": 4.5,
+        "composition": "As2O3"
+    },
+    "mp-15900": {
+        "bg": 2.4,
+        "composition": "Sr3Sc2Cu2S2O5"
+    },
+    "mp-1602": {
+        "bg": 2.95,
+        "composition": "SiS2"
+    },
+    "mp-16179": {
+        "bg": 1.795,
+        "composition": "SrCu2GeSe4"
+    },
+    "mp-1672": {
+        "bg": 4.465,
+        "composition": "CaS"
+    },
+    "mp-16818": {
+        "bg": 2.37,
+        "composition": "Rb2Cd3Se4"
+    },
+    "mp-17101": {
+        "bg": 3.94,
+        "composition": "CaNb2O6"
+    },
+    "mp-1714": {
+        "bg": 0.88,
+        "composition": "FeSi2"
+    },
+    "mp-1716": {
+        "bg": 1.2,
+        "composition": "Rh2O3"
+    },
+    "mp-17172": {
+        "bg": 1.6,
+        "composition": "Tl2TeS3"
+    },
+    "mp-17254": {
+        "bg": 1.88,
+        "composition": "TlGaSe2"
+    },
+    "mp-17360": {
+        "bg": 3.84,
+        "composition": "Ni2Te3O8"
+    },
+    "mp-17464": {
+        "bg": 3.185,
+        "composition": "SrGeO3"
+    },
+    "mp-1747": {
+        "bg": 1.9,
+        "composition": "K2Te"
+    },
+    "mp-17612": {
+        "bg": 4.2605,
+        "composition": "Ba2SiO4"
+    },
+    "mp-17691": {
+        "bg": 1.87,
+        "composition": "Cu3SbS3"
+    },
+    "mp-17698": {
+        "bg": 2.51,
+        "composition": "K6CdTe4"
+    },
+    "mp-17700": {
+        "bg": 1.9,
+        "composition": "SnWO4"
+    },
+    "mp-17715": {
+        "bg": 4.49,
+        "composition": "SrTa2O6"
+    },
+    "mp-17756": {
+        "bg": 2.3,
+        "composition": "RbAg2SbS4"
+    },
+    "mp-17761": {
+        "bg": 2.03,
+        "composition": "CaGeO3"
+    },
+    "mp-17835": {
+        "bg": 1.47,
+        "composition": "Sn2Sb2S5"
+    },
+    "mp-17904": {
+        "bg": 3.0,
+        "composition": "Nd2TiO5"
+    },
+    "mp-17905": {
+        "bg": 1.63,
+        "composition": "Cs2Hg6S7"
+    },
+    "mp-17945": {
+        "bg": 2.18,
+        "composition": "RbPSe6"
+    },
+    "mp-17947": {
+        "bg": 2.465,
+        "composition": "BaCu2GeS4"
+    },
+    "mp-17953": {
+        "bg": 2.19,
+        "composition": "MgNb2O6"
+    },
+    "mp-17964": {
+        "bg": 2.31,
+        "composition": "Na2Ge2Se5"
+    },
+    "mp-18006": {
+        "bg": 2.08,
+        "composition": "Rb2Cu2SnS4"
+    },
+    "mp-18101": {
+        "bg": 2.75,
+        "composition": "K2Cd3S4"
+    },
+    "mp-18179": {
+        "bg": 2.5,
+        "composition": "Cd4SiS6"
+    },
+    "mp-18331": {
+        "bg": 3.2,
+        "composition": "GdCrO3"
+    },
+    "mp-18337": {
+        "bg": 3.8,
+        "composition": "Be3N2"
+    },
+    "mp-18531": {
+        "bg": 2.26,
+        "composition": "K2Cd3Te4"
+    },
+    "mp-18556": {
+        "bg": 2.92,
+        "composition": "Rb2Cd3S4"
+    },
+    "mp-18571": {
+        "bg": 2.63,
+        "composition": "BaCrO4"
+    },
+    "mp-18601": {
+        "bg": 1.61,
+        "composition": "DyMn2O5"
+    },
+    "mp-18625": {
+        "bg": 2.16,
+        "composition": "KPSe6"
+    },
+    "mp-1863": {
+        "bg": 1.525,
+        "composition": "SiAs"
+    },
+    "mp-18685": {
+        "bg": 2.5,
+        "composition": "SrCu2GeS4"
+    },
+    "mp-18725": {
+        "bg": 1.86,
+        "composition": "YCrO3"
+    },
+    "mp-18759": {
+        "bg": 2.3,
+        "composition": "Mn3O4"
+    },
+    "mp-18783": {
+        "bg": 2.42,
+        "composition": "Ca2FeMoO6"
+    },
+    "mp-18814": {
+        "bg": 3.104,
+        "composition": "MnCO3"
+    },
+    "mp-18834": {
+        "bg": 3.415,
+        "composition": "SrMoO4"
+    },
+    "mp-18844": {
+        "bg": 1.67,
+        "composition": "CaMn2O4"
+    },
+    "mp-18855": {
+        "bg": 3.6,
+        "composition": "Co2Te3O8"
+    },
+    "mp-18875": {
+        "bg": 3.39,
+        "composition": "MgWO4"
+    },
+    "mp-18899": {
+        "bg": 1.02,
+        "composition": "Nd2MnNiO6"
+    },
+    "mp-18918": {
+        "bg": 3.3,
+        "composition": "ZnWO4"
+    },
+    "mp-18960": {
+        "bg": 3.41,
+        "composition": "ErVO4"
+    },
+    "mp-18968": {
+        "bg": 3.15,
+        "composition": "Li2FeSiO4"
+    },
+    "mp-18988": {
+        "bg": 1.89,
+        "composition": "Li2MnO3"
+    },
+    "mp-18997": {
+        "bg": 2.0,
+        "composition": "LiMnPO4"
+    },
+    "mp-19001": {
+        "bg": 1.2,
+        "composition": "SrMnO3"
+    },
+    "mp-19009": {
+        "bg": 3.6,
+        "composition": "NiO"
+    },
+    "mp-19017": {
+        "bg": 3.75,
+        "composition": "LiFePO4"
+    },
+    "mp-19034": {
+        "bg": 3.02,
+        "composition": "Mg3V2O8"
+    },
+    "mp-19039": {
+        "bg": 3.2,
+        "composition": "CdMoO4"
+    },
+    "mp-19046": {
+        "bg": 1.04,
+        "composition": "KMnO4"
+    },
+    "mp-19048": {
+        "bg": 3.2,
+        "composition": "BaWO4"
+    },
+    "mp-19080": {
+        "bg": 1.24,
+        "composition": "Na2Mn3O7"
+    },
+    "mp-19083": {
+        "bg": 2.495,
+        "composition": "NaVO3"
+    },
+    "mp-19097": {
+        "bg": 2.35,
+        "composition": "FeBO3"
+    },
+    "mp-19114": {
+        "bg": 2.32,
+        "composition": "Ca2NiWO6"
+    },
+    "mp-19131": {
+        "bg": 3.05,
+        "composition": "LiMnBO3"
+    },
+    "mp-19133": {
+        "bg": 3.6,
+        "composition": "YVO4"
+    },
+    "mp-19142": {
+        "bg": 1.8,
+        "composition": "Mn2V2O7"
+    },
+    "mp-19162": {
+        "bg": 2.69,
+        "composition": "LaVO4"
+    },
+    "mp-19163": {
+        "bg": 4.8,
+        "composition": "SrWO4"
+    },
+    "mp-19202": {
+        "bg": 0.693,
+        "composition": "MgCr2O4"
+    },
+    "mp-19219": {
+        "bg": 3.9,
+        "composition": "Li3VO4"
+    },
+    "mp-19254": {
+        "bg": 1.03,
+        "composition": "FeSO4"
+    },
+    "mp-19260": {
+        "bg": 4.175,
+        "composition": "Li2WO4"
+    },
+    "mp-19276": {
+        "bg": 3.35,
+        "composition": "BaMoO4"
+    },
+    "mp-19281": {
+        "bg": 1.33,
+        "composition": "LaCrO3"
+    },
+    "mp-19318": {
+        "bg": 3.26,
+        "composition": "Ag2MoO4"
+    },
+    "mp-19319": {
+        "bg": 1.6,
+        "composition": "ErMnO3"
+    },
+    "mp-19323": {
+        "bg": 2.28,
+        "composition": "SmVO4"
+    },
+    "mp-19381": {
+        "bg": 2.8,
+        "composition": "DyCrO3"
+    },
+    "mp-19386": {
+        "bg": 3.45,
+        "composition": "Sr3V2O8"
+    },
+    "mp-19387": {
+        "bg": 3.7,
+        "composition": "CdWO4"
+    },
+    "mp-19407": {
+        "bg": 2.69,
+        "composition": "MnWO4"
+    },
+    "mp-19421": {
+        "bg": 2.495,
+        "composition": "FeWO4"
+    },
+    "mp-19426": {
+        "bg": 4.325,
+        "composition": "CaWO4"
+    },
+    "mp-19455": {
+        "bg": 1.96,
+        "composition": "MnMoO4"
+    },
+    "mp-19474": {
+        "bg": 3.22,
+        "composition": "Ba2V2O7"
+    },
+    "mp-1958": {
+        "bg": 3.5,
+        "composition": "SrTe"
+    },
+    "mp-1960": {
+        "bg": 3.24,
+        "composition": "Li2O"
+    },
+    "mp-19795": {
+        "bg": 1.995,
+        "composition": "InS"
+    },
+    "mp-19803": {
+        "bg": 3.225,
+        "composition": "CdIn2O4"
+    },
+    "mp-1983109": {
+        "bg": 3.26,
+        "composition": "ErBiW2O9"
+    },
+    "mp-1990": {
+        "bg": 1.865,
+        "composition": "Mg3As2"
+    },
+    "mp-19921": {
+        "bg": 2.75,
+        "composition": "PbO"
+    },
+    "mp-19935": {
+        "bg": 1.69,
+        "composition": "ErFeO3"
+    },
+    "mp-20187": {
+        "bg": 2.83,
+        "composition": "LiInSe2"
+    },
+    "mp-20194": {
+        "bg": 3.13,
+        "composition": "CeO2"
+    },
+    "mp-20282": {
+        "bg": 2.55,
+        "composition": "CsPbF3"
+    },
+    "mp-20289": {
+        "bg": 2.585,
+        "composition": "NaInS2"
+    },
+    "mp-2030": {
+        "bg": 1.55,
+        "composition": "RuS2"
+    },
+    "mp-20407": {
+        "bg": 3.8,
+        "composition": "NdFeO3"
+    },
+    "mp-20489": {
+        "bg": 1.78,
+        "composition": "SrPbO3"
+    },
+    "mp-20678": {
+        "bg": 3.69,
+        "composition": "NaIn(WO4)2"
+    },
+    "mp-2074": {
+        "bg": 1.0,
+        "composition": "Li3Sb"
+    },
+    "mp-20782": {
+        "bg": 1.23,
+        "composition": "LiInTe2"
+    },
+    "mp-20783": {
+        "bg": 2.375,
+        "composition": "YFeO3"
+    },
+    "mp-20790": {
+        "bg": 3.12,
+        "composition": "InPS4"
+    },
+    "mp-20852": {
+        "bg": 3.02,
+        "composition": "NdMnO3"
+    },
+    "mp-209": {
+        "bg": 1.66,
+        "composition": "Er2Se3"
+    },
+    "mp-20944": {
+        "bg": 1.75,
+        "composition": "Sr2PbO4"
+    },
+    "mp-21179": {
+        "bg": 2.9,
+        "composition": "NiWO4"
+    },
+    "mp-2133": {
+        "bg": 3.33,
+        "composition": "ZnO"
+    },
+    "mp-2136": {
+        "bg": 3.31,
+        "composition": "Sb2O3"
+    },
+    "mp-2160": {
+        "bg": 1.2,
+        "composition": "Sb2Se3"
+    },
+    "mp-2172": {
+        "bg": 2.2,
+        "composition": "AlAs"
+    },
+    "mp-21723": {
+        "bg": 0.9,
+        "composition": "SiPbO3"
+    },
+    "mp-21735": {
+        "bg": 1.765,
+        "composition": "LiFe5O8"
+    },
+    "mp-2176": {
+        "bg": 2.26,
+        "composition": "ZnTe"
+    },
+    "mp-218": {
+        "bg": 3.7,
+        "composition": "Sm2O3"
+    },
+    "mp-22024": {
+        "bg": 3.1,
+        "composition": "GdVO4"
+    },
+    "mp-22113": {
+        "bg": 2.2,
+        "composition": "Ca2Fe2O5"
+    },
+    "mp-22232": {
+        "bg": 1.295,
+        "composition": "TlInSe2"
+    },
+    "mp-2231": {
+        "bg": 1.3,
+        "composition": "SnS"
+    },
+    "mp-2232": {
+        "bg": 2.29,
+        "composition": "CS2"
+    },
+    "mp-22341": {
+        "bg": 2.08,
+        "composition": "PrFeO3"
+    },
+    "mp-22342": {
+        "bg": 4.3,
+        "composition": "PbSeO4"
+    },
+    "mp-22398": {
+        "bg": 4.01,
+        "composition": "FeF3"
+    },
+    "mp-224": {
+        "bg": 1.8,
+        "composition": "WS2"
+    },
+    "mp-22408": {
+        "bg": 2.45,
+        "composition": "CoO"
+    },
+    "mp-22428": {
+        "bg": 3.01,
+        "composition": "SrCeO3"
+    },
+    "mp-2247": {
+        "bg": 3.67,
+        "composition": "AgN3"
+    },
+    "mp-22566": {
+        "bg": 2.4,
+        "composition": "TlInS2"
+    },
+    "mp-22598": {
+        "bg": 3.3,
+        "composition": "In2O3"
+    },
+    "mp-22633": {
+        "bg": 2.1100000000000003,
+        "composition": "Pb3O4"
+    },
+    "mp-22691": {
+        "bg": 1.39,
+        "composition": "InSe"
+    },
+    "mp-22766": {
+        "bg": 3.785,
+        "composition": "CaIn2O4"
+    },
+    "mp-22791": {
+        "bg": 0.86,
+        "composition": "TlInTe2"
+    },
+    "mp-22841": {
+        "bg": 2.47,
+        "composition": "Ba2In2S5"
+    },
+    "mp-22849": {
+        "bg": 1.8,
+        "composition": "BiI3"
+    },
+    "mp-22855": {
+        "bg": 4.45,
+        "composition": "HgCl2"
+    },
+    "mp-22856": {
+        "bg": 1.3,
+        "composition": "Bi2S3"
+    },
+    "mp-22885": {
+        "bg": 3.035,
+        "composition": "XeF2"
+    },
+    "mp-22917": {
+        "bg": 1.9835,
+        "composition": "CuBr"
+    },
+    "mp-22922": {
+        "bg": 3.25,
+        "composition": "AgCl"
+    },
+    "mp-22950": {
+        "bg": 4.8,
+        "composition": "CsNiCl3"
+    },
+    "mp-22963": {
+        "bg": 2.17,
+        "composition": "K2TeBr6"
+    },
+    "mp-22988": {
+        "bg": 1.835,
+        "composition": "CsGeCl3"
+    },
+    "mp-23018": {
+        "bg": 2.85,
+        "composition": "BiSbO4"
+    },
+    "mp-23020": {
+        "bg": 1.425,
+        "composition": "BiSeI"
+    },
+    "mp-23032": {
+        "bg": 2.6,
+        "composition": "CsCuCl3"
+    },
+    "mp-23041": {
+        "bg": 1.86,
+        "composition": "SbSI"
+    },
+    "mp-23043": {
+        "bg": 3.42,
+        "composition": "RbPb2Br5"
+    },
+    "mp-23054": {
+        "bg": 2.45,
+        "composition": "NaBiO3"
+    },
+    "mp-23074": {
+        "bg": 3.93,
+        "composition": "BiOF"
+    },
+    "mp-2310": {
+        "bg": 3.6,
+        "composition": "CdO2"
+    },
+    "mp-23127": {
+        "bg": 3.0,
+        "composition": "Ba2BiSbO6"
+    },
+    "mp-23153": {
+        "bg": 1.6,
+        "composition": "I"
+    },
+    "mp-23182": {
+        "bg": 2.38,
+        "composition": "SnI4"
+    },
+    "mp-23185": {
+        "bg": 2.6,
+        "composition": "XeF4"
+    },
+    "mp-23218": {
+        "bg": 2.415,
+        "composition": "AsI3"
+    },
+    "mp-23231": {
+        "bg": 2.6,
+        "composition": "AgBr"
+    },
+    "mp-23237": {
+        "bg": 3.94,
+        "composition": "BiF3"
+    },
+    "mp-23262": {
+        "bg": 2.8,
+        "composition": "Bi2O3"
+    },
+    "mp-23263": {
+        "bg": 3.75,
+        "composition": "LaBr3"
+    },
+    "mp-23281": {
+        "bg": 2.3550000000000004,
+        "composition": "SbI3"
+    },
+    "mp-23290": {
+        "bg": 0.5,
+        "composition": "PtCl2"
+    },
+    "mp-23291": {
+        "bg": 3.91,
+        "composition": "PbCl2"
+    },
+    "mp-23292": {
+        "bg": 3.59,
+        "composition": "HgBr2"
+    },
+    "mp-23309": {
+        "bg": 5.0,
+        "composition": "ScCl3"
+    },
+    "mp-23317": {
+        "bg": 2.6,
+        "composition": "AsBr3"
+    },
+    "mp-23380": {
+        "bg": 2.4850000000000003,
+        "composition": "Tl3PbI5"
+    },
+    "mp-23384": {
+        "bg": 4.1850000000000005,
+        "composition": "LiIO3"
+    },
+    "mp-23388": {
+        "bg": 2.77,
+        "composition": "Bi2(MoO4)3"
+    },
+    "mp-2340": {
+        "bg": 4.84,
+        "composition": "Na2O2"
+    },
+    "mp-23405": {
+        "bg": 2.12,
+        "composition": "Cs2TeBr6"
+    },
+    "mp-23407": {
+        "bg": 2.61,
+        "composition": "Hg(IO3)2"
+    },
+    "mp-23419": {
+        "bg": 3.0,
+        "composition": "Sb4Cl2O5"
+    },
+    "mp-23436": {
+        "bg": 3.95,
+        "composition": "Cs4PbBr6"
+    },
+    "mp-2345": {
+        "bg": 4.8,
+        "composition": "Dy2O3"
+    },
+    "mp-23480": {
+        "bg": 2.75,
+        "composition": "Bi2WO6"
+    },
+    "mp-23501": {
+        "bg": 2.2,
+        "composition": "FeBiO3"
+    },
+    "mp-2352": {
+        "bg": 1.53,
+        "composition": "Na2O"
+    },
+    "mp-23703": {
+        "bg": 2.76,
+        "composition": "LiH"
+    },
+    "mp-23704": {
+        "bg": 4.8,
+        "composition": "NaAlH4"
+    },
+    "mp-23709": {
+        "bg": 2.9,
+        "composition": "Mg(AlH4)2"
+    },
+    "mp-23713": {
+        "bg": 3.0,
+        "composition": "CaH2"
+    },
+    "mp-23737": {
+        "bg": 2.59,
+        "composition": "KMgH3"
+    },
+    "mp-2383161": {
+        "bg": 2.7,
+        "composition": "WO3"
+    },
+    "mp-23949": {
+        "bg": 3.32,
+        "composition": "RbCaH3"
+    },
+    "mp-23956": {
+        "bg": 3.46,
+        "composition": "K2MgH4"
+    },
+    "mp-2423265": {
+        "bg": 1.0,
+        "composition": "KCoO2"
+    },
+    "mp-2456335": {
+        "bg": 3.27,
+        "composition": "PbBr2"
+    },
+    "mp-2490": {
+        "bg": 2.26,
+        "composition": "GaP"
+    },
+    "mp-2490654": {
+        "bg": 1.93,
+        "composition": "MnV2O6"
+    },
+    "mp-2507": {
+        "bg": 2.5,
+        "composition": "GaS"
+    },
+    "mp-2514": {
+        "bg": 1.935,
+        "composition": "Mg3P2"
+    },
+    "mp-252": {
+        "bg": 2.895,
+        "composition": "BeTe"
+    },
+    "mp-25423": {
+        "bg": 1.75,
+        "composition": "LiVPO4F"
+    },
+    "mp-2646981": {
+        "bg": 1.91,
+        "composition": "CsPbI2Br"
+    },
+    "mp-2647124": {
+        "bg": 1.6,
+        "composition": "Cs2PbBr6"
+    },
+    "mp-2659": {
+        "bg": 3.4,
+        "composition": "LiN3"
+    },
+    "mp-2667": {
+        "bg": 2.6,
+        "composition": "CsAu"
+    },
+    "mp-27130": {
+        "bg": 4.35,
+        "composition": "Li2W2O7"
+    },
+    "mp-2715259": {
+        "bg": 3.86,
+        "composition": "Na3La2(PO4)3"
+    },
+    "mp-27161": {
+        "bg": 3.28,
+        "composition": "ZnI2"
+    },
+    "mp-2718": {
+        "bg": 1.82,
+        "composition": "C2N"
+    },
+    "mp-27194": {
+        "bg": 2.4,
+        "composition": "SnI2"
+    },
+    "mp-2724101": {
+        "bg": 0.5,
+        "composition": "Li2HfO3"
+    },
+    "mp-27283": {
+        "bg": 3.42,
+        "composition": "TlPb2Cl5"
+    },
+    "mp-27293": {
+        "bg": 1.8,
+        "composition": "Tl4HgBr6"
+    },
+    "mp-27381": {
+        "bg": 1.3,
+        "composition": "CsSnI3"
+    },
+    "mp-27384": {
+        "bg": 3.26,
+        "composition": "AgIO3"
+    },
+    "mp-27394": {
+        "bg": 1.4125,
+        "composition": "CsSnCl3"
+    },
+    "mp-27411": {
+        "bg": 2.02,
+        "composition": "TlP5"
+    },
+    "mp-27449": {
+        "bg": 2.96,
+        "composition": "GaTeCl"
+    },
+    "mp-27451": {
+        "bg": 3.2,
+        "composition": "Tl3PbBr5"
+    },
+    "mp-27484": {
+        "bg": 1.0,
+        "composition": "Tl2O"
+    },
+    "mp-27488": {
+        "bg": 2.1,
+        "composition": "Ta3N5"
+    },
+    "mp-27544": {
+        "bg": 2.67,
+        "composition": "Cs3Bi2Br9"
+    },
+    "mp-27552": {
+        "bg": 1.33,
+        "composition": "TlPbI3"
+    },
+    "mp-2758": {
+        "bg": 4.42,
+        "composition": "SrSe"
+    },
+    "mp-27614": {
+        "bg": 2.67,
+        "composition": "Ca2V2O7"
+    },
+    "mp-27624": {
+        "bg": 2.56,
+        "composition": "CaV2O6"
+    },
+    "mp-27629": {
+        "bg": 2.07,
+        "composition": "Cs3Sb2Cl9"
+    },
+    "mp-27653": {
+        "bg": 4.67,
+        "composition": "LiAlH4"
+    },
+    "mp-27678": {
+        "bg": 1.14,
+        "composition": "Y2Cl3"
+    },
+    "mp-27688": {
+        "bg": 1.38,
+        "composition": "K2TeI6"
+    },
+    "mp-27716": {
+        "bg": 1.46,
+        "composition": "KTlO"
+    },
+    "mp-27726": {
+        "bg": 1.8695,
+        "composition": "SO2"
+    },
+    "mp-27742": {
+        "bg": 3.36,
+        "composition": "K2CdO2"
+    },
+    "mp-27767": {
+        "bg": 4.94,
+        "composition": "Li6Si2O7"
+    },
+    "mp-27828": {
+        "bg": 2.54,
+        "composition": "Cs2TiCl6"
+    },
+    "mp-2784": {
+        "bg": 2.15,
+        "composition": "Na2Te"
+    },
+    "mp-27850": {
+        "bg": 2.5,
+        "composition": "TiNCl"
+    },
+    "mp-27871": {
+        "bg": 1.76,
+        "composition": "RhBr3"
+    },
+    "mp-27904": {
+        "bg": 0.8,
+        "composition": "FeSbS"
+    },
+    "mp-27922": {
+        "bg": 1.5,
+        "composition": "GeI2"
+    },
+    "mp-27936": {
+        "bg": 0.6,
+        "composition": "Na2SbF5"
+    },
+    "mp-27954": {
+        "bg": 4.565,
+        "composition": "CuN3"
+    },
+    "mp-27962": {
+        "bg": 2.26,
+        "composition": "CI4"
+    },
+    "mp-27966": {
+        "bg": 2.685,
+        "composition": "Ag2Mo2O7"
+    },
+    "mp-2798": {
+        "bg": 1.02,
+        "composition": "SiP"
+    },
+    "mp-27998": {
+        "bg": 4.1,
+        "composition": "KNb3O8"
+    },
+    "mp-28007": {
+        "bg": 1.93,
+        "composition": "BaHgS2"
+    },
+    "mp-28013": {
+        "bg": 4.220000000000001,
+        "composition": "MnI2"
+    },
+    "mp-28015": {
+        "bg": 1.75,
+        "composition": "H2O2"
+    },
+    "mp-28051": {
+        "bg": 1.53,
+        "composition": "SbTeI"
+    },
+    "mp-2809": {
+        "bg": 1.7,
+        "composition": "Sb2S3"
+    },
+    "mp-28230": {
+        "bg": 1.68,
+        "composition": "TlSbS2"
+    },
+    "mp-28232": {
+        "bg": 3.4,
+        "composition": "MgTi2O5"
+    },
+    "mp-28240": {
+        "bg": 3.35,
+        "composition": "CSO"
+    },
+    "mp-28290": {
+        "bg": 3.3,
+        "composition": "CdTeO3"
+    },
+    "mp-28306": {
+        "bg": 3.76,
+        "composition": "MnBr2"
+    },
+    "mp-2831941": {
+        "bg": 2.52,
+        "composition": "Na2CdSnS4"
+    },
+    "mp-2833": {
+        "bg": 0.9,
+        "composition": "IrS2"
+    },
+    "mp-28377": {
+        "bg": 1.6,
+        "composition": "CsGeI3"
+    },
+    "mp-28395": {
+        "bg": 3.3,
+        "composition": "B6P"
+    },
+    "mp-28421": {
+        "bg": 2.34,
+        "composition": "Cs2HgI4"
+    },
+    "mp-2843": {
+        "bg": 1.3,
+        "composition": "SnF2"
+    },
+    "mp-28517": {
+        "bg": 1.86,
+        "composition": "Tl6SeI4"
+    },
+    "mp-28549": {
+        "bg": 4.745,
+        "composition": "Li8SiO6"
+    },
+    "mp-28572": {
+        "bg": 1.0,
+        "composition": "LaBr2"
+    },
+    "mp-2858": {
+        "bg": 5.0,
+        "composition": "ZrO2"
+    },
+    "mp-28782": {
+        "bg": 2.3,
+        "composition": "Na3PS4"
+    },
+    "mp-2879": {
+        "bg": 4.1,
+        "composition": "SrSnO3"
+    },
+    "mp-28800": {
+        "bg": 0.53,
+        "composition": "K2Bi8Se13"
+    },
+    "mp-28885": {
+        "bg": 0.94,
+        "composition": "PSe"
+    },
+    "mp-28911": {
+        "bg": 3.44,
+        "composition": "BaReH9"
+    },
+    "mp-29044": {
+        "bg": 1.81,
+        "composition": "Cd4Sb2I3"
+    },
+    "mp-29179": {
+        "bg": 2.9,
+        "composition": "SnCl2"
+    },
+    "mp-29234": {
+        "bg": 2.735,
+        "composition": "InTeI"
+    },
+    "mp-2931": {
+        "bg": 3.3,
+        "composition": "Li2TiO3"
+    },
+    "mp-2931287": {
+        "bg": 3.14,
+        "composition": "FePS3"
+    },
+    "mp-29461": {
+        "bg": 2.86,
+        "composition": "Zn3Mo2O9"
+    },
+    "mp-29502": {
+        "bg": 2.5,
+        "composition": "Al2Te3"
+    },
+    "mp-29529": {
+        "bg": 1.19,
+        "composition": "NaSnP"
+    },
+    "mp-29530": {
+        "bg": 2.63,
+        "composition": "H2WO4"
+    },
+    "mp-29628": {
+        "bg": 3.32,
+        "composition": "Na4SnS4"
+    },
+    "mp-2963": {
+        "bg": 1.6,
+        "composition": "CaAl2O4"
+    },
+    "mp-29678": {
+        "bg": 0.98,
+        "composition": "AgBiS2"
+    },
+    "mp-29711": {
+        "bg": 0.68,
+        "composition": "Tl2Te3"
+    },
+    "mp-29746": {
+        "bg": 2.21,
+        "composition": "Cd4P2Cl3"
+    },
+    "mp-2979": {
+        "bg": 3.2,
+        "composition": "ZnGeN2"
+    },
+    "mp-2980": {
+        "bg": 3.65,
+        "composition": "Pr2Te4O11"
+    },
+    "mp-29806": {
+        "bg": 1.4,
+        "composition": "Cs2PdI6"
+    },
+    "mp-29862": {
+        "bg": 3.45,
+        "composition": "SnBr2"
+    },
+    "mp-29895": {
+        "bg": 2.1,
+        "composition": "Rb3Bi2I9"
+    },
+    "mp-29901": {
+        "bg": 2.3,
+        "composition": "Rb2Cd3Te4"
+    },
+    "mp-30092": {
+        "bg": 2.975,
+        "composition": "TiCl4"
+    },
+    "mp-30311": {
+        "bg": 3.13,
+        "composition": "Zn3(PS4)2"
+    },
+    "mp-3094": {
+        "bg": 4.8,
+        "composition": "SrAl2O4"
+    },
+    "mp-31001": {
+        "bg": 3.81,
+        "composition": "KSb3O5"
+    },
+    "mp-31076": {
+        "bg": 2.06,
+        "composition": "Tl2TeBr6"
+    },
+    "mp-31077": {
+        "bg": 1.5,
+        "composition": "Tl2TeI6"
+    },
+    "mp-31285": {
+        "bg": 1.5,
+        "composition": "Cs2PdSe8"
+    },
+    "mp-31307": {
+        "bg": 1.8,
+        "composition": "Ba2SnSe5"
+    },
+    "mp-31309": {
+        "bg": 2.0,
+        "composition": "RbInSe2"
+    },
+    "mp-31406": {
+        "bg": 0.62,
+        "composition": "Bi2TeSe2"
+    },
+    "mp-31488": {
+        "bg": 4.0,
+        "composition": "Li3NbO4"
+    },
+    "mp-31508": {
+        "bg": 3.46,
+        "composition": "KPb2Br5"
+    },
+    "mp-3175": {
+        "bg": 3.55,
+        "composition": "BaTi4O9"
+    },
+    "mp-31760": {
+        "bg": 2.18,
+        "composition": "Sr2TaFeO6"
+    },
+    "mp-3187": {
+        "bg": 2.585,
+        "composition": "BaCeO3"
+    },
+    "mp-3193": {
+        "bg": 4.22,
+        "composition": "Na2Si2O5"
+    },
+    "mp-3196": {
+        "bg": 2.653,
+        "composition": "NdGaO3"
+    },
+    "mp-32533": {
+        "bg": 2.95,
+        "composition": "Na2W4O13"
+    },
+    "mp-32594": {
+        "bg": 2.3,
+        "composition": "Sm2Se3"
+    },
+    "mp-32689": {
+        "bg": 1.85,
+        "composition": "Pr2Se3"
+    },
+    "mp-32798": {
+        "bg": 1.97,
+        "composition": "La2Se3"
+    },
+    "mp-3285": {
+        "bg": 3.3,
+        "composition": "Na2Ta4O11"
+    },
+    "mp-3307": {
+        "bg": 3.2725,
+        "composition": "BaSO4"
+    },
+    "mp-3335": {
+        "bg": 3.6,
+        "composition": "Sm2Ti2O7"
+    },
+    "mp-3342": {
+        "bg": 2.6,
+        "composition": "ZnPS3"
+    },
+    "mp-3349": {
+        "bg": 3.2,
+        "composition": "Sr3Ti2O7"
+    },
+    "mp-3368": {
+        "bg": 3.9,
+        "composition": "LiNb3O8"
+    },
+    "mp-33723": {
+        "bg": 0.6,
+        "composition": "BiTeBr"
+    },
+    "mp-3439": {
+        "bg": 4.385,
+        "composition": "SbPO4"
+    },
+    "mp-3466": {
+        "bg": 3.8,
+        "composition": "PrAlO3"
+    },
+    "mp-3488": {
+        "bg": 3.51,
+        "composition": "Na2Ti3O7"
+    },
+    "mp-34903": {
+        "bg": 1.92,
+        "composition": "MgGeP2"
+    },
+    "mp-35308": {
+        "bg": 3.26,
+        "composition": "CuCN"
+    },
+    "mp-35493": {
+        "bg": 3.6,
+        "composition": "Zn2SnO4"
+    },
+    "mp-3563": {
+        "bg": 3.81,
+        "composition": "Ba5Nb4O15"
+    },
+    "mp-35909": {
+        "bg": 1.77,
+        "composition": "AgBiI4"
+    },
+    "mp-361": {
+        "bg": 2.1,
+        "composition": "Cu2O"
+    },
+    "mp-36111": {
+        "bg": 2.43,
+        "composition": "LiMgP"
+    },
+    "mp-3614": {
+        "bg": 3.65,
+        "composition": "KTaO3"
+    },
+    "mp-3647": {
+        "bg": 3.635,
+        "composition": "LiGaS2"
+    },
+    "mp-3666": {
+        "bg": 4.4,
+        "composition": "LiTaO3"
+    },
+    "mp-3677": {
+        "bg": 4.3,
+        "composition": "MgSiN2"
+    },
+    "mp-3742": {
+        "bg": 1.86,
+        "composition": "SrFe12O19"
+    },
+    "mp-3744": {
+        "bg": 1.5,
+        "composition": "NaNbO2"
+    },
+    "mp-375": {
+        "bg": 4.0,
+        "composition": "UO3"
+    },
+    "mp-3785": {
+        "bg": 0.95,
+        "composition": "TlGaTe2"
+    },
+    "mp-3789": {
+        "bg": 4.955,
+        "composition": "Zn2SiO4"
+    },
+    "mp-37906": {
+        "bg": 3.45,
+        "composition": "LiMgN"
+    },
+    "mp-3858": {
+        "bg": 4.0,
+        "composition": "NaTaO3"
+    },
+    "mp-3870": {
+        "bg": 2.15,
+        "composition": "Sr2Nb2O7"
+    },
+    "mp-3887": {
+        "bg": 4.275,
+        "composition": "Li3GaN2"
+    },
+    "mp-38970": {
+        "bg": 1.65,
+        "composition": "Ga2Te3"
+    },
+    "mp-390": {
+        "bg": 3.2,
+        "composition": "TiO2"
+    },
+    "mp-3922": {
+        "bg": 1.45,
+        "composition": "AgSbS2"
+    },
+    "mp-3924": {
+        "bg": 3.16,
+        "composition": "LiNbO2"
+    },
+    "mp-3934": {
+        "bg": 2.3,
+        "composition": "Cu3PS4"
+    },
+    "mp-3962": {
+        "bg": 4.96,
+        "composition": "LaPO4"
+    },
+    "mp-3963": {
+        "bg": 4.9,
+        "composition": "K2CO3"
+    },
+    "mp-4016": {
+        "bg": 2.925,
+        "composition": "TlGaS2"
+    },
+    "mp-4019": {
+        "bg": 3.5,
+        "composition": "CaTiO3"
+    },
+    "mp-4056": {
+        "bg": 4.45,
+        "composition": "CaSc2O4"
+    },
+    "mp-406": {
+        "bg": 1.5,
+        "composition": "CdTe"
+    },
+    "mp-4092": {
+        "bg": 4.75,
+        "composition": "SrSeO4"
+    },
+    "mp-4156": {
+        "bg": 4.74,
+        "composition": "Li2ZrO3"
+    },
+    "mp-4157": {
+        "bg": 1.63,
+        "composition": "Sr(NO3)2"
+    },
+    "mp-4175": {
+        "bg": 1.3199999999999998,
+        "composition": "ZnSnP2"
+    },
+    "mp-4199": {
+        "bg": 0.98,
+        "composition": "Na2S2O3"
+    },
+    "mp-4200": {
+        "bg": 4.255000000000001,
+        "composition": "ScPO4"
+    },
+    "mp-422": {
+        "bg": 4.17,
+        "composition": "BeS"
+    },
+    "mp-4236": {
+        "bg": 2.2,
+        "composition": "BaZnO2"
+    },
+    "mp-4287": {
+        "bg": 4.7,
+        "composition": "Sr2SnO4"
+    },
+    "mp-4309": {
+        "bg": 3.54,
+        "composition": "BaGa4S7"
+    },
+    "mp-4394": {
+        "bg": 4.19,
+        "composition": "Pr2Sn2O7"
+    },
+    "mp-4408": {
+        "bg": 2.9,
+        "composition": "Sm2Zr2O7"
+    },
+    "mp-441": {
+        "bg": 4.5,
+        "composition": "Rb2Te"
+    },
+    "mp-4438": {
+        "bg": 4.3,
+        "composition": "CaSnO3"
+    },
+    "mp-4468": {
+        "bg": 1.5,
+        "composition": "CuSbS2"
+    },
+    "mp-4524": {
+        "bg": 2.06,
+        "composition": "ZnGeP2"
+    },
+    "mp-4531": {
+        "bg": 2.92,
+        "composition": "NaNO3"
+    },
+    "mp-4533": {
+        "bg": 4.0,
+        "composition": "Na2SiO3"
+    },
+    "mp-4547": {
+        "bg": 2.5,
+        "composition": "La2TeO2"
+    },
+    "mp-4571": {
+        "bg": 3.3,
+        "composition": "CaZrO3"
+    },
+    "mp-4591": {
+        "bg": 3.94,
+        "composition": "SrNb2O6"
+    },
+    "mp-4604": {
+        "bg": 1.4,
+        "composition": "Li7VN4"
+    },
+    "mp-4651": {
+        "bg": 3.2,
+        "composition": "SrTiO3"
+    },
+    "mp-4666": {
+        "bg": 1.358,
+        "composition": "CdSiP2"
+    },
+    "mp-4704": {
+        "bg": 2.6,
+        "composition": "Y3Fe5O12"
+    },
+    "mp-473": {
+        "bg": 0.77,
+        "composition": "Na3P11"
+    },
+    "mp-4763": {
+        "bg": 2.1,
+        "composition": "ZnSiP2"
+    },
+    "mp-4770": {
+        "bg": 1.6,
+        "composition": "Na2SO4"
+    },
+    "mp-4816": {
+        "bg": 2.5,
+        "composition": "LaGaS3"
+    },
+    "mp-4820": {
+        "bg": 4.0,
+        "composition": "ZrSiO4"
+    },
+    "mp-4875": {
+        "bg": 0.8,
+        "composition": "GdTaO4"
+    },
+    "mp-4975": {
+        "bg": 3.6825,
+        "composition": "RbZnF3"
+    },
+    "mp-4988": {
+        "bg": 1.3,
+        "composition": "TlAsS2"
+    },
+    "mp-5038": {
+        "bg": 3.305,
+        "composition": "CsGaS2"
+    },
+    "mp-504466": {
+        "bg": 2.925,
+        "composition": "Ag2WO4"
+    },
+    "mp-504554": {
+        "bg": 4.0,
+        "composition": "Ba5Ta4O15"
+    },
+    "mp-504591": {
+        "bg": 3.81,
+        "composition": "PbWO4"
+    },
+    "mp-504651": {
+        "bg": 2.14,
+        "composition": "CsVO3"
+    },
+    "mp-5048": {
+        "bg": 2.31,
+        "composition": "LiGaTe2"
+    },
+    "mp-505138": {
+        "bg": 1.48,
+        "composition": "K2PdSe10"
+    },
+    "mp-505212": {
+        "bg": 2.35,
+        "composition": "Cs3AuO"
+    },
+    "mp-505526": {
+        "bg": 2.725,
+        "composition": "FeMoO4"
+    },
+    "mp-505709": {
+        "bg": 2.53,
+        "composition": "CsSmZnSe3"
+    },
+    "mp-510062": {
+        "bg": 2.46,
+        "composition": "CsSmCdSe3"
+    },
+    "mp-510347": {
+        "bg": 1.55,
+        "composition": "In5S5Br"
+    },
+    "mp-510458": {
+        "bg": 0.68,
+        "composition": "HCN"
+    },
+    "mp-510490": {
+        "bg": 2.1,
+        "composition": "GdScS3"
+    },
+    "mp-510607": {
+        "bg": 2.4450000000000003,
+        "composition": "SrCrO4"
+    },
+    "mp-5175": {
+        "bg": 3.9,
+        "composition": "NaInO2"
+    },
+    "mp-5214": {
+        "bg": 3.37,
+        "composition": "TiTe3O8"
+    },
+    "mp-5280": {
+        "bg": 4.43,
+        "composition": "In2Ge2O7"
+    },
+    "mp-531826": {
+        "bg": 2.3,
+        "composition": "Li2PtO3"
+    },
+    "mp-5338": {
+        "bg": 2.66,
+        "composition": "ZnSeO3"
+    },
+    "mp-5387": {
+        "bg": 4.3,
+        "composition": "YNbO4"
+    },
+    "mp-539": {
+        "bg": 2.99,
+        "composition": "Ga2S3"
+    },
+    "mp-540574": {
+        "bg": 2.56,
+        "composition": "Cs2Hg3I8"
+    },
+    "mp-540625": {
+        "bg": 2.03,
+        "composition": "GeSe2"
+    },
+    "mp-540703": {
+        "bg": 4.035,
+        "composition": "Cs2S"
+    },
+    "mp-540771": {
+        "bg": 1.83,
+        "composition": "BaZrS3"
+    },
+    "mp-540839": {
+        "bg": 1.73,
+        "composition": "CsPbI3"
+    },
+    "mp-540957": {
+        "bg": 1.47,
+        "composition": "Cs2TeI6"
+    },
+    "mp-540962": {
+        "bg": 4.905,
+        "composition": "KLa(PO3)4"
+    },
+    "mp-541155": {
+        "bg": 1.0,
+        "composition": "VS4"
+    },
+    "mp-5414": {
+        "bg": 1.71,
+        "composition": "NaSbS2"
+    },
+    "mp-541404": {
+        "bg": 0.7,
+        "composition": "VO2"
+    },
+    "mp-541462": {
+        "bg": 4.0,
+        "composition": "SrTa4O11"
+    },
+    "mp-541582": {
+        "bg": 1.18,
+        "composition": "ReSe2"
+    },
+    "mp-541600": {
+        "bg": 3.81,
+        "composition": "RbLaTa2O7"
+    },
+    "mp-542067": {
+        "bg": 1.59,
+        "composition": "Rb4Ti3S14"
+    },
+    "mp-542435": {
+        "bg": 2.9,
+        "composition": "Li3ScN2"
+    },
+    "mp-542545": {
+        "bg": 1.53,
+        "composition": "K3Nb2AsSe11"
+    },
+    "mp-542570": {
+        "bg": 1.215,
+        "composition": "AsSe"
+    },
+    "mp-545482": {
+        "bg": 2.75,
+        "composition": "PdSeO3"
+    },
+    "mp-545820": {
+        "bg": 2.55,
+        "composition": "SnO"
+    },
+    "mp-546011": {
+        "bg": 1.1731,
+        "composition": "YZnAsO"
+    },
+    "mp-547792": {
+        "bg": 4.76,
+        "composition": "KSbO3"
+    },
+    "mp-549589": {
+        "bg": 1.5,
+        "composition": "LaZnAsO"
+    },
+    "mp-5504": {
+        "bg": 4.61,
+        "composition": "BaCO3"
+    },
+    "mp-550514": {
+        "bg": 1.9,
+        "composition": "LaTaN2O"
+    },
+    "mp-551806": {
+        "bg": 2.125,
+        "composition": "CoTeMoO6"
+    },
+    "mp-552185": {
+        "bg": 1.86,
+        "composition": "AgNO3"
+    },
+    "mp-552488": {
+        "bg": 2.148,
+        "composition": "LaCuSeO"
+    },
+    "mp-5532": {
+        "bg": 2.56,
+        "composition": "Sr2TiO4"
+    },
+    "mp-554293": {
+        "bg": 2.0,
+        "composition": "BaFe12O19"
+    },
+    "mp-554343": {
+        "bg": 2.2,
+        "composition": "K2CuSbS3"
+    },
+    "mp-554408": {
+        "bg": 2.04,
+        "composition": "CsAgSb4S7"
+    },
+    "mp-554782": {
+        "bg": 3.65,
+        "composition": "Li2Ga2GeS6"
+    },
+    "mp-554820": {
+        "bg": 3.65,
+        "composition": "ZnS"
+    },
+    "mp-555253": {
+        "bg": 2.05,
+        "composition": "La5Ti2AgS5O7"
+    },
+    "mp-555269": {
+        "bg": 2.1125,
+        "composition": "Ag3SbS3"
+    },
+    "mp-555560": {
+        "bg": 3.25,
+        "composition": "CdTeMoO6"
+    },
+    "mp-555587": {
+        "bg": 2.59,
+        "composition": "K2SmP2S7"
+    },
+    "mp-555597": {
+        "bg": 0.8,
+        "composition": "V4O7"
+    },
+    "mp-555794": {
+        "bg": 3.22,
+        "composition": "NaMg2V3O10"
+    },
+    "mp-555874": {
+        "bg": 1.6,
+        "composition": "LiAsS2"
+    },
+    "mp-556070": {
+        "bg": 3.376,
+        "composition": "Na5Gd(MoO4)4"
+    },
+    "mp-556094": {
+        "bg": 1.0,
+        "composition": "AgBiSCl2"
+    },
+    "mp-556225": {
+        "bg": 1.09,
+        "composition": "Ag2S"
+    },
+    "mp-556407": {
+        "bg": 2.3,
+        "composition": "Ba3Bi2TeO9"
+    },
+    "mp-556440": {
+        "bg": 4.3,
+        "composition": "CaZr4(PO4)6"
+    },
+    "mp-556516": {
+        "bg": 0.79,
+        "composition": "Tl2S"
+    },
+    "mp-556541": {
+        "bg": 1.8,
+        "composition": "InSb2S4Cl"
+    },
+    "mp-556627": {
+        "bg": 0.8,
+        "composition": "K4GeS4"
+    },
+    "mp-556850": {
+        "bg": 1.0,
+        "composition": "BaMnF4"
+    },
+    "mp-556980": {
+        "bg": 2.49,
+        "composition": "Sn3WO6"
+    },
+    "mp-557089": {
+        "bg": 4.39,
+        "composition": "Rb2Zn3(P2O7)2"
+    },
+    "mp-557195": {
+        "bg": 3.44,
+        "composition": "KCa2Nb3O10"
+    },
+    "mp-557373": {
+        "bg": 1.74,
+        "composition": "Cu2WS4"
+    },
+    "mp-557436": {
+        "bg": 1.72,
+        "composition": "NaNb2PS10"
+    },
+    "mp-557441": {
+        "bg": 2.52,
+        "composition": "KAu(IO3)4"
+    },
+    "mp-557543": {
+        "bg": 5.0,
+        "composition": "K3LuSi2O7"
+    },
+    "mp-557728": {
+        "bg": 1.9,
+        "composition": "KCu4AsS4"
+    },
+    "mp-557920": {
+        "bg": 3.43,
+        "composition": "Zn3(PO4)2"
+    },
+    "mp-558323": {
+        "bg": 2.57,
+        "composition": "SrBi2B2O7"
+    },
+    "mp-558749": {
+        "bg": 1.49,
+        "composition": "RbMnF3"
+    },
+    "mp-558753": {
+        "bg": 4.32,
+        "composition": "BiB2O4F"
+    },
+    "mp-558760": {
+        "bg": 1.53,
+        "composition": "SrZrS3"
+    },
+    "mp-559186": {
+        "bg": 3.53,
+        "composition": "BaBiBO4"
+    },
+    "mp-559240": {
+        "bg": 3.0,
+        "composition": "Li2MnSiO4"
+    },
+    "mp-559251": {
+        "bg": 1.35,
+        "composition": "K3Cr2(PS4)3"
+    },
+    "mp-559459": {
+        "bg": 3.4,
+        "composition": "CsInS2"
+    },
+    "mp-559474": {
+        "bg": 1.9,
+        "composition": "La5Ti2CuS5O7"
+    },
+    "mp-559489": {
+        "bg": 4.95,
+        "composition": "K2ZrSi2O7"
+    },
+    "mp-559551": {
+        "bg": 0.915,
+        "composition": "Cu4Bi4S9"
+    },
+    "mp-559864": {
+        "bg": 1.8,
+        "composition": "InSb2S4Br"
+    },
+    "mp-560086": {
+        "bg": 2.62,
+        "composition": "Nd4(GeS4)3"
+    },
+    "mp-560163": {
+        "bg": 4.8,
+        "composition": "Ca4Si2O7F2"
+    },
+    "mp-560216": {
+        "bg": 3.888,
+        "composition": "Cs2GeP4O13"
+    },
+    "mp-560338": {
+        "bg": 1.53,
+        "composition": "CrF3"
+    },
+    "mp-560340": {
+        "bg": 1.342,
+        "composition": "La2Pd2O5"
+    },
+    "mp-560459": {
+        "bg": 4.855,
+        "composition": "Rb3Al2(PO4)3"
+    },
+    "mp-560692": {
+        "bg": 3.2,
+        "composition": "K4Nb6O17"
+    },
+    "mp-560717": {
+        "bg": 2.3,
+        "composition": "Ag2CO3"
+    },
+    "mp-561066": {
+        "bg": 1.36,
+        "composition": "TlS"
+    },
+    "mp-561083": {
+        "bg": 3.54,
+        "composition": "Na3Bi(PO4)2"
+    },
+    "mp-561103": {
+        "bg": 3.8,
+        "composition": "BaTa2O6"
+    },
+    "mp-561536": {
+        "bg": 2.916,
+        "composition": "NaMgBO3"
+    },
+    "mp-561620": {
+        "bg": 2.0835,
+        "composition": "Ag3AsS3"
+    },
+    "mp-5625": {
+        "bg": 3.8,
+        "composition": "Ag2SO4"
+    },
+    "mp-562726": {
+        "bg": 2.78,
+        "composition": "CsGaS3"
+    },
+    "mp-565814": {
+        "bg": 2.2,
+        "composition": "Fe2O3"
+    },
+    "mp-567290": {
+        "bg": 0.6,
+        "composition": "LaN"
+    },
+    "mp-567318": {
+        "bg": 0.82,
+        "composition": "TlSbSe2"
+    },
+    "mp-567386": {
+        "bg": 2.48,
+        "composition": "Cs2Cd3Te4"
+    },
+    "mp-567503": {
+        "bg": 2.32,
+        "composition": "PbI2"
+    },
+    "mp-567504": {
+        "bg": 1.09,
+        "composition": "CrCl3"
+    },
+    "mp-567681": {
+        "bg": 2.3,
+        "composition": "CsPbBr3"
+    },
+    "mp-567968": {
+        "bg": 0.73,
+        "composition": "Mn11Si19"
+    },
+    "mp-568263": {
+        "bg": 2.0,
+        "composition": "GaSe"
+    },
+    "mp-568379": {
+        "bg": 1.8,
+        "composition": "KInSnSe4"
+    },
+    "mp-568394": {
+        "bg": 0.56,
+        "composition": "MoCl3"
+    },
+    "mp-568525": {
+        "bg": 0.9,
+        "composition": "Sr2SnSe5"
+    },
+    "mp-568847": {
+        "bg": 0.64,
+        "composition": "K4GeSe4"
+    },
+    "mp-568949": {
+        "bg": 2.68,
+        "composition": "TlBr"
+    },
+    "mp-568965": {
+        "bg": 3.44,
+        "composition": "CaSiN2"
+    },
+    "mp-569128": {
+        "bg": 1.1,
+        "composition": "SiB3"
+    },
+    "mp-569501": {
+        "bg": 0.6,
+        "composition": "LiCaBi"
+    },
+    "mp-569571": {
+        "bg": 0.9,
+        "composition": "Nb3Sb2Te5"
+    },
+    "mp-569766": {
+        "bg": 1.1,
+        "composition": "TeI"
+    },
+    "mp-570081": {
+        "bg": 3.0,
+        "composition": "CuI"
+    },
+    "mp-570321": {
+        "bg": 1.35,
+        "composition": "InSb2Se4Br"
+    },
+    "mp-570339": {
+        "bg": 2.815,
+        "composition": "Tl4CdI6"
+    },
+    "mp-570363": {
+        "bg": 0.755,
+        "composition": "LiSi"
+    },
+    "mp-570437": {
+        "bg": 3.2,
+        "composition": "CdI2"
+    },
+    "mp-570485": {
+        "bg": 0.63,
+        "composition": "SrAlSiH"
+    },
+    "mp-570553": {
+        "bg": 0.88,
+        "composition": "FeP4"
+    },
+    "mp-570577": {
+        "bg": 4.2,
+        "composition": "SrAlSi4N7"
+    },
+    "mp-570887": {
+        "bg": 1.8,
+        "composition": "K2Ag2SnSe4"
+    },
+    "mp-571020": {
+        "bg": 3.3,
+        "composition": "CsMgH3"
+    },
+    "mp-571079": {
+        "bg": 2.55,
+        "composition": "TlCl"
+    },
+    "mp-571102": {
+        "bg": 2.815,
+        "composition": "TlI"
+    },
+    "mp-571164": {
+        "bg": 1.8,
+        "composition": "Rb3AgSn3Se8"
+    },
+    "mp-571169": {
+        "bg": 1.21,
+        "composition": "InBi2Se4Br"
+    },
+    "mp-571637": {
+        "bg": 1.93,
+        "composition": "K2Cd2Te3"
+    },
+    "mp-572758": {
+        "bg": 1.47,
+        "composition": "ReS2"
+    },
+    "mp-572892": {
+        "bg": 3.71,
+        "composition": "GeS2"
+    },
+    "mp-573581": {
+        "bg": 1.91,
+        "composition": "Na2TeSe3"
+    },
+    "mp-573635": {
+        "bg": 2.295,
+        "composition": "Ba2In2Se5"
+    },
+    "mp-573763": {
+        "bg": 3.5,
+        "composition": "Cs2Te"
+    },
+    "mp-574040": {
+        "bg": 1.4049999999999998,
+        "composition": "K2SnBr6"
+    },
+    "mp-574620": {
+        "bg": 2.35,
+        "composition": "CsYZnSe3"
+    },
+    "mp-5777": {
+        "bg": 3.2,
+        "composition": "BaTiO3"
+    },
+    "mp-5795": {
+        "bg": 3.25,
+        "composition": "CaMg2N2"
+    },
+    "mp-579560": {
+        "bg": 2.36,
+        "composition": "Cs3Sb2Br9"
+    },
+    "mp-580941": {
+        "bg": 2.775,
+        "composition": "AgI"
+    },
+    "mp-581024": {
+        "bg": 1.62,
+        "composition": "CsK2Sb"
+    },
+    "mp-581967": {
+        "bg": 3.4,
+        "composition": "Nb2O5"
+    },
+    "mp-5837": {
+        "bg": 4.08,
+        "composition": "LaGaO3"
+    },
+    "mp-5878": {
+        "bg": 4.3805,
+        "composition": "KZnF3"
+    },
+    "mp-5909": {
+        "bg": 4.5,
+        "composition": "Zn2GeO4"
+    },
+    "mp-5942": {
+        "bg": 2.28,
+        "composition": "NaAsS2"
+    },
+    "mp-5955": {
+        "bg": 3.76,
+        "composition": "NaSbF6"
+    },
+    "mp-5962": {
+        "bg": 0.97,
+        "composition": "NaMgAs"
+    },
+    "mp-5967": {
+        "bg": 1.0,
+        "composition": "TiCoSb"
+    },
+    "mp-5977": {
+        "bg": 3.75,
+        "composition": "Nd2Zr2O7"
+    },
+    "mp-5999": {
+        "bg": 2.8,
+        "composition": "Sm2Ti2S2O5"
+    },
+    "mp-601861": {
+        "bg": 3.05,
+        "composition": "RbInS2"
+    },
+    "mp-607267": {
+        "bg": 4.0,
+        "composition": "KPb2Cl5"
+    },
+    "mp-607291": {
+        "bg": 1.42,
+        "composition": "Cu3BiS3"
+    },
+    "mp-608555": {
+        "bg": 2.14,
+        "composition": "Cs2SnCl6"
+    },
+    "mp-6089": {
+        "bg": 4.385,
+        "composition": "BaZn2(PO4)2"
+    },
+    "mp-6126": {
+        "bg": 4.28,
+        "composition": "LiCdBO3"
+    },
+    "mp-612740": {
+        "bg": 1.3250000000000002,
+        "composition": "In2Se3"
+    },
+    "mp-614603": {
+        "bg": 4.595000000000001,
+        "composition": "CsI"
+    },
+    "mp-616458": {
+        "bg": 1.8,
+        "composition": "Cs2CO3"
+    },
+    "mp-623854": {
+        "bg": 2.535,
+        "composition": "NaNb3O8"
+    },
+    "mp-6270": {
+        "bg": 2.42,
+        "composition": "Ba2LiReO6"
+    },
+    "mp-629458": {
+        "bg": 1.7000000000000002,
+        "composition": "BC2N"
+    },
+    "mp-6296": {
+        "bg": 2.33,
+        "composition": "K6Cd4Sn3Se13"
+    },
+    "mp-6325": {
+        "bg": 4.28,
+        "composition": "Ba3MgTa2O9"
+    },
+    "mp-634101": {
+        "bg": 2.565,
+        "composition": "HCl"
+    },
+    "mp-637680": {
+        "bg": 1.9,
+        "composition": "K2Mo4O13"
+    },
+    "mp-638078": {
+        "bg": 2.12,
+        "composition": "CsTbZnTe3"
+    },
+    "mp-638261": {
+        "bg": 4.873,
+        "composition": "La2GeO5"
+    },
+    "mp-6396": {
+        "bg": 2.725,
+        "composition": "Li3V2(PO4)3"
+    },
+    "mp-641703": {
+        "bg": 3.065,
+        "composition": "Li7P3S11"
+    },
+    "mp-641923": {
+        "bg": 2.9,
+        "composition": "Cs2SnBr6"
+    },
+    "mp-643": {
+        "bg": 3.94,
+        "composition": "ThO2"
+    },
+    "mp-644203": {
+        "bg": 3.17,
+        "composition": "CsCaH3"
+    },
+    "mp-644514": {
+        "bg": 2.0,
+        "composition": "MnO2"
+    },
+    "mp-6457": {
+        "bg": 4.66,
+        "composition": "La2MgTiO6"
+    },
+    "mp-648": {
+        "bg": 1.62,
+        "composition": "Na2S"
+    },
+    "mp-6548": {
+        "bg": 3.05,
+        "composition": "K2La2Ti3O10"
+    },
+    "mp-6565": {
+        "bg": 4.681,
+        "composition": "Li3Sc2(PO4)3"
+    },
+    "mp-66": {
+        "bg": 3.15,
+        "composition": "C"
+    },
+    "mp-665": {
+        "bg": 1.2,
+        "composition": "SnSe2"
+    },
+    "mp-667338": {
+        "bg": 3.0,
+        "composition": "PbN6"
+    },
+    "mp-669311": {
+        "bg": 1.75,
+        "composition": "In7Te10"
+    },
+    "mp-669458": {
+        "bg": 2.0,
+        "composition": "Cs3Bi2I9"
+    },
+    "mp-669509": {
+        "bg": 2.63,
+        "composition": "Gd2S3"
+    },
+    "mp-672": {
+        "bg": 2.4,
+        "composition": "CdS"
+    },
+    "mp-672289": {
+        "bg": 2.595,
+        "composition": "Ge3N4"
+    },
+    "mp-674333": {
+        "bg": 2.2,
+        "composition": "Na3PO4"
+    },
+    "mp-676241": {
+        "bg": 0.685,
+        "composition": "FeCl3"
+    },
+    "mp-6798": {
+        "bg": 2.45,
+        "composition": "Ba2NaReO6"
+    },
+    "mp-680246": {
+        "bg": 2.35,
+        "composition": "Cs4Zr3S14"
+    },
+    "mp-680380": {
+        "bg": 4.4,
+        "composition": "Ca2Ta2O7"
+    },
+    "mp-680422": {
+        "bg": 3.7,
+        "composition": "CBr4"
+    },
+    "mp-680761": {
+        "bg": 4.95,
+        "composition": "Cd3(PO4)2"
+    },
+    "mp-6812": {
+        "bg": 4.35,
+        "composition": "KBaPO4"
+    },
+    "mp-683902": {
+        "bg": 1.5,
+        "composition": "Rb3Nb2AsSe11"
+    },
+    "mp-683903": {
+        "bg": 1.35,
+        "composition": "Cs3Nb2AsSe11"
+    },
+    "mp-683905": {
+        "bg": 1.45,
+        "composition": "K3Ta2AsSe11"
+    },
+    "mp-683965": {
+        "bg": 3.94,
+        "composition": "C2F"
+    },
+    "mp-683983": {
+        "bg": 1.0,
+        "composition": "TaO2"
+    },
+    "mp-684504": {
+        "bg": 3.5,
+        "composition": "Li3Bi2(PO4)3"
+    },
+    "mp-684704": {
+        "bg": 1.6,
+        "composition": "H2O"
+    },
+    "mp-685194": {
+        "bg": 2.0,
+        "composition": "Li4Ti5O12"
+    },
+    "mp-686208": {
+        "bg": 2.51,
+        "composition": "Li5SiN3"
+    },
+    "mp-686465": {
+        "bg": 3.2,
+        "composition": "Gd2Ti2O7"
+    },
+    "mp-691": {
+        "bg": 0.94,
+        "composition": "SnSe"
+    },
+    "mp-691119": {
+        "bg": 2.91,
+        "composition": "Bi14MoO24"
+    },
+    "mp-6913": {
+        "bg": 1.9,
+        "composition": "YN"
+    },
+    "mp-696805": {
+        "bg": 0.5037,
+        "composition": "H2S"
+    },
+    "mp-697331": {
+        "bg": 1.6,
+        "composition": "Mg2NiH4"
+    },
+    "mp-697905": {
+        "bg": 0.821,
+        "composition": "LaMg2NiH7"
+    },
+    "mp-700": {
+        "bg": 1.1565,
+        "composition": "GeSe"
+    },
+    "mp-7090": {
+        "bg": 1.04,
+        "composition": "NaMgSb"
+    },
+    "mp-7155": {
+        "bg": 2.595,
+        "composition": "CsErZnSe3"
+    },
+    "mp-715584": {
+        "bg": 3.0,
+        "composition": "MoO3"
+    },
+    "mp-7212": {
+        "bg": 2.374,
+        "composition": "CsSmHgSe3"
+    },
+    "mp-726": {
+        "bg": 4.77,
+        "composition": "SeO2"
+    },
+    "mp-7375": {
+        "bg": 3.24,
+        "composition": "KNbO3"
+    },
+    "mp-7394": {
+        "bg": 1.7,
+        "composition": "BaAg2GeS4"
+    },
+    "mp-7440": {
+        "bg": 2.0340000000000003,
+        "composition": "NaP"
+    },
+    "mp-7475": {
+        "bg": 2.59,
+        "composition": "La2S3"
+    },
+    "mp-752425": {
+        "bg": 3.1,
+        "composition": "Dy2Ti2O7"
+    },
+    "mp-752467": {
+        "bg": 3.1,
+        "composition": "NbO2F"
+    },
+    "mp-752613": {
+        "bg": 2.93,
+        "composition": "CoSnO3"
+    },
+    "mp-753395": {
+        "bg": 2.445,
+        "composition": "FePO4"
+    },
+    "mp-753712": {
+        "bg": 3.16,
+        "composition": "YIO"
+    },
+    "mp-753891": {
+        "bg": 3.5,
+        "composition": "ZrTiO4"
+    },
+    "mp-754318": {
+        "bg": 2.18,
+        "composition": "MnZnO3"
+    },
+    "mp-754329": {
+        "bg": 3.0,
+        "composition": "CdSnO3"
+    },
+    "mp-754654": {
+        "bg": 3.75,
+        "composition": "NiSnO3"
+    },
+    "mp-754815": {
+        "bg": 2.5,
+        "composition": "YBr3"
+    },
+    "mp-755225": {
+        "bg": 4.74,
+        "composition": "Li8ZrO6"
+    },
+    "mp-755231": {
+        "bg": 2.0,
+        "composition": "LiTeO3"
+    },
+    "mp-755749": {
+        "bg": 3.08,
+        "composition": "Cr2O3"
+    },
+    "mp-755882": {
+        "bg": 2.21,
+        "composition": "MnAl2O4"
+    },
+    "mp-756297": {
+        "bg": 1.23,
+        "composition": "ZnIn2O4"
+    },
+    "mp-757031": {
+        "bg": 3.55,
+        "composition": "Mg2TiO4"
+    },
+    "mp-757233": {
+        "bg": 2.68,
+        "composition": "Gd2Zr2O7"
+    },
+    "mp-757343": {
+        "bg": 2.76,
+        "composition": "Ca4Bi6O13"
+    },
+    "mp-7575": {
+        "bg": 1.945,
+        "composition": "LiZnN"
+    },
+    "mp-758022": {
+        "bg": 3.4,
+        "composition": "LiCoPO4"
+    },
+    "mp-758560": {
+        "bg": 1.23,
+        "composition": "FeOF"
+    },
+    "mp-758562": {
+        "bg": 2.9,
+        "composition": "LiFeSiO4"
+    },
+    "mp-759307": {
+        "bg": 2.91,
+        "composition": "TiNb2O7"
+    },
+    "mp-760188": {
+        "bg": 3.1100000000000003,
+        "composition": "Nb3O7F"
+    },
+    "mp-760510": {
+        "bg": 3.17,
+        "composition": "Sr2Bi2O5"
+    },
+    "mp-761057": {
+        "bg": 4.0,
+        "composition": "Sr5Nb4O15"
+    },
+    "mp-7611": {
+        "bg": 2.4,
+        "composition": "Li2CaGeO4"
+    },
+    "mp-762": {
+        "bg": 0.95,
+        "composition": "PtS2"
+    },
+    "mp-7684": {
+        "bg": 1.3,
+        "composition": "Tl3AsSe3"
+    },
+    "mp-768814": {
+        "bg": 4.0,
+        "composition": "Y2GeO5"
+    },
+    "mp-769271": {
+        "bg": 4.55,
+        "composition": "Sr4Ta2O9"
+    },
+    "mp-769582": {
+        "bg": 4.75,
+        "composition": "Sr5Ta4O15"
+    },
+    "mp-77": {
+        "bg": 1.51,
+        "composition": "S"
+    },
+    "mp-770771": {
+        "bg": 4.6,
+        "composition": "SrSc2O4"
+    },
+    "mp-772617": {
+        "bg": 3.75,
+        "composition": "Zn(NO3)2"
+    },
+    "mp-776110": {
+        "bg": 3.1,
+        "composition": "SiSnO3"
+    },
+    "mp-776470": {
+        "bg": 0.815,
+        "composition": "Hf3N4"
+    },
+    "mp-7765": {
+        "bg": 3.04,
+        "composition": "Ba3SiO5"
+    },
+    "mp-777049": {
+        "bg": 3.4,
+        "composition": "LiFeBO3"
+    },
+    "mp-7781": {
+        "bg": 1.9,
+        "composition": "CaZrS3"
+    },
+    "mp-7798": {
+        "bg": 3.2,
+        "composition": "MgGeN2"
+    },
+    "mp-780654": {
+        "bg": 0.7,
+        "composition": "V2O3"
+    },
+    "mp-7988": {
+        "bg": 2.74,
+        "composition": "Cs2O"
+    },
+    "mp-804": {
+        "bg": 3.4,
+        "composition": "GaN"
+    },
+    "mp-812": {
+        "bg": 2.84,
+        "composition": "Ho2O3"
+    },
+    "mp-8216": {
+        "bg": 1.67,
+        "composition": "LaBO3"
+    },
+    "mp-8258": {
+        "bg": 3.9,
+        "composition": "BaAl4S7"
+    },
+    "mp-8291": {
+        "bg": 3.03,
+        "composition": "BaTiF6"
+    },
+    "mp-8361": {
+        "bg": 3.94,
+        "composition": "CsTe"
+    },
+    "mp-8377": {
+        "bg": 3.7,
+        "composition": "TeO2"
+    },
+    "mp-841": {
+        "bg": 4.5,
+        "composition": "Li2O2"
+    },
+    "mp-8426": {
+        "bg": 2.035,
+        "composition": "K2Se"
+    },
+    "mp-844": {
+        "bg": 1.55,
+        "composition": "Ca3N2"
+    },
+    "mp-8484": {
+        "bg": 3.6,
+        "composition": "ZnO2"
+    },
+    "mp-8491": {
+        "bg": 4.6,
+        "composition": "LiInP2O7"
+    },
+    "mp-849770": {
+        "bg": 1.1,
+        "composition": "CoPO4"
+    },
+    "mp-8624": {
+        "bg": 2.75,
+        "composition": "K2Sn2O3"
+    },
+    "mp-863430": {
+        "bg": 3.0,
+        "composition": "Zn3In2O6"
+    },
+    "mp-866503": {
+        "bg": 2.52,
+        "composition": "Ca2SnS4"
+    },
+    "mp-866615": {
+        "bg": 2.7,
+        "composition": "CsAg2AsS3"
+    },
+    "mp-870": {
+        "bg": 3.58,
+        "composition": "TlN3"
+    },
+    "mp-8755": {
+        "bg": 2.12,
+        "composition": "KNaTe"
+    },
+    "mp-8810": {
+        "bg": 4.03,
+        "composition": "SrZn2(PO4)2"
+    },
+    "mp-8818": {
+        "bg": 1.7,
+        "composition": "Ca2ZnN2"
+    },
+    "mp-8830": {
+        "bg": 1.33,
+        "composition": "NaRhO2"
+    },
+    "mp-886": {
+        "bg": 4.8,
+        "composition": "Ga2O3"
+    },
+    "mp-9028": {
+        "bg": 4.0,
+        "composition": "PrBN2"
+    },
+    "mp-909": {
+        "bg": 1.76,
+        "composition": "As2Se3"
+    },
+    "mp-9124": {
+        "bg": 1.61,
+        "composition": "LiZnAs"
+    },
+    "mp-913": {
+        "bg": 0.81,
+        "composition": "CdP2"
+    },
+    "mp-9172": {
+        "bg": 4.64,
+        "composition": "Li4TiO4"
+    },
+    "mp-9252": {
+        "bg": 0.7,
+        "composition": "HgS"
+    },
+    "mp-9380": {
+        "bg": 3.28,
+        "composition": "SrGe4O9"
+    },
+    "mp-943492": {
+        "bg": 2.83,
+        "composition": "LiFeSO4F"
+    },
+    "mp-947": {
+        "bg": 1.8,
+        "composition": "Au2S"
+    },
+    "mp-9481": {
+        "bg": 0.9,
+        "composition": "TcS2"
+    },
+    "mp-9490": {
+        "bg": 1.63,
+        "composition": "KAg2SbS4"
+    },
+    "mp-9548": {
+        "bg": 1.615,
+        "composition": "GeAs"
+    },
+    "mp-966800": {
+        "bg": 1.35,
+        "composition": "InP"
+    },
+    "mp-971684": {
+        "bg": 2.7,
+        "composition": "C3N4"
+    },
+    "mp-973966": {
+        "bg": 4.27,
+        "composition": "LiIn(IO3)4"
+    },
+    "mp-9770": {
+        "bg": 1.45,
+        "composition": "Ag8GeS6"
+    },
+    "mp-9812": {
+        "bg": 3.34,
+        "composition": "ZnCO3"
+    },
+    "mp-983565": {
+        "bg": 2.315,
+        "composition": "CuBSe2"
+    },
+    "mp-984519": {
+        "bg": 1.73,
+        "composition": "NaAsSe2"
+    },
+    "mp-985583": {
+        "bg": 3.68,
+        "composition": "Li3PS4"
+    },
+    "mp-985591": {
+        "bg": 2.12,
+        "composition": "Li6PS5Br"
+    },
+    "mp-985592": {
+        "bg": 3.1,
+        "composition": "Li6PS5Cl"
+    },
+    "mp-985829": {
+        "bg": 1.93,
+        "composition": "HfS2"
+    },
+    "mp-985831": {
+        "bg": 1.13,
+        "composition": "HfSe2"
+    },
+    "mp-988": {
+        "bg": 5.0,
+        "composition": "Si3N4"
+    },
+    "mp-989524": {
+        "bg": 1.5405,
+        "composition": "LaWN3"
+    },
+    "mp-9921": {
+        "bg": 2.07,
+        "composition": "ZrS3"
+    },
+    "mp-9922": {
+        "bg": 2.2,
+        "composition": "HfS3"
+    },
+    "mp-995198": {
+        "bg": 2.2,
+        "composition": "CO2"
+    },
+    "mp-995234": {
+        "bg": 3.26,
+        "composition": "HCO"
+    },
+    "mp-998552": {
+        "bg": 3.0,
+        "composition": "BaHfO3"
+    },
+    "mp-999265": {
+        "bg": 4.0,
+        "composition": "RbYS2"
+    },
+    "mp-9996": {
+        "bg": 2.25,
+        "composition": "SiP2"
+    }
+}

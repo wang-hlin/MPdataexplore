@@ -1,0 +1,64 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"CUDA/12.4.0s"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "CUDA/12.4.0s"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Begin
+chemsys
+Traceback (most recent call last):
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 500, in <module>
+    main()
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 279, in main
+    cfg.merge_from_file(args.cfg)
+  File "/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/yacs/config.py", line 211, in merge_from_file
+    with open(cfg_filename, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'configs/split/split_by_matfold/alignn_prop/chemsys.yaml'
+composition
+Traceback (most recent call last):
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 500, in <module>
+    main()
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 279, in main
+    cfg.merge_from_file(args.cfg)
+  File "/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/yacs/config.py", line 211, in merge_from_file
+    with open(cfg_filename, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'configs/split/split_by_matfold/alignn_prop/composition.yaml'
+periodictablegroups
+Traceback (most recent call last):
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 500, in <module>
+    main()
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 279, in main
+    cfg.merge_from_file(args.cfg)
+  File "/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/yacs/config.py", line 211, in merge_from_file
+    with open(cfg_filename, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'configs/split/split_by_matfold/alignn_prop/periodictablegroups.yaml'
+sgnum
+Traceback (most recent call last):
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 500, in <module>
+    main()
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 279, in main
+    cfg.merge_from_file(args.cfg)
+  File "/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/yacs/config.py", line 211, in merge_from_file
+    with open(cfg_filename, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'configs/split/split_by_matfold/alignn_prop/sgnum.yaml'
+structureid
+Traceback (most recent call last):
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 500, in <module>
+    main()
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 279, in main
+    cfg.merge_from_file(args.cfg)
+  File "/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/yacs/config.py", line 211, in merge_from_file
+    with open(cfg_filename, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'configs/split/split_by_matfold/alignn_prop/structureid.yaml'
+Done

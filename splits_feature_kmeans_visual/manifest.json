@@ -1,0 +1,11 @@
+{
+  "method": "kmeans_manual_trimmed",
+  "n_clusters": 8,
+  "ood_cluster": 4,
+  "trim_percent_feature_space": 95,
+  "random_state": 42,
+  "sizes": {
+    "ood": 66,
+    "id": 1639
+  }
+}

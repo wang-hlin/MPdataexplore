@@ -1,0 +1,422 @@
+\begin{table}[t]
+\centering
+\caption{Performance of different models on the validation and test sets, reported as mean $\pm$ standard deviation (\textbf{best in bold}, \underline{second best} in underline). Higher values indicate better performance ($\uparrow$), otherwise ($\downarrow$).}
+\scalebox{1}{
+\setlength{\tabcolsep}{1.0mm}{
+\begin{tabular}{l|ccc|ccc}
+\toprule
+\multirow{2}{*}[-0.4ex]{Model} & \multicolumn{3}{c|}{Validation set} & \multicolumn{3}{c}{Test set} \\
+& MAE(eV) $\downarrow$ & MRAE $\downarrow$ & ${R^2}$ $\uparrow$ & MAE(eV) $\downarrow$ & MRAE $\downarrow$ & ${R^2}$ $\uparrow$ \\
+\midrule\midrule
+
+\multicolumn{7}{l}{\textit{OOD evaluation}} \\ \midrule
+alignn_prop & $\text{0.538}_\text{(0.046)}$ & \textbf{$\text{0.280}_\text{(0.027)}$} & $\text{0.462}_\text{(0.106)}$ & $\text{0.737}_\text{(0.041)}$ & $\text{0.363}_\text{(0.029)}$ & $\text{-0.185}_\text{(0.140)}$ \\
+alignn_z & $\text{0.541}_\text{(0.038)}$ & \underline{$\text{0.280}_\text{(0.024)}$} & $\text{0.462}_\text{(0.073)}$ & \textbf{$\text{0.620}_\text{(0.022)}$} & \textbf{$\text{0.302}_\text{(0.013)}$} & \textbf{$\text{0.128}_\text{(0.060)}$} \\
+cartnet & $\text{0.655}_\text{(0.196)}$ & $\text{0.336}_\text{(0.060)}$ & $\text{-3.853}_\text{(13.270)}$ & $\text{0.680}_\text{(0.026)}$ & \underline{$\text{0.334}_\text{(0.011)}$} & $\text{-0.041}_\text{(0.082)}$ \\
+cartnet_prop & $\text{0.594}_\text{(0.049)}$ & $\text{0.310}_\text{(0.038)}$ & $\text{0.204}_\text{(0.498)}$ & \underline{$\text{0.644}_\text{(0.009)}$} & $\text{0.338}_\text{(0.012)}$ & $\text{-0.020}_\text{(0.035)}$ \\
+cgcnn & $\text{0.587}_\text{(0.040)}$ & $\text{0.317}_\text{(0.038)}$ & $\text{0.306}_\text{(0.234)}$ & $\text{0.659}_\text{(0.023)}$ & $\text{0.336}_\text{(0.011)}$ & \underline{$\text{0.020}_\text{(0.041)}$} \\
+chgnet & $\text{0.630}_\text{(0.025)}$ & $\text{0.339}_\text{(0.031)}$ & $\text{0.361}_\text{(0.056)}$ & $\text{0.822}_\text{(0.061)}$ & $\text{0.387}_\text{(0.020)}$ & $\text{-0.472}_\text{(0.203)}$ \\
+chgnet_prop & $\text{0.580}_\text{(0.013)}$ & $\text{0.311}_\text{(0.034)}$ & $\text{0.398}_\text{(0.052)}$ & $\text{0.697}_\text{(0.029)}$ & $\text{0.366}_\text{(0.011)}$ & $\text{-0.046}_\text{(0.088)}$ \\
+leftnet_prop & $\text{0.586}_\text{(0.027)}$ & $\text{0.311}_\text{(0.027)}$ & $\text{0.409}_\text{(0.059)}$ & $\text{0.741}_\text{(0.028)}$ & $\text{0.369}_\text{(0.012)}$ & $\text{-0.146}_\text{(0.110)}$ \\
+leftnet_z & $\text{0.598}_\text{(0.022)}$ & $\text{0.326}_\text{(0.029)}$ & $\text{0.396}_\text{(0.044)}$ & $\text{0.831}_\text{(0.049)}$ & $\text{0.461}_\text{(0.023)}$ & $\text{-0.323}_\text{(0.203)}$ \\
+linear_regression & $\text{4.464}_\text{(12.090)}$ & $\text{2.365}_\text{(6.358)}$ & $\text{-21056.945}_\text{(66589.031)}$ & $\text{6111535.184}_\text{(19326368.096)}$ & $\text{1358119.230}_\text{(4294748.469)}$ & $\text{-88815121441602160.000}_\text{(280858074419920192.000)}$ \\
+random_forest & \underline{$\text{0.531}_\text{(0.022)}$} & $\text{0.293}_\text{(0.032)}$ & \textbf{$\text{0.529}_\text{(0.049)}$} & $\text{0.721}_\text{(0.013)}$ & $\text{0.359}_\text{(0.007)}$ & $\text{-0.049}_\text{(0.039)}$ \\
+svm & \textbf{$\text{0.529}_\text{(0.028)}$} & $\text{0.287}_\text{(0.026)}$ & \underline{$\text{0.500}_\text{(0.072)}$} & $\text{0.790}_\text{(0.038)}$ & $\text{0.424}_\text{(0.032)}$ & $\text{-0.241}_\text{(0.102)}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Antimonides category}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+svm & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Arsenides category}} \\ \midrule
+alignn_prop & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & $\text{NaN}$ \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+svm & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Carbides category}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+svm & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Chalcogenides category}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+svm & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Halides category}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ \\
+chgnet_prop & \textbf{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & \textbf{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \textbf{$\text{NaN}$} \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+svm & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Hydrides category}} \\ \midrule
+alignn_prop & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+alignn_z & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+svm & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Nitrides category}} \\ \midrule
+alignn_prop & $\text{NaN}$ & \textbf{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \textbf{$\text{NaN}$} & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+svm & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Oxides category}} \\ \midrule
+alignn_prop & \textbf{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \textbf{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & \textbf{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \textbf{$\text{NaN}$} \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+svm & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Phosphides category}} \\ \midrule
+alignn_prop & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+linear_regression & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+svm & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Silicides category}} \\ \midrule
+alignn_prop & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+svm & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Antimonides category_no_pretrain}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & \textbf{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \textbf{$\text{NaN}$} & $\text{NaN}$ \\
+cartnet_prop & \textbf{$\text{NaN}$} & $\text{NaN}$ & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ & \textbf{$\text{NaN}$} \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Arsenides category_no_pretrain}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet & \textbf{$\text{NaN}$} & $\text{NaN}$ & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ & \textbf{$\text{NaN}$} \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & $\text{NaN}$ & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Carbides category_no_pretrain}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+cartnet_prop & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Chalcogenides category_no_pretrain}} \\ \midrule
+alignn_prop & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ \\
+leftnet_prop & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Halides category_no_pretrain}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & \textbf{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \textbf{$\text{NaN}$} & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+chgnet_prop & \textbf{$\text{NaN}$} & $\text{NaN}$ & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ & \textbf{$\text{NaN}$} \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Hydrides category_no_pretrain}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+chgnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Nitrides category_no_pretrain}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+chgnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Oxides category_no_pretrain}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Phosphides category_no_pretrain}} \\ \midrule
+alignn_prop & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+alignn_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ & $\text{NaN}$ & \underline{$\text{NaN}$} & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & $\text{NaN}$ & \underline{$\text{NaN}$} \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{Silicides category_no_pretrain}} \\ \midrule
+alignn_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+alignn_z & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+cartnet & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cartnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+cgcnn & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+chgnet & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+chgnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_prop & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+leftnet_z & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{crystalsys crystalsys}} \\ \midrule
+alignn_prop & \textbf{$\text{0.601}_\text{(0.093)}$} & \textbf{$\text{0.306}_\text{(0.051)}$} & \textbf{$\text{0.376}_\text{(0.118)}$} & \textbf{$\text{0.601}_\text{(0.093)}$} & \textbf{$\text{0.306}_\text{(0.051)}$} & \textbf{$\text{0.376}_\text{(0.118)}$} \\
+alignn_z & $\text{0.649}_\text{(0.126)}$ & \underline{$\text{0.316}_\text{(0.059)}$} & $\text{0.276}_\text{(0.213)}$ & $\text{0.649}_\text{(0.126)}$ & \underline{$\text{0.316}_\text{(0.059)}$} & $\text{0.276}_\text{(0.213)}$ \\
+cartnet_prop & $\text{0.650}_\text{(0.093)}$ & $\text{0.323}_\text{(0.063)}$ & $\text{0.104}_\text{(0.295)}$ & $\text{0.650}_\text{(0.093)}$ & $\text{0.323}_\text{(0.063)}$ & $\text{0.055}_\text{(0.414)}$ \\
+cartnet_z & $\text{0.672}_\text{(0.090)}$ & $\text{0.343}_\text{(0.071)}$ & $\text{-0.082}_\text{(0.967)}$ & $\text{0.672}_\text{(0.090)}$ & $\text{0.343}_\text{(0.071)}$ & $\text{-0.104}_\text{(1.013)}$ \\
+cgcnn & \underline{$\text{0.619}_\text{(0.130)}$} & $\text{0.319}_\text{(0.084)}$ & $\text{0.208}_\text{(0.402)}$ & \underline{$\text{0.619}_\text{(0.130)}$} & $\text{0.319}_\text{(0.084)}$ & $\text{0.208}_\text{(0.402)}$ \\
+chgnet_prop & $\text{0.752}_\text{(0.093)}$ & $\text{0.395}_\text{(0.069)}$ & $\text{0.091}_\text{(0.206)}$ & $\text{0.752}_\text{(0.093)}$ & $\text{0.395}_\text{(0.069)}$ & $\text{0.091}_\text{(0.206)}$ \\
+chgnet_z & $\text{0.662}_\text{(0.128)}$ & $\text{0.357}_\text{(0.089)}$ & $\text{0.258}_\text{(0.169)}$ & $\text{0.662}_\text{(0.128)}$ & $\text{0.357}_\text{(0.089)}$ & $\text{0.258}_\text{(0.169)}$ \\
+leftnet_prop & $\text{0.644}_\text{(0.131)}$ & $\text{0.330}_\text{(0.067)}$ & $\text{0.293}_\text{(0.209)}$ & $\text{0.644}_\text{(0.131)}$ & $\text{0.330}_\text{(0.067)}$ & $\text{0.293}_\text{(0.209)}$ \\
+leftnet_z & $\text{0.654}_\text{(0.091)}$ & $\text{0.350}_\text{(0.049)}$ & \underline{$\text{0.313}_\text{(0.171)}$} & $\text{0.654}_\text{(0.091)}$ & $\text{0.350}_\text{(0.049)}$ & \underline{$\text{0.313}_\text{(0.171)}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{mf.crystalsys.k0_outer crystalsys}} \\ \midrule
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+svm & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{mf.crystalsys.k1_outer crystalsys}} \\ \midrule
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+svm & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{mf.crystalsys.k2_outer crystalsys}} \\ \midrule
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+svm & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{mf.crystalsys.k3_outer crystalsys}} \\ \midrule
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+svm & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{mf.crystalsys.k4_outer crystalsys}} \\ \midrule
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+svm & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{mf.crystalsys.k5_outer crystalsys}} \\ \midrule
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+svm & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{mf.crystalsys.k6_outer crystalsys}} \\ \midrule
+linear_regression & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ & $\text{NaN}$ \\
+random_forest & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} \\
+svm & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} & \underline{$\text{NaN}$} & \textbf{$\text{NaN}$} & \underline{$\text{NaN}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{finetune10}} \\ \midrule
+alignn_prop & \textbf{$\text{0.641}_\text{(0.129)}$} & \textbf{$\text{0.308}_\text{(0.057)}$} & \underline{$\text{0.061}_\text{(0.671)}$} & \underline{$\text{0.747}_\text{(0.196)}$} & $\text{0.364}_\text{(0.115)}$ & $\text{-3.031}_\text{(8.924)}$ \\
+alignn_z & $\text{0.726}_\text{(0.158)}$ & $\text{0.377}_\text{(0.114)}$ & $\text{-0.002}_\text{(0.521)}$ & $\text{0.897}_\text{(0.115)}$ & $\text{0.441}_\text{(0.087)}$ & $\text{-0.562}_\text{(0.419)}$ \\
+cartnet & $\text{0.690}_\text{(0.128)}$ & \underline{$\text{0.353}_\text{(0.099)}$} & $\text{0.033}_\text{(0.616)}$ & $\text{0.763}_\text{(0.055)}$ & \underline{$\text{0.339}_\text{(0.020)}$} & \underline{$\text{-0.227}_\text{(0.252)}$} \\
+cgcnn & $\text{0.698}_\text{(0.164)}$ & $\text{0.360}_\text{(0.098)}$ & $\text{0.042}_\text{(0.337)}$ & \textbf{$\text{0.668}_\text{(0.019)}$} & \textbf{$\text{0.315}_\text{(0.015)}$} & \textbf{$\text{0.149}_\text{(0.073)}$} \\
+chgnet & $\text{0.764}_\text{(0.228)}$ & $\text{0.383}_\text{(0.176)}$ & $\text{-0.170}_\text{(0.451)}$ & $\text{0.856}_\text{(0.131)}$ & $\text{0.405}_\text{(0.024)}$ & $\text{-0.307}_\text{(0.327)}$ \\
+leftnet_z & \underline{$\text{0.661}_\text{(0.141)}$} & $\text{0.354}_\text{(0.101)}$ & \textbf{$\text{0.099}_\text{(0.440)}$} & $\text{0.902}_\text{(0.119)}$ & $\text{0.430}_\text{(0.053)}$ & $\text{-0.516}_\text{(0.403)}$ \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{finetune100}} \\ \midrule
+alignn_prop & \textbf{$\text{0.532}_\text{(0.057)}$} & \textbf{$\text{0.272}_\text{(0.035)}$} & \textbf{$\text{0.484}_\text{(0.086)}$} & \underline{$\text{0.577}_\text{(0.067)}$} & $\text{0.295}_\text{(0.056)}$ & $\text{-0.416}_\text{(2.186)}$ \\
+alignn_z & \underline{$\text{0.543}_\text{(0.077)}$} & \underline{$\text{0.277}_\text{(0.044)}$} & \underline{$\text{0.476}_\text{(0.116)}$} & $\text{0.601}_\text{(0.030)}$ & $\text{0.296}_\text{(0.011)}$ & $\text{0.235}_\text{(0.081)}$ \\
+cartnet & $\text{0.613}_\text{(0.057)}$ & $\text{0.323}_\text{(0.033)}$ & $\text{0.264}_\text{(0.234)}$ & $\text{0.606}_\text{(0.042)}$ & $\text{0.306}_\text{(0.009)}$ & $\text{0.273}_\text{(0.062)}$ \\
+cartnet_prop & $\text{0.607}_\text{(0.079)}$ & $\text{0.314}_\text{(0.040)}$ & $\text{0.154}_\text{(0.506)}$ & $\text{0.601}_\text{(0.019)}$ & \underline{$\text{0.289}_\text{(0.007)}$} & $\text{0.147}_\text{(0.222)}$ \\
+cgcnn & $\text{0.621}_\text{(0.070)}$ & $\text{0.322}_\text{(0.050)}$ & $\text{0.227}_\text{(0.286)}$ & $\text{0.603}_\text{(0.038)}$ & $\text{0.295}_\text{(0.014)}$ & $\text{0.235}_\text{(0.068)}$ \\
+chgnet_prop & $\text{0.587}_\text{(0.045)}$ & $\text{0.314}_\text{(0.036)}$ & $\text{0.380}_\text{(0.094)}$ & $\text{0.608}_\text{(0.010)}$ & $\text{0.312}_\text{(0.005)}$ & $\text{0.231}_\text{(0.057)}$ \\
+chgnet_z & $\text{0.714}_\text{(0.076)}$ & $\text{0.378}_\text{(0.047)}$ & $\text{0.145}_\text{(0.142)}$ & $\text{0.723}_\text{(0.022)}$ & $\text{0.368}_\text{(0.010)}$ & $\text{0.014}_\text{(0.081)}$ \\
+leftnet_prop & $\text{0.597}_\text{(0.064)}$ & $\text{0.314}_\text{(0.034)}$ & $\text{0.398}_\text{(0.105)}$ & \textbf{$\text{0.574}_\text{(0.028)}$} & \textbf{$\text{0.287}_\text{(0.008)}$} & \textbf{$\text{0.318}_\text{(0.103)}$} \\
+leftnet_z & $\text{0.625}_\text{(0.054)}$ & $\text{0.339}_\text{(0.051)}$ & $\text{0.355}_\text{(0.084)}$ & $\text{0.608}_\text{(0.014)}$ & $\text{0.313}_\text{(0.008)}$ & \underline{$\text{0.298}_\text{(0.029)}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{finetune25}} \\ \midrule
+alignn_prop & \textbf{$\text{0.609}_\text{(0.125)}$} & \textbf{$\text{0.310}_\text{(0.092)}$} & \underline{$\text{0.288}_\text{(0.150)}$} & \underline{$\text{0.655}_\text{(0.112)}$} & \underline{$\text{0.330}_\text{(0.060)}$} & $\text{-0.730}_\text{(1.868)}$ \\
+alignn_z & $\text{0.691}_\text{(0.142)}$ & $\text{0.357}_\text{(0.115)}$ & $\text{0.081}_\text{(0.260)}$ & $\text{0.718}_\text{(0.060)}$ & $\text{0.353}_\text{(0.024)}$ & $\text{0.057}_\text{(0.192)}$ \\
+cartnet_z & $\text{0.709}_\text{(0.073)}$ & $\text{0.362}_\text{(0.103)}$ & $\text{0.218}_\text{(0.130)}$ & $\text{0.725}_\text{(0.088)}$ & $\text{0.332}_\text{(0.027)}$ & $\text{-0.031}_\text{(0.181)}$ \\
+cgcnn & \underline{$\text{0.640}_\text{(0.109)}$} & \underline{$\text{0.336}_\text{(0.085)}$} & \textbf{$\text{0.344}_\text{(0.242)}$} & \textbf{$\text{0.652}_\text{(0.039)}$} & \textbf{$\text{0.313}_\text{(0.011)}$} & \underline{$\text{0.153}_\text{(0.070)}$} \\
+chgnet & $\text{0.701}_\text{(0.147)}$ & $\text{0.385}_\text{(0.133)}$ & $\text{0.011}_\text{(0.385)}$ & $\text{0.726}_\text{(0.042)}$ & $\text{0.364}_\text{(0.009)}$ & $\text{-0.011}_\text{(0.100)}$ \\
+leftnet_z & $\text{0.670}_\text{(0.121)}$ & $\text{0.377}_\text{(0.120)}$ & $\text{0.205}_\text{(0.141)}$ & $\text{0.674}_\text{(0.049)}$ & $\text{0.333}_\text{(0.013)}$ & \textbf{$\text{0.193}_\text{(0.127)}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{finetune50}} \\ \midrule
+alignn_prop & \textbf{$\text{0.569}_\text{(0.098)}$} & \textbf{$\text{0.276}_\text{(0.033)}$} & \textbf{$\text{0.345}_\text{(0.298)}$} & $\text{0.655}_\text{(0.099)}$ & $\text{0.343}_\text{(0.074)}$ & $\text{-1.789}_\text{(4.176)}$ \\
+alignn_z & $\text{0.655}_\text{(0.042)}$ & $\text{0.325}_\text{(0.042)}$ & $\text{0.251}_\text{(0.163)}$ & $\text{0.689}_\text{(0.051)}$ & $\text{0.334}_\text{(0.014)}$ & $\text{0.121}_\text{(0.112)}$ \\
+cartnet & \underline{$\text{0.635}_\text{(0.049)}$} & $\text{0.318}_\text{(0.042)}$ & $\text{0.261}_\text{(0.096)}$ & \underline{$\text{0.630}_\text{(0.070)}$} & \textbf{$\text{0.309}_\text{(0.017)}$} & \underline{$\text{0.241}_\text{(0.113)}$} \\
+cgcnn & $\text{0.639}_\text{(0.075)}$ & \underline{$\text{0.312}_\text{(0.043)}$} & $\text{0.202}_\text{(0.224)}$ & $\text{0.645}_\text{(0.026)}$ & \underline{$\text{0.315}_\text{(0.013)}$} & $\text{0.159}_\text{(0.061)}$ \\
+chgnet_z & $\text{0.653}_\text{(0.065)}$ & $\text{0.343}_\text{(0.061)}$ & $\text{0.202}_\text{(0.161)}$ & $\text{0.676}_\text{(0.013)}$ & $\text{0.349}_\text{(0.007)}$ & $\text{0.114}_\text{(0.033)}$ \\
+leftnet_z & $\text{0.646}_\text{(0.041)}$ & $\text{0.334}_\text{(0.052)}$ & \underline{$\text{0.276}_\text{(0.140)}$} & \textbf{$\text{0.626}_\text{(0.022)}$} & $\text{0.316}_\text{(0.013)}$ & \textbf{$\text{0.267}_\text{(0.038)}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{ood_no_pretrain}} \\ \midrule
+alignn_prop & $\text{0.587}_\text{(0.047)}$ & $\text{0.292}_\text{(0.016)}$ & $\text{0.412}_\text{(0.101)}$ & $\text{0.800}_\text{(0.053)}$ & $\text{0.431}_\text{(0.042)}$ & $\text{-0.374}_\text{(0.168)}$ \\
+alignn_z & $\text{0.590}_\text{(0.037)}$ & $\text{0.293}_\text{(0.019)}$ & $\text{0.403}_\text{(0.086)}$ & $\text{0.794}_\text{(0.070)}$ & $\text{0.406}_\text{(0.043)}$ & $\text{-0.350}_\text{(0.230)}$ \\
+cartnet & $\text{0.654}_\text{(0.061)}$ & $\text{0.320}_\text{(0.033)}$ & $\text{0.193}_\text{(0.341)}$ & \underline{$\text{0.787}_\text{(0.028)}$} & $\text{0.379}_\text{(0.028)}$ & $\text{-0.270}_\text{(0.063)}$ \\
+cartnet_prop & $\text{0.670}_\text{(0.138)}$ & $\text{0.314}_\text{(0.040)}$ & $\text{0.123}_\text{(0.520)}$ & $\text{0.789}_\text{(0.082)}$ & \underline{$\text{0.373}_\text{(0.027)}$} & $\text{-0.310}_\text{(0.272)}$ \\
+cgcnn & $\text{0.576}_\text{(0.041)}$ & \underline{$\text{0.290}_\text{(0.025)}$} & $\text{0.406}_\text{(0.095)}$ & $\text{1.079}_\text{(0.366)}$ & $\text{0.571}_\text{(0.206)}$ & $\text{-2.128}_\text{(3.228)}$ \\
+chgnet & $\text{0.590}_\text{(0.030)}$ & $\text{0.310}_\text{(0.025)}$ & $\text{0.383}_\text{(0.093)}$ & $\text{0.848}_\text{(0.071)}$ & $\text{0.449}_\text{(0.046)}$ & $\text{-0.538}_\text{(0.280)}$ \\
+chgnet_prop & $\text{0.600}_\text{(0.041)}$ & $\text{0.302}_\text{(0.023)}$ & $\text{0.373}_\text{(0.112)}$ & $\text{0.902}_\text{(0.133)}$ & $\text{0.494}_\text{(0.087)}$ & $\text{-0.851}_\text{(0.669)}$ \\
+leftnet_prop & $\text{0.591}_\text{(0.048)}$ & $\text{0.307}_\text{(0.029)}$ & $\text{0.433}_\text{(0.098)}$ & $\text{0.824}_\text{(0.064)}$ & $\text{0.425}_\text{(0.040)}$ & $\text{-0.310}_\text{(0.233)}$ \\
+leftnet_z & $\text{0.599}_\text{(0.032)}$ & $\text{0.320}_\text{(0.032)}$ & $\text{0.400}_\text{(0.097)}$ & $\text{0.812}_\text{(0.057)}$ & $\text{0.427}_\text{(0.038)}$ & $\text{-0.277}_\text{(0.177)}$ \\
+linear_regression & $\text{4.474}_\text{(12.112)}$ & $\text{2.372}_\text{(6.368)}$ & $\text{-21137.305}_\text{(66843.090)}$ & $\text{6123181.764}_\text{(19363197.838)}$ & $\text{1360707.358}_\text{(4302932.857)}$ & $\text{-89153949148118224.000}_\text{(281929541706881952.000)}$ \\
+random_forest & \underline{$\text{0.531}_\text{(0.022)}$} & $\text{0.293}_\text{(0.032)}$ & \textbf{$\text{0.529}_\text{(0.049)}$} & \textbf{$\text{0.721}_\text{(0.013)}$} & \textbf{$\text{0.358}_\text{(0.006)}$} & \textbf{$\text{-0.047}_\text{(0.036)}$} \\
+svm & \textbf{$\text{0.528}_\text{(0.028)}$} & \textbf{$\text{0.287}_\text{(0.026)}$} & \underline{$\text{0.501}_\text{(0.072)}$} & $\text{0.792}_\text{(0.038)}$ & $\text{0.425}_\text{(0.032)}$ & \underline{$\text{-0.245}_\text{(0.102)}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{train_from_scratch}} \\ \midrule
+alignn & $\text{0.607}_\text{(0.076)}$ & $\text{0.307}_\text{(0.049)}$ & $\text{0.388}_\text{(0.110)}$ & $\text{0.641}_\text{(0.028)}$ & $\text{0.303}_\text{(0.018)}$ & $\text{0.232}_\text{(0.070)}$ \\
+alignn_prop & $\text{0.594}_\text{(0.072)}$ & $\text{0.299}_\text{(0.046)}$ & $\text{0.403}_\text{(0.107)}$ & $\text{0.599}_\text{(0.033)}$ & $\text{0.282}_\text{(0.005)}$ & $\text{0.321}_\text{(0.059)}$ \\
+cartnet & $\text{0.660}_\text{(0.092)}$ & $\text{0.322}_\text{(0.048)}$ & $\text{0.214}_\text{(0.221)}$ & $\text{0.738}_\text{(0.048)}$ & $\text{0.337}_\text{(0.015)}$ & $\text{-0.342}_\text{(1.030)}$ \\
+cartnet_prop & $\text{0.655}_\text{(0.109)}$ & $\text{0.315}_\text{(0.057)}$ & $\text{0.054}_\text{(0.656)}$ & $\text{0.703}_\text{(0.067)}$ & $\text{0.312}_\text{(0.023)}$ & $\text{-0.056}_\text{(0.434)}$ \\
+cgcnn & $\text{0.566}_\text{(0.044)}$ & \textbf{$\text{0.277}_\text{(0.030)}$} & $\text{0.425}_\text{(0.092)}$ & $\text{0.576}_\text{(0.019)}$ & \underline{$\text{0.271}_\text{(0.017)}$} & $\text{0.313}_\text{(0.051)}$ \\
+chgnet & $\text{0.624}_\text{(0.050)}$ & $\text{0.332}_\text{(0.043)}$ & $\text{0.323}_\text{(0.115)}$ & $\text{0.616}_\text{(0.028)}$ & $\text{0.311}_\text{(0.011)}$ & $\text{0.263}_\text{(0.069)}$ \\
+chgnet_prop & $\text{0.618}_\text{(0.036)}$ & $\text{0.318}_\text{(0.042)}$ & $\text{0.354}_\text{(0.052)}$ & $\text{0.639}_\text{(0.033)}$ & $\text{0.308}_\text{(0.013)}$ & $\text{0.212}_\text{(0.095)}$ \\
+leftnet_prop & $\text{0.600}_\text{(0.057)}$ & $\text{0.320}_\text{(0.041)}$ & $\text{0.410}_\text{(0.076)}$ & $\text{0.584}_\text{(0.040)}$ & $\text{0.296}_\text{(0.015)}$ & $\text{0.385}_\text{(0.071)}$ \\
+leftnet_z & $\text{0.615}_\text{(0.050)}$ & $\text{0.329}_\text{(0.045)}$ & $\text{0.396}_\text{(0.077)}$ & $\text{0.599}_\text{(0.020)}$ & $\text{0.303}_\text{(0.006)}$ & $\text{0.360}_\text{(0.029)}$ \\
+linear_regression & $\text{0.650}_\text{(0.055)}$ & $\text{0.356}_\text{(0.049)}$ & $\text{0.357}_\text{(0.067)}$ & $\text{0.637}_\text{(0.014)}$ & $\text{0.332}_\text{(0.005)}$ & $\text{0.306}_\text{(0.008)}$ \\
+random_forest & \textbf{$\text{0.541}_\text{(0.047)}$} & $\text{0.296}_\text{(0.037)}$ & \textbf{$\text{0.510}_\text{(0.054)}$} & \underline{$\text{0.535}_\text{(0.007)}$} & $\text{0.284}_\text{(0.005)}$ & \underline{$\text{0.453}_\text{(0.016)}$} \\
+svm & \underline{$\text{0.541}_\text{(0.062)}$} & \underline{$\text{0.292}_\text{(0.049)}$} & \underline{$\text{0.480}_\text{(0.097)}$} & \textbf{$\text{0.506}_\text{(0.007)}$} & \textbf{$\text{0.259}_\text{(0.005)}$} & \textbf{$\text{0.501}_\text{(0.013)}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{train_from_scratch_10}} \\ \midrule
+alignn_prop & $\text{0.703}_\text{(0.181)}$ & $\text{0.342}_\text{(0.080)}$ & $\text{0.121}_\text{(0.330)}$ & $\text{0.874}_\text{(0.157)}$ & $\text{0.399}_\text{(0.040)}$ & $\text{-0.347}_\text{(0.449)}$ \\
+alignn_z & $\text{0.722}_\text{(0.121)}$ & $\text{0.370}_\text{(0.081)}$ & $\text{0.084}_\text{(0.314)}$ & $\text{0.908}_\text{(0.078)}$ & $\text{0.415}_\text{(0.024)}$ & $\text{-0.496}_\text{(0.265)}$ \\
+cartnet_z & $\text{0.757}_\text{(0.283)}$ & \underline{$\text{0.340}_\text{(0.085)}$} & $\text{-0.025}_\text{(0.482)}$ & $\text{1.123}_\text{(0.212)}$ & $\text{0.450}_\text{(0.052)}$ & $\text{-5.402}_\text{(6.408)}$ \\
+cgcnn & \underline{$\text{0.674}_\text{(0.118)}$} & \textbf{$\text{0.331}_\text{(0.105)}$} & \underline{$\text{0.136}_\text{(0.317)}$} & $\text{0.801}_\text{(0.089)}$ & $\text{0.362}_\text{(0.024)}$ & $\text{-0.174}_\text{(0.236)}$ \\
+chgnet_z & $\text{0.862}_\text{(0.292)}$ & $\text{0.389}_\text{(0.108)}$ & $\text{-0.206}_\text{(0.398)}$ & $\text{0.966}_\text{(0.262)}$ & $\text{0.404}_\text{(0.049)}$ & $\text{-0.645}_\text{(0.849)}$ \\
+leftnet_z & $\text{0.681}_\text{(0.156)}$ & $\text{0.353}_\text{(0.095)}$ & $\text{0.057}_\text{(0.472)}$ & $\text{0.915}_\text{(0.111)}$ & $\text{0.422}_\text{(0.050)}$ & $\text{-0.519}_\text{(0.378)}$ \\
+linear_regression & $\text{18.790}_\text{(56.589)}$ & $\text{26.928}_\text{(83.750)}$ & $\text{-42409.586}_\text{(134108.324)}$ & $\text{2203.364}_\text{(6964.513)}$ & $\text{636.123}_\text{(2010.024)}$ & $\text{-6037465054.279}_\text{(19092140859.516)}$ \\
+random_forest & $\text{0.679}_\text{(0.132)}$ & $\text{0.395}_\text{(0.124)}$ & $\text{0.136}_\text{(0.516)}$ & \underline{$\text{0.698}_\text{(0.009)}$} & \textbf{$\text{0.336}_\text{(0.006)}$} & \underline{$\text{0.112}_\text{(0.033)}$} \\
+svm & \textbf{$\text{0.631}_\text{(0.084)}$} & $\text{0.348}_\text{(0.089)}$ & \textbf{$\text{0.152}_\text{(0.597)}$} & \textbf{$\text{0.693}_\text{(0.020)}$} & \underline{$\text{0.339}_\text{(0.014)}$} & \textbf{$\text{0.122}_\text{(0.047)}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{train_from_scratch_25}} \\ \midrule
+alignn_prop & $\text{0.688}_\text{(0.168)}$ & $\text{0.332}_\text{(0.083)}$ & $\text{0.233}_\text{(0.262)}$ & $\text{0.780}_\text{(0.151)}$ & $\text{0.362}_\text{(0.047)}$ & $\text{-0.049}_\text{(0.363)}$ \\
+alignn_z & $\text{0.649}_\text{(0.118)}$ & \underline{$\text{0.332}_\text{(0.101)}$} & $\text{0.325}_\text{(0.171)}$ & $\text{0.752}_\text{(0.082)}$ & $\text{0.364}_\text{(0.024)}$ & $\text{-0.002}_\text{(0.252)}$ \\
+cartnet_z & $\text{0.753}_\text{(0.130)}$ & $\text{0.361}_\text{(0.104)}$ & $\text{-0.034}_\text{(0.118)}$ & $\text{0.856}_\text{(0.115)}$ & $\text{0.374}_\text{(0.028)}$ & $\text{-1.870}_\text{(3.415)}$ \\
+cgcnn & \textbf{$\text{0.597}_\text{(0.126)}$} & \textbf{$\text{0.321}_\text{(0.123)}$} & \underline{$\text{0.375}_\text{(0.215)}$} & $\text{0.617}_\text{(0.040)}$ & \textbf{$\text{0.286}_\text{(0.014)}$} & $\text{0.283}_\text{(0.080)}$ \\
+chgnet_z & $\text{0.945}_\text{(0.289)}$ & $\text{0.402}_\text{(0.101)}$ & $\text{-0.392}_\text{(0.438)}$ & $\text{0.958}_\text{(0.258)}$ & $\text{0.396}_\text{(0.050)}$ & $\text{-0.630}_\text{(0.812)}$ \\
+leftnet_z & $\text{0.750}_\text{(0.273)}$ & $\text{0.376}_\text{(0.112)}$ & $\text{0.142}_\text{(0.391)}$ & $\text{0.819}_\text{(0.291)}$ & $\text{0.379}_\text{(0.092)}$ & $\text{-0.224}_\text{(0.903)}$ \\
+linear_regression & $\text{29.546}_\text{(90.191)}$ & $\text{15.635}_\text{(47.479)}$ & $\text{-276328.773}_\text{(873817.666)}$ & $\text{0.888}_\text{(0.141)}$ & $\text{0.477}_\text{(0.093)}$ & $\text{-1.204}_\text{(1.540)}$ \\
+random_forest & \underline{$\text{0.627}_\text{(0.120)}$} & $\text{0.379}_\text{(0.117)}$ & \textbf{$\text{0.382}_\text{(0.096)}$} & \underline{$\text{0.609}_\text{(0.010)}$} & $\text{0.311}_\text{(0.005)}$ & \underline{$\text{0.319}_\text{(0.018)}$} \\
+svm & $\text{0.636}_\text{(0.112)}$ & $\text{0.363}_\text{(0.100)}$ & $\text{0.306}_\text{(0.207)}$ & \textbf{$\text{0.596}_\text{(0.017)}$} & \underline{$\text{0.298}_\text{(0.008)}$} & \textbf{$\text{0.365}_\text{(0.037)}$} \\
+\midrule\midrule
+\multicolumn{7}{l}{\textit{train_from_scratch_50}} \\ \midrule
+alignn_prop & $\text{0.638}_\text{(0.070)}$ & $\text{0.324}_\text{(0.045)}$ & $\text{0.284}_\text{(0.172)}$ & $\text{0.669}_\text{(0.060)}$ & $\text{0.336}_\text{(0.018)}$ & $\text{0.195}_\text{(0.121)}$ \\
+alignn_z & $\text{0.671}_\text{(0.089)}$ & $\text{0.324}_\text{(0.039)}$ & $\text{0.260}_\text{(0.162)}$ & $\text{0.719}_\text{(0.134)}$ & $\text{0.342}_\text{(0.036)}$ & $\text{0.076}_\text{(0.289)}$ \\
+cartnet & $\text{0.764}_\text{(0.092)}$ & $\text{0.350}_\text{(0.044)}$ & $\text{0.023}_\text{(0.231)}$ & $\text{0.803}_\text{(0.090)}$ & $\text{0.355}_\text{(0.016)}$ & $\text{-0.246}_\text{(0.288)}$ \\
+cgcnn & \underline{$\text{0.594}_\text{(0.066)}$} & \textbf{$\text{0.286}_\text{(0.037)}$} & $\text{0.352}_\text{(0.177)}$ & $\text{0.617}_\text{(0.025)}$ & \textbf{$\text{0.285}_\text{(0.016)}$} & $\text{0.282}_\text{(0.051)}$ \\
+chgnet_z & $\text{0.699}_\text{(0.116)}$ & $\text{0.348}_\text{(0.060)}$ & $\text{0.170}_\text{(0.275)}$ & $\text{0.687}_\text{(0.146)}$ & $\text{0.333}_\text{(0.030)}$ & $\text{0.109}_\text{(0.395)}$ \\
+leftnet_z & $\text{0.661}_\text{(0.045)}$ & $\text{0.342}_\text{(0.042)}$ & $\text{0.282}_\text{(0.117)}$ & $\text{0.656}_\text{(0.052)}$ & $\text{0.329}_\text{(0.020)}$ & $\text{0.229}_\text{(0.115)}$ \\
+linear_regression & $\text{0.676}_\text{(0.052)}$ & $\text{0.364}_\text{(0.048)}$ & $\text{0.293}_\text{(0.066)}$ & $\text{0.644}_\text{(0.004)}$ & $\text{0.331}_\text{(0.002)}$ & $\text{0.273}_\text{(0.013)}$ \\
+random_forest & \textbf{$\text{0.588}_\text{(0.044)}$} & \underline{$\text{0.317}_\text{(0.043)}$} & \textbf{$\text{0.430}_\text{(0.096)}$} & \underline{$\text{0.577}_\text{(0.007)}$} & $\text{0.304}_\text{(0.004)}$ & \underline{$\text{0.354}_\text{(0.016)}$} \\
+svm & $\text{0.601}_\text{(0.045)}$ & $\text{0.319}_\text{(0.039)}$ & \underline{$\text{0.364}_\text{(0.137)}$} & \textbf{$\text{0.552}_\text{(0.018)}$} & \underline{$\text{0.285}_\text{(0.009)}$} & \textbf{$\text{0.433}_\text{(0.032)}$} \\
+\midrule\midrule
+\bottomrule
+\end{tabular}}}
+\label{tab:cv_performance}
+\vspace{-15pt}
+\end{table}

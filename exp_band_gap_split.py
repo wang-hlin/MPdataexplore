@@ -64,29 +64,48 @@ base_config = {
         "VAL": "data/experiment_bg/test_data.json"      # Placeholder
     },
     "MODEL": {
-        "NAME": 'random_forest',
-        "PRETRAINED_MODEL_PATH": '_saved_models/leftnet/m1_full_lr0.01_encoding/best-mae-epoch=04-val_mae=0.43.ckpt',
-        "INIT_FILE": "master_files/encoding/atom_init.json",
+        "NAME": 'cartnet',
+        "PRETRAINED_MODEL_PATH": 'saved_models/cartnet/lr01/best-mae-epoch=185-val_mae=0.4422.ckpt',
+        "INIT_FILE": "cif_file/atom_init.json",
         "CIF_FOLDER": "cif_file"
     },
+
+
     "SOLVER": {
-        "LR": 0.001,
-        "TRAIN_RATIO": 0.9,
-        "VAL_RATIO": 0.1,
-        "TEST_RATIO": None,
+        "SEED": 42,
         "EPOCHS": 50,
-        "NUM_RUNS": 5
+        "LR": 0.001,
+        "BATCH_SIZE": 64,
+        "NUM_RUNS": 1,
+        "NUM_FOLDS": 5,
+        "RANDOMIZE": True,
+        "TASK": "regression",  # Choices: ['regression', 'classification']
+        "DISABLE_CUDA": False,
+        "WORKERS": 0,
+        "START_EPOCH": 0,
+        # "LR_MILESTONES": [50, 75],
+        "MOMENTUM": 0.9,
+        "WEIGHT_DECAY": 0.0,
+        "PRINT_FREQ": 10,
+        "RESUME": "",
+        "OPTIM": "SGD"  # Choices: ['SGD', 'Adam']
     },
-    # "LEFTNET": {
-    #     "ENCODING": "one-hot",
-    #     "LAYER_FREEZE": "none"
-    # },
+
+    "CARTNET": {
+        "DIM_IN": 256,
+        "DIM_RBF": 64,
+        "NUM_LAYERS": 4,
+        "INVARIANT": True,
+        "USE_ENVELOPE": True,
+        "ATOM_TYPES": True
+    },
+
     "LOGGING": {
         "LOG_DIR": "saved_models",  # Keeps the main directory
         "LOG_DIR_NAME": "leftnet/ds2_leftnet_encoding_embedding"  # Placeholder, to be updated per category
     },
     "OUTPUT": {
-        "DIR": "predictions/random_forest" # Placeholder
+        "DIR": "predictions/cartnet" # Placeholder
     }
 }
 
@@ -94,7 +113,7 @@ base_config = {
 categories = data['type'].unique()
 
 # Output directory for config files
-output_folder = "configs_by_category/filtered_data_random_forest"
+output_folder = "configs_by_category/filtered_data_cartnet"
 os.makedirs(output_folder, exist_ok=True)
 
 # Generate a YAML config file for each category
@@ -103,8 +122,8 @@ for category in categories:
     category_config = base_config.copy()
     category_config["DATASET"]["TRAIN"] = f"data/ablation_filtered_data/data_{category}/train_data.json"
     category_config["DATASET"]["VAL"] = f"data/ablation_filtered_data/data_{category}/test_data.json"
-    category_config["LOGGING"]["LOG_DIR_NAME"] = f"ablation_filtered_data/random_forest/{category}"
-    category_config["OUTPUT"]["DIR"] = f"predictions/random_forest/{category}"
+    category_config["LOGGING"]["LOG_DIR_NAME"] = f"ablation_filtered_data/cartnet/{category}"
+    category_config["OUTPUT"]["DIR"] = f"predictions/cartnet/{category}"
     
     # Generate file path
     config_file_path = os.path.join(output_folder, f"config_{category}.yaml")

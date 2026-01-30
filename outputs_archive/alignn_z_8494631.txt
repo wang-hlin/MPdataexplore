@@ -1,0 +1,11 @@
+Begin
+Traceback (most recent call last):
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 494, in <module>
+    main()
+  File "/users/ac1hw/projects/bandgap-benchmark/main.py", line 276, in main
+    cfg.merge_from_file(args.cfg)
+  File "/users/ac1hw/.conda/envs/pykale/lib/python3.11/site-packages/yacs/config.py", line 211, in merge_from_file
+    with open(cfg_filename, "r") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'configs/finetune/feature_ood/alignn_z.yaml'
+Done

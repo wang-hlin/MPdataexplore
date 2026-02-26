@@ -130,9 +130,16 @@ def deduce_prefix_info(prefix: str, fold_map):
         if len(parts) > 1:
             method_name = parts[1]
     else:
-        split_name = parts[0]
-        fold_token = split_name
-        fold_idx = fold_map.get(split_name)
+        token = parts[0]
+        # Support tokens like "mf.periodictablegroups.k0_outer"
+        # by normalizing them through parse_fold_token.
+        p_split, p_idx, p_token = parse_fold_token(token)
+        split_name = p_split if p_split is not None else token
+        fold_token = p_token if p_token is not None else token
+        if p_idx is not None:
+            fold_idx = p_idx
+        else:
+            fold_idx = fold_map.get(token)
         if len(parts) > 1:
             method_name = parts[1]
     return split_name, fold_idx, fold_token, method_name
